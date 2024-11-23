@@ -1,0 +1,453 @@
+138
+570
+571
+572
+573
+2s
+2d
+2p
+2s
+2d
+khat-ni-wa
+go-2p-IMP
+'Go!'
+2p
+INTRANSITIVE PARADIGM
+2s
+an-a
+yous-ERG
+kon
+I
+'Don't forget me!'
+di
+millet.beer
+The imperatives of the intransitive, transitive and reflexive paradigm
+are given below.
+CHAPTER ELEVEN
+dury-k"i-num-te
+drink-TEL-2p-3-IMP
+wo:-ni-na-k"oŋ
+enter-2p-NEG-IMP
+'Don'tP enter!'
+'DrinkP millet beer!'
+thoŋ-te
+t"on-na-te
+t"oŋ-ci-te
+tho:-s-na-te
+thoŋ-ni-te
+t"o:-ni-na-te
+mat-or-na-wə
+yur-a-wa
+yu-na-wa
+yur-a-ci-wa
+forget-1s.NPT-NEG-IMP
+yu-s-na-wa
+yu:-a-ni-wa
+yu-ni-nə-wə
+ban-k"on
+ban-na-kon
+'Comes up!'
+'Dos not come up!'
+'Comed up!'
+'Dod not come up!'
+'ComeP up!'
+'DoP not come up!'
+'Comes down!'
+'Dos not come down!'
+'Comed down!'
+'Dod not come down!'
+'ComeP down!'
+'DoP not come down!'
+'Comes!'
+'Dos not come!'
+2d
+2p
+TRANSITIVE PARADIGM
+2s 1s
+2d→ls
+2p→ls
+2→lde
+2→→lpe
+2s-3s
+2s→→→→3ns
+2d-3
+2p→3
+2s
+2d
+ban-ci-khon
+bai-s-na-kon
+ban-ni-kon
+ban-ni-na-kon
+2p
+pi:-o:-te
+pi-ŋa-na-te
+pi-o:-ci-te
+pi:-o:-ci-na-te
+pi:-o:-ni-te
+pi:-o:-ni-na-te
+pi:-a-ci-ka-te
+pi:-a-ci-ka-na-te
+pi:-i-ka-te
+pi:-i-ka-na-te
+pi:-te
+pi:-na-te
+pi-ci-te
+REFLEXIVE PARADIGM
+pi-ci-na-te
+pi:-a-cu-te
+MOOD
+pi:-a-cu-na-te
+pi:a-num-te
+pi-num-na-te
+no-nci-te
+no-nci-nə-te
+not-ci-te
+not-ci-na-te
+no-ni-ci-te
+no-ni-ci-na-te
+'Comed!'
+'Dod not come!'
+'Come!'
+'DoP not come!'
+'Gives it to me!'
+'Dos not give it to me!'
+'Gived it to me!'
+'Dod not give it to me!'
+'Give it to me!'
+'DoP not give it to me!'
+'Give it to usde!'
+'Do not give it to usde!
+'Give it to uspel
+'Do not give it to uspe!'
+'Gives it to him!'
+'Dos not give it to him!
+'Gives it to them!'
+'Dos not give it to them!'
+'Gived it to him/them!'
+139
+'Dod not give it to him/them!'
+'GiveP it to him/them!'
+'DoP not give it to him/them!'
+'Rests!'
+'Dos not rest!'
+'Restd!'
+'Do not rest!'
+'RestP!'
+'Do not rest!'
+Verb stems ending in /-u:/ [-uw] or /-m/ add the vowel /a/ before the
+imperative suffix. Moreover, the verb pima vi-4 [1: pik- 2: pi:- 3:
+pik-] 'to say' has an irregular imperative pika-wa 'say it!'.
+.........
+140
+574
+575
+576
+577
+578
+579
+The negated forms of the imperative are formed by addition of the
+imperative endings after the negation marker for imperatives <-nə>.
+580
+yura-te
+come.down-IMP
+581
+'Come down!'
+lam duma-te
+road
+walk-IMP
+'Walk!'
+CHAPTER ELEVEN
+k"on-na-te
+u-i
+look-NEG.NPT-IMP what-Q
+'Don't look, what are you looking at?'
+dumo bul-s-na-wa
+very
+run-d-NEG.NPT-IMP
+'Don'td walk so fast!'
+ge-ni-nə-wə
+laugh-2p-NEG.NPT-IMP
+'Don'tP laugh!'
+pat-na-te
+k"ap-na-wa
+hogorwa
+thon-the
+come.up-REP
+cry-NEG.NPT-IMP yours-mother later
+'Don't cry! Yours mother will come later, they say.'
+ban-ni-na-te
+am-ma
+ker-yan
+maro:
+touch-NEG.NPT-IMP hit-1s 2.NPT if.not
+'Don't touch it, otherwise I'll hit you!'
+khoŋŋ-a
+look-3P.NPT
+come-2p-NEG.NPT-IMP
+'Don't come!'
+582
+11.2 The optative
+The optative (OPT) is formed by addition of the optative suffix <-nu>
+to verb form in the preterite tense, or before the imperative suffix. The
+optative expresses the wish of the fulfilment of the situation denoted
+by the verb.
+583
+584
+585
+586
+tup-a-ci-nu
+meet-PT-d-OPT
+587
+'May wedi meet again!'
+tup-i-nu
+meet-1p.PT-OPT
+'May wepi meet again!'
+let-i-cai-nu
+live-1p.PT-CNT-OPT
+In example (585), the shaman asks the pain to leave the body of the
+person who has fallen ill.
+MOOD
+'May wepi keep on living!'
+k"an-nu-wa
+go-OPT-IMP
+'May [the pain] go away!'
+chu:-nu-te
+be-OPT-IMP
+'May it be so!'
+pui-ca-nu-wa
+boil-CNT-OPT-IMP
+141
+'May [the water] boil!'
+142
+11.3 The irrealis
+The irrealis <-wa> (IRR) may be added to an affirmative or negated
+verb in the preterite tense to express counterfactual or hypothetical
+situations. If the irrealis particle <-wa> precedes the conditional suffix
+<-do>, the irrealis particle <-wa> must also occur in the apodosis.
+588
+589
+590
+591
+592
+593
+khat-a-wa-do-n
+go-PT-IRR-CND-CTR be.good:PT-IRR
+'If, on the other hand, he had gone, it would have been
+good.'
+In sentence (590), the millet paste was cooked, but everybody wanted
+to have rice for dinner.
+ja ca-m-ka-wa
+rice
+CHAPTER ELEVEN
+ja
+cooked.rice
+eat-1p-3.PT-e-IRR
+'Wepe would have eaten rice [if the rice had not been
+burnt].'
+na-wa
+di
+boks-u-wa
+mam-mə-ya-wa
+cook-1s-3.PT-IRR
+'I would have cooked rice.'
+NEG.PT-do-1s.NEG.PT-IRR
+'I wouldn't have done it.'
+k'o:-m-cho:-mpa-wa
+pound-INF-DMT-PP-IRR
+‘It would have been pounded.'
+pi-ci-wa
+millet.beer give-3ns-IRR
+'They would have given him millet beer.'
+594
+595
+596
+597
+kon-a
+I-ERG
+min-a
+carry.by.hand-Is-3.PT-IRR-SUB
+think-PT
+'He thought that I would have carried it [by hand].'
+goŋ-u-wa-ka
+k"ai-um-wa-kə
+MOOD
+take.away-1p-3.PT-IRR-SUB
+'Wepi would have taken it away."
+man-khai-wa-do
+NEG.PT-go-IRR-CND be.good:PT-IRR
+'It would have been good if he hadn't gone away.'
+duŋ-a-cu-wa-yo
+drink-PT-d-3-IRR-Q
+na-wa
+'Would you have drunk it?'
+143
+Particles are monosyllabic morphemes that can be attached to all the
+different parts of speech and add a semantic nuance to a word or 
+sen-
+tence. The discourse particles below are frequent in everyday usage.
+598
+12.1 Question particles
+Of the three question particles <-ko>, <-yo> and <-?o>, the question
+particle <-yo> is the most used. Addition of this question particle
+converts the sentence into a yes-or-no question. Affirmation can 
+be
+expressed by e 'yes' and negation by ma 'no'. Besides using a 
+ques-
+tion particle, it is perhaps far more common to answer with a 
+finite
+affirmative or negated form.
+599
+600
+601
+CHAPTER TWELVE
+PARTICLES
+am-ton
+tuk-e-yo
+yours-head hurt-nls-Q
+'Does your head hurt?'
+an
+yous
+khalamba
+cold
+'Do you have a cold?'
+e
+hey
+mi:-e-yo
+cause-nls-Q
+bu-la
+pək-a-yo
+elder brother-VOC wake.up-PT-Q
+'Hey, elder brother, you have woken up?'
+et-ka-yo
+ja
+cooked.rice be.left.over-SUB-Q
+'Is there cooked rice left over?”
+PROGRAM DAN LANG
+146
+602
+603
+604
+605
+A typical question consists of one affirmative and one negated finite
+verb with the question particle added to both finite forms.
+606
+607
+t"ap-a-num-yo
+measure-PT-2p-3-Q
+608
+CHAPTER TWELVE
+'Did your measure it?'
+am-pa
+man-t'o:-yo
+yours-father NEG.PT-come.up-Q
+'Hasn't your father come?'
+tai-e-yo
+come-nls-Q
+'Will he come or not?'
+The question particle <-ko> differs from <-yo> and <-?o> in that the
+question particle <-ko> can only be added to verbs.
+tai-no-yo
+come-NEG.NPT-Q
+di
+ca
+nə-yo
+ca
+millet.beer taste
+be.good:PT-Q taste
+'Did the millet beer taste good or not?'
+ca
+taste
+nə-ko
+be.good:PT-Q
+'Did it taste good?'
+sil
+dance
+bai-ko
+dance-Q
+'Are you going to dance?"
+is-a-yo
+be.bad-PT-Q
+am-mi
+dun
+yours-GEN more
+'Was yours [sugarcane] sweeter than mine?'
+lem-a-ko
+be.sweet-PT-Q
+609
+610
+611
+612
+613
+614
+615
+lut-khi-ko
+swallow-TEL-Q
+616
+'Have you swallowed it?'
+samk¹e cai-cu-ko
+potato eat-d-3-Q
+The question particle <-?o> is an all-round question particle that can
+be added to any part of speech.
+duŋŋ-ə-no-?o
+'Do youd eat potatoes?'
+k"et-no-ko
+break-NEG.PT-Q
+PARTICLES
+'Won't it break?'
+drink-3P.NPT-NEG.NPT-Q
+'You won't drink it?'
+or-bu-?a
+ban-a-kə-?o
+my-elder.brother-VOC come-PT-SUB-Q
+'My elder brother, you have come?'
+tu:-cai-ci-?o
+sit-CNT-d-Q
+'Are youd [still] sitting there?"
+klim-20 khat-ci
+house-Q
+go-d
+'Are wed going home?"
+tuk-a-?o
+hurt-PT-Q
+'Did it hurt?”
+147
+148
+617
+618
+619
+lam-20
+road-Q
+620
+CHAPTER TWELVE
+dum-mi-yan
+walk-cause-1s-2.NPT
+'Shall I let you walk?'
+12.2 The topic particle <-kə>
+The topic particle <-ka> (TOP) may be attached to nouns, pronouns,
+adjectives and adverbs to topicalise the word the topic particle is at-
+tached to. Topicalising a word means making the word the theme of
+the sentence. Example (619) is asked to the youngest of five puppies,
+whose four elder brothers had been taken away by a jackal. In the sen-
+tence the four elder brothers are made the theme of the sentence: 'As
+for your elder brothers, who has taken them away?'
+am-bu-s-kə
+nka-?o
+sap-o!
+this.one-Q wash-1s.NPT
+'Shall I wash this one?'
+as-a-i
+yours-elder.brother-ns-TOP who-ERG-Q
+'Who has taken yours elder brothers away?'
+In sentence (620), someone has just entered a crowded house and is
+looking for a place to sit. The other people have already found a place
+to sit.
+ha:pi
+tur-o!
+where sit-1s.NPT
+'Where shall I sit.'
+khaiy-u
+take.away-3P.PT
+koŋ-ka
+I-TOP
+In examples (621) and (622), the topicalising suffix highlights the per-
+sonal pronoun to which the suffix <-kə> is attached.

@@ -1,0 +1,463 @@
+267
+268
+269
+270
+VERBAL AFFIXES
+271
+mikma-?a
+0:-muks
+smoke-ERG my-eye
+'My eyes hurt because of the smoke.'
+ŋkə
+duŋ
+this.one more
+5.2.15 The d-3 morpheme <-cu>
+basic morph:
+label:
+"This one is bigger.'
+<-cu>
+d-3
+The d-3 morpheme <-cu> (d-3) indicates the transitive relationship
+of a dual agent and a third person patient.
+k"et-cai-cu-ka
+buy-CNT-d-3-e
+dei-e
+be.big-nls
+tuk-e
+hurt-nls
+'Wede are buying it.'
+let-cu-ke
+nəwə
+come.on put.in-d-3-ASS
+'Come on, let's put it inside!'
+ciya dun-a-cu-ka-ka
+am-bon-lo
+yours-uncle-COM tea
+'Wede have been drinking tea with yours uncle.'
+<-num>
+2p→3
+5.2.16 The 2p 3 morpheme <-num>
+basic morph:
+label:
+75
+drink-PT-d-3-e-SUB
+76
+The second person plural agent morpheme <-num> (2p→3) indicates
+the transitive relationship of a second plural agent and a third person
+patient.
+272
+273
+274
+275
+nurma
+beer
+dur-m
+drink-INF
+'Do you like to drink beer?'
+276
+u-i
+what-Q
+CHAPTER FIVE
+məi-num
+do-2p-3
+'What are you doing?'
+seir-ne
+5.2.17 The dual morpheme <-ci>
+basic morph:
+label:
+mat-dit-a-num
+uncooked.rice-CTR finish-MOM-PT-2p→3
+'Have your finished the rice?'
+The dual morpheme <-ci ~ -s> (d) indicates dual actant number. This
+suffix has an allomorph <-s> in negative preterite first person dual ex-
+clusive form and some other paradigmatically conditioned forms.
+khim
+house
+<-ci>
+d
+man-yu-s-ka
+nət-num-yo
+like-2p-3-Q
+khat-ci-yo
+go-d-Q
+'Shall wedi go home?"
+NEG.PT-come.down-d-e
+'Wede didn't come down.'
+277
+278
+bu-?a
+279
+280
+lamdum-a-the
+walk-PT-REP
+elder.brother-ERG go-d
+5.2.18 The second person plural morpheme <-ni>
+basic morph:
+label:
+VERBAL AFFIXES
+di
+'Having said: 'Let's go, elder brother!', they walked
+again.'
+The second person plural morpheme <-ni> (2p) indicates a second
+person plural actant in intransitive forms and in 1-2p, 2p→1s and
+Ins/3-2p forms.
+khat-ci pik-a-na
+<-ni>
+2p
+desa
+tomorrow
+p"eri
+say-PT-PFG again
+dur-s
+millet.beer
+drink-SUP
+'KeepP going to drink millet beer!'
+waye waye
+silent silent
+'SitP silent!'
+tatek-ni
+arrive.at-2p
+'Tomorrow youP will arrive [there].'
+<-ci>
+3ns
+khat-ca-ni-wa
+go-CNT-2p-IMP
+tu:a-ni-wa
+sit-2p-IMP
+5.2.19 The third person non-singular morpheme <-ci>
+basic morph:
+label:
+77
+78
+The third person non-singular morpheme <-ci ~ -s> (3ns) indicates
+non-singular number of a third person actant. This morpheme has the
+allomorph <-s> in negative non-preterite 2s-3ns and (3-3)ns forms
+and when followed by the subordinate particle <-ka> or the reported
+speech particle <-te>.
+281
+282
+283
+yuks-ə-s-kə
+284
+285
+CHAPTER FIVE
+put.away-3P.NPT-3ns-SUB
+'Yous are putting them away."
+hui-dit-ci-kə
+burn-MOM-3ns-SUB
+"They burnt it.'
+mam-bat-ci
+NEG.PT-change-3ns
+5.2.20 The exclusive morpheme <-ka>
+basic morph:
+label:
+'They didn't change it.'
+The exclusive morpheme <-ka> (e) indicates exclusive actant except
+in 1-2 forms. The Kulung paradigm does not distinguish the various
+Ins→→2 forms from the corresponding 3→2 forms.
+tum-ka
+ja
+<-ka>
+pi:-um
+give-lp-3.PT MOM:1p-3.PT-e
+'Wede have given it to him.'
+cooked.rice
+cai-am-ka-kə
+eat-1p-3.NPT-e-SUB
+'Wede are eating cooked rice.'
+286
+287
+keika
+we
+288
+289
+silum
+funeral.rite
+5.2.21 The non-preterite negative morpheme <-no>
+basic morph:
+label:
+VERBAL AFFIXES
+'Wepe don't perform the funeral rite.'
+k"et-am-no
+The non-preterite negative morpheme <-no> (NEG.NPT) indicates neg-
+ation in the non-preterite tense.
+woŋ-no-kə
+məi-am-ka-no
+<-no>
+NEG.NPT
+do-1p-3.NPT-e-NEG.NPT
+buy-1p-3.NPT-NEG.NPT
+'Wepi don't buy it.'
+come.in-NEG.NPT-SUB
+dun-o:-no-i
+'He doesn't come in.'
+79
+drink-1s.NPT-NEG.NPT-EMO
+'I won't drink it.'
+80
+CHAPTER FIVE
+5.3 Overview of the verbal affixes
+The affixes of the intransitive and the transitive conjugation are given
+in the following two tables.
+NPT
+15 | 2-0:
+Σ-o:-no
+1di | E-ci
+|Σ-ci-no
+1de|Σ-ci-ka
+|Σ-ci-ka-no
+1pi | Σ-ya
+Σ-ya-no
+1pe|Σ-ya-ka
+|Σ-ya-ka-no
+2s|Σ-e
+3
+Σ-no
+2d | E-ci
+|Σ-ci-no
+2p |Σ-ni
+|Σ-ni-no
+PT
+Στο
+man-Σ-na
+Σ-a-ci
+man-Σ-ci
+Σ-a-ci-ka
+man-E-s-ka
+Σ
+man-Σ-i
+Σ-i-ka
+man-E-i-ka
+Στα
+man-Σ-na
+Σ-a-ci
+man-E-ci
+Σ-a-ni
+man-Σ-ni
+Σ-
+Σ-no
+Table 20: The Affixes of the Intransitive Conjugation
+Στα
+man-Σ
+1s
+1 di
+1de
+1pi
+1pe
+25
+2d
+20
+3s
+1s
+patient
+a
+g
+e
+n
+t
+Στο:
+Στο
+Σ-o:-ci
+Σ-o-ci
+Σ-o:-ni
+Σ-o-ni
+1di
+Στο:
+3ns | Στο
+E-ci
+Σ-a-ci
+1de
+|Σ-ci-ka
+Σ-a-ci-ka
+1pi
+Σ-να
+Σ-
+1pe
+Σ-ya-ka
+Σ-i-ka
+2s
+Σ-yan
+|Σ-na
+Σε
+Στα
+Νω
+Σ-e
+Στα
+E-e
+Νω
+Στα
+2d
+20
+3s
+Σ-yan-ci | Σ-yan-ni | Σ-ο:
+Σ-n-ci
+| Σ-ni
+Στι
+E-cu
+Σ-a-cu
+E-ci
+Σ-ni
+Σ-a-ci Σ-a-ni
+Σ-ci
+| Σ-a-ci
+E-ci
+Σ-a-ci
+Table 21: The Affixes of the Transitive Conjugation
+Σ-ni
+Σ-a-ni
+E-ni
+Σ-a-ni
+Σ-cu-ka
+Σ-a-cu-ka
+Σ-am
+Σ-um
+Σ-am-ka
+Σ-um-ka
+Σ
+Σκ
+Σ-cu
+Σ-a-cu
+Σ-num
+Σ-a-num
+Σ-
+Στ
+3ns
+Σ-o:-ci
+Σ-u-ci
+Σ-a-ci
+E-ci
+Σ-a-ci
+Σ-ci
+82
+5.4 Verbs 'to be'
+The verb tuma vi-2 [1: tu:- 2: tu-] ‘to be, sit' is used to express exis-
+tential (290-291), attributive (292-293) and locational (294) meaning.
+In existential meaning, the phrase can be interpreted as an equivalent
+of the English verb 'to have'. In such a construction, the possessor ap-
+pears in the genitive.
+290
+291
+292
+293
+294
+CHAPTER FIVE
+am-mi
+tu:-e-yo
+yours-fire be-n1s-Q
+'Do you have fire?'
+mis-mi
+person-GEN
+k'im duŋ пә-р
+house
+more
+'Some people have nicer houses."
+0:-sokowar omlo:p tur-e
+my-skin
+white
+be-nls
+'My skin is white.'
+am-riŋ
+пә-р
+yours-word be.good-AP
+be.good-AP
+'I like what you are saying.'
+ci:ma
+ok'i-k"im-mi
+small ourpe-house-GEN
+tui-e
+be-nls
+tur-e
+be-nls
+de-p
+sicho
+lais-pi
+front-LOC be.big-AP tree
+tui-e
+be-nls
+'In front of ourpe small house is a big tree."
+Constructions with copular meaning are made by the juxtaposition of
+two nouns.
+295
+296
+297
+298
+299
+300
+301
+koŋ
+I
+302
+m-pa
+his father
+'I am his father.'
+koŋ
+I
+misi
+human.being
+'I am a human being.'
+koŋ
+I
+kheb ma
+dog not
+'I am not a dog.'
+VERBAL AFFIXES
+The verb chuma vi-2 [1: c'u:- 2: c¹u-] ‘to be, become' is used to ex-
+press inchoativity (299-300), exigency (301-302) or intrinsic property
+(303-305).
+an
+you
+keba
+dog
+'You are a dog.'
+chu:-a-yo
+be-PT-Q
+'Is it alright?' (Nep. bhayo?)
+u-i
+chu-a-ka
+what-Q be-PT-SUB
+ŋkə
+nam
+this weather
+'What is the matter with this weather?'
+o:-kan
+my-tooth
+ul-m-di-m
+pull.out-INF-MOM-INF
+'My tooth has to be pulled out."
+circha di
+c'ui-e
+be-nls
+du:-m
+drink-INF
+an-a
+yous-ERG little
+millet.beer
+'You must drink a little millet beer.'
+83
+c"ui-e
+be-nls
+84
+303
+304
+305
+CHAPTER FIVE
+liŋmur
+smell.of.yeast without
+chu:-ya-ka-no
+be-1p.NPT-e-NEG.NPT
+'Without the smell of yeast wepe are not Kulung people.'
+mandi kulucha
+m-sis
+its-seed red
+halkya lo
+Kulung.people
+omlo:p lo c'u:-e
+white and be-nls
+and
+'Its seeds are red and white.'
+c'ur-a
+become-PT
+poks-a-na
+poŋma
+pop-PT-PFG popcorn
+'Having popped, it has become popcorn.'

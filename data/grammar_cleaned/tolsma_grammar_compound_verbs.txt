@@ -1,0 +1,26 @@
+COMPOUND VERBS
+Compound verbs are verbal constructions in which a first verb stem (V1) is followed by a second verb stem (V2), that semantically modifies the first verb stem.
+The second verb stem with its verbal affixes will be referred to as an auxiliary. The semantic range of the auxiliaries varies from deictic categories like 'upward' and 'downward' to aspect-like notions such as 'telic', 'durative', 'perseverative', etc. The third person preterite of the verb kʰamma 'to weep' is kʰap-a. This form can be constructed as a compound verb by adding the stem bok- of the inceptive auxiliary -boma immediately after the Σ1 of the V1.
+The V1 of a compound verb is, in most instances, the base stem (Σ1) of a simple verb. Syntactically compound verbs behave like simple verbs, i.e. they can appear in the infinitive or imperative, and active and passive participles can also be constructed as compound verbs. Morphologically there are a few peculiarities: The first person singular and plural, for example, attach their verbal endings to both the stem of the simple verb and to the monosyllabic second part. Moreover, verbal endings attached to the simple verb stem are marked for preterite tense.
+The first person plural forms attach the exclusive morpheme -ka to the monosyllabic second part only.
+In 1s→2.NPT forms and in negated preterite forms, the allomorph -n of the second singular preterite morpheme -na is inserted between the simple verb stem and the modifying second verb stem.
+Stem suppletion is found in the paradigm of some auxilaries. For example, the momentaneous auxiliary dit- has a first singular preterite form to instead of the expected *dit-u.
+The telic auxiliary kʰama, having an irregular conjugation, augments both transitive and intransitive verbs. The telic auxiliary stresses completion of the action expressed by the verb.
+The verb limma ‘to set (of the sun)' is obligatorily constructed with the telic auxiliary kʰama, the sentence *nam lipp-a being considered to be ungrammatical.
+The auxiliaries bo:ma vi-4 [1: bok- 2: bo:- 3: bok-] and vt-3 [1: bok- 2: bo:- 3: bok-] stress the inception of the action or state expressed by the
+main verb. The label for this auxiliary is INC.
+The momentaneous auxiliary (MOM) indicates that the action expressed by the verb only lasts for a short period or that the action expressed by the verb will take place immediately. Both meanings are closely connected and can be adequate labelled 'momentaneous', expressing both short duration and immediacy.
+Addition of the intermediate action auxiliary do:ma vi-2 [1: doŋ- 2: do:-] and vt-4 [1: doŋ- 2: donn- 3: do:-] conveys the meaning of anteriority of the V1 with respect to an other verb that may or may not be expressed.
+The continuous auxiliary cama expresses continuity of the action denoted by the verb to which the auxiliary is attached. The continuous auxiliary may occur with both transitive and intransitive verbs. When used with intransitive verbs, the auxiliary belongs to conjugation vi-6 and when used with transitive verbs, the auxiliary is identical with the verb cama vt-7 ‘to eat'. In the intransitive form of the non-first singular non-preterite, the epenthetic non-first singular morpheme -e is dropped.
+The durative auxiliary yu:ma vt-2 [1: yuks- 2: yur-] expresses the duration of the activity of the verb. The auxiliary is identical with the simplex verb yurma vt-2 [1: yuks- 2: yu:-] meaning ‘to put'. In the paradigm of the durative auxiliary, the main verb and the auxiliary are partially amalgamated.
+The benefactive auxiliary pima indicates that the action of the main verb is performed on behalf of someone else. The benefactive auxiliary pima occurs only with transitive verbs.
+The auxiliary dama indicates a downward movement of the main verb.
+The auxiliary tʰoma vt-8 [1: tʰoi- 2: tʰo- 3: tʰai- 4: tʰə- 5: tʰui- 6: tʰu- 7: tʰa- 8: tʰok-] denotes an upward motion or location of the verb. The auxiliary toma is identical with the simplex verb t'oma vt-8 'to bring up'.
+The auxiliary bama denotes horizontal motion or location of the verb.
+The dimittive auxiliary cho:ma vt-2 [1: choks- 2: cho:-] denotes a direction away from the speaker.
+Often the dimittive auxiliary is quite similar in meaning to the telic auxiliary kʰama.
+The itive auxiliary kʰaima vi-3 [1: kʰat- 2: kʰai- 3: kʰan-], stressing the completion of a process or state, occurs only with intransitive verbs. The auxiliary is identical with the simplex verb kʰaima vi-3 ‘to go’. The main verb may appear as a verb stem or as a finite verb.
+The notive auxiliary lema 'to understand, to know how to' indicates knowledge or understanding of the main verb.
+The abilitive auxiliary durma 'to be able to' indicates ability of the main verb.
+The velocitive auxiliary namma vi-2 [1: nap- 2: nam-] ‘to be quick' denotes that the action of the main verb is performed quickly.
+The tardive auxiliary cʰuma vi-2 [1: cʰus- 2: cʰu-] 'to be late' denotes that the action of the verb is performed at a late point in time.

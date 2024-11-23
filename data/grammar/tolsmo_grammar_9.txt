@@ -1,0 +1,426 @@
+The preterite negative prefix <man- ~ mam- ~ maŋ-> (NEG.PT) in pre-
+fixal slot pfl indicates negation and preterite tense in all persons. This
+morpheme has the following allomorphic distribution:
+/man-/ →→→[man-] /d-, t-, t¹-, c-, c¹-, j-, n-, l-, r-, s-/
+/man-/→→→[mam-] /b-, p-, p¹-, m-/
+/man-/→→→[maŋ-] /g-, k-, k¹-, ŋ-, h-, w-, (?)V(:)-/
+220
+Besides indicating negation and preterite tense in all persons, the pre-
+fix <man-> is found in the finite verb forms man-tu and man-chu
+which mean 'is not' and 'should not' respectively. Moreover, the pre-
+fix <man-> is the marker of negation for non-finite forms such as in-
+finitives in <-ma>, active participles in <-pa>, and forms ending in
+the negated simultaneous suffix <-mo> or sequential suffix <-na>.
+221
+VERBAL AFFIXES
+222
+o:-yei-m-ŋa
+my-hear-INF-EMP
+man-chu-wa
+NEG.PT-be-IRR
+'I didn't like to listen.'
+man-lə
+'It wouldn't have been good.'
+5.2 Suffixes
+5.2.1 The tense marker <-a>
+basic morph:
+label:
+NEG.PT-make.itself.felt
+kau
+mam-pui-na-yo
+water NEG.PT-boil-EMP-Q
+'Didn't the water boil?'
+<-a>
+PT
+65
+The tense marker <-a> (PT) occurs in affirmative forms of the preter-
+ite. The preterite tense marker <-a> is not found in verb forms in
+66
+which preterite tense is already indicated by a portemanteau mor-
+pheme, e.g. the first plural preterite suffix (1p.PT) <-i>. The Kulung
+tense system distinguishes between an unmarked non-preterite tense
+and a marked preterite tense. Non-preterite tense is used for depicting
+actions and events that take place at the moment of speech or in the
+future, whereas preterite tense refers to past actions or events.
+223
+224
+225
+226
+lamsko
+door
+chi-a-num-ko
+close-PT-2p-3-Q
+'Have your closed the door?'
+227
+CHAPTER FIVE
+an
+si-a
+min-o
+yous die-PT think-1s.PT
+'I thought you had died.'
+pheri
+again
+k"et-a
+break-PT
+'It broke again.'
+5.2.2 The first singular non-preterite actant morpheme <-o:>
+basic morph:
+label:
+an-a
+yous-ERG
+<-0:>
+1s.NPT
+The first singular non-preterite actant morpheme <-o:> (1s.NPT) indi-
+cates a first singular actant in the non-preterite tense.
+nət-o:-yo
+like-1s.NPT-Q
+со
+'Do you like me?'
+CNT:1s.PT
+0:-ma-?a
+raŋ-or
+my-mother-ERG scold-1s.NPT
+'My mother scolded me.'
+228
+229
+230
+231
+tura-ca-wa
+mi
+ŋok-s
+sit-CNT-IMP
+fire
+ask.for-SUP
+'Sit down, I'll go and ask for fire!'
+232
+VERBAL AFFIXES
+5.2.3 The first singular actant preterite morpheme <-o>
+basic morph:
+label:
+hajisna
+m-kau
+after.a.while its-water
+take.out-1s.NPT
+'After a while, I shall take the water [out of the pan].'
+<-0>
+1s.PT
+The first singular preterite actant morpheme <-o> (1s.PT) indicates a
+first singular actant in the preterite tense.
+gək-o
+hit-1s.PT
+lat-o:
+k"im-go:-pa-ka
+lat-o
+house-inside-LOC-ABL go.out-1s.PT
+'I went out of the house."
+'He hit me.'
+k"at-o:-ke
+go-1s.NPT-ASS
+ko:m koim lamdum-o
+hill hill
+walk-1s.PT
+'I was walking in the hills.'
+<na>
+1s.NEG.PT
+5.2.4 The first singular negative preterite morpheme <-ŋa>
+basic morph:
+label:
+67
+68
+The first singular negative preterite morpheme <-ŋa> (1s.NEG.PT) oc-
+curs in negative preterite forms with a first singular actant.
+233
+234
+235
+maŋ-yor-na
+236
+237
+NEG.PT-ask-1s.NEG.PT
+'I didn't ask it of him.'
+man-cho:-na
+NEG.PT-pay-1s.NEG.PT
+'I haven't paid.'
+ŋkə riŋ-ne
+this
+CHAPTER FIVE
+word-CTR
+man-yei-ŋa
+ta
+NEG.PT-hear-Is.NEG.PT
+5.2.5 The first plural non-preterite morpheme <-ya>
+basic morph:
+label:
+koŋ-a
+dailo
+SO
+I-ERG when:PT also
+'I never heard this word.'
+The first plural non-preterite morpheme <-ya> (1p.NPT) indicates a
+first plural person in the non-preterite tense.
+<-ya>
+1p.NPT
+come:PT
+min-ya-kə
+think-1p.NPT-SUB
+'Wepi think that he has come.'
+oi-pa
+tai-na
+k"at-ya-ke
+my-father come-PFG go-1p.NPT-ASS
+'After my father has come, wepi shall go.'
+238
+wardi
+egg
+basic morph:
+label:
+239
+240
+241
+5.2.6 The first plural preterite morpheme <-i>
+VERBAL AFFIXES
+i-huk-pi
+ourPi-hand-LOC
+pi
+give
+'One doesn't give eggs in one's hands.'
+tu:a-ni-wa
+sit-2p-IMP
+<-i>
+The first plural preterite morpheme <-i ~ -yi> (1p.PT) indicates a first
+plural in the preterite tense. This suffix has an allomorph <-yi> after
+stems ending in a vowel or nasal.
+1p.PT
+sa
+meat
+khat-i-ka-ke
+go-1p.PT-e-ASS
+'Sit down, we are off!'
+oroito
+man-ca-yi
+this.much NEG.PT-eat-1p.PT
+'Wepi haven't eaten this much.'
+lai-ya-no
+k"ur-i-ka
+carry-1p.PT-e
+'You' have brought us meat.'
+5.2.7 The Ip 3.NPT morpheme <-am>
+basic morph:
+label:
+<-am>
+1p-3.NPT
+69
+feel-1p.NPT-NEG.NPT
+The 1p-3.NPT morpheme <-am> (1p-3.NPT) indicates a transitive
+relationship between a first person plural agent and a third person
+patient in the non-preterite tense.
+70
+242
+243
+244
+245
+chet-am-no
+246
+247
+know-1p-3.NPT-NEG.NPT
+'Wepi don't know it.'
+yəs-am-na
+CHAPTER FIVE
+cham
+song
+ja
+parch-1p→3.NPT-PFG
+'Wepi shall parch the rice and then wepi'll eat.'
+lə-m
+sing-INF
+'Wepe like to sing songs.'
+tuk-am-ka
+5.2.8 The 1p-3.PT morpheme <-um>
+basic morph:
+label:
+<-um>
+1p-3.PT
+cai-am
+cooked.rice eat-1p-3.NPT
+nət-am-ka
+like-1p-3.NPT-e
+u-sa-i
+what-ERG-Q
+wipe.off-1p-3.NPT-e
+'What shall wepe wipe it off with?'
+The 1p-3.PT morpheme <-um> (1p→3.PT) indicates a transitive rela-
+tionship between a first person plural agent and a third person patient
+in the preterite tense.
+mi
+fire
+di
+millet.beer pour.in-1p-3.PT
+'Wepi poured millet beer in it.'
+tes-um
+k"əp-um-ka-ka
+blow-1p-3.PT-e- SUB
+'Wepe had been blowing the fire.'
+248
+249
+5.2.9 The second singular preterite morpheme <-na>
+basic morph:
+label:
+250
+t"əps-um-ka
+251
+VERBAL AFFIXES
+252
+let.the.shaman.dance-1p-3.PT -e
+'Wepe let the shaman dance."
+The second singular preterite morpheme <-na ~ -nna ~ -n> (2s.PT)
+indicates the involvement of a second person singular in the preterite
+tense. The suffix has an allomorph <-nna> after stems ending in a
+vowel and an allomorph <-n> when followed by the dual suffix <-ci>
+or by the question particle <-yo>.
+<-na>
+2s.PT
+man-k'e:-n-yo
+NEG.PT-buy-2s.PT-Q
+'Didn't you buy it?'
+lam man-tham-na-wa-do
+road NEG.PT-go.astray-2s.PT-IRR-CND
+be.good:PT-IRR
+'If you hadn't gone astray, it would have been good.'
+man-yo:-n-?o
+NEG.PT-ask-2s.PT-Q
+'Didn't you ask it?'
+mam-po-nna
+NEG.PT-tell-2s.PT
+71
+'Didn't you tell it.'
+na-wa
+72
+5.2.10 The Is-2.NPT morpheme <-yan>
+basic morph:
+label:
+253
+The 1s 2.NPT morpheme <-yan> (1s-2.NPT) indicates the transitive
+relationship between a first singular agent and a second person patient
+in the non-preterite tense.
+(254
+255
+CHAPTER FIVE
+<-yan>
+1s 2.NPT
+ok'i-rin
+ourpe-language
+256
+teach-Is-2.NPT
+'I'll teach you ourpe language.'
+ker-yan-ke
+hit-1s 2.NPT-ASS
+'I hit yous.'
+i-yan
+mai-yan-no
+forget-1s 2.NPT-NEG.NPT
+'I won't forget yous.'
+5.2.11 The 1s 3.PT morpheme <-u>
+basic morph:
+label:
+<-u>
+1s 3.PT
+The 1s 3.PT morpheme <-u> (1s→3.PT) indicates the transitive rela-
+tionship of a third person patient with a first singular person agent in
+the preterite tense.
+nət-u
+like-1s 3.PT
+'I liked it.'
+257
+258
+259
+260
+mi
+fire
+261
+262
+or-hop-a
+my-own-ERG
+5.2.12 The 3P.NPT morpheme <-ə>
+basic morph:
+label:
+set-u
+kill-1s 3.PT
+'I have put out the fire.'
+k"ur-u
+carry-1s-3.PT
+'I carried it myself.'
+VERBAL AFFIXES
+The 3P.NPT morpheme <-> (3P.NPT) indicates a third person patient
+with a non-first singular person agent in the non-preterite tense.
+na:kə
+that.one
+<-Ə>
+3P.NPT
+chett-a-no-Po
+bok-u
+INC-1s 3.PT
+di-?a
+'He is drunk."
+(lit. 'Millet beer kills him.')
+millet.beer-ERG
+know-3P.NPT-NEG.NPT-Q
+tupp-a
+meat-3P.NPT
+'Don't you know [that]?'
+ci:cha puiy-ə-na
+a.little boil-3P.NPT-PFG
+'He will meet him.'
+to
+MOM:1s 3.PT
+'After it boils a little, put it in!'
+sett-a
+kill-3P.NPT
+tes-wa
+pour.in-IMP
+73
+74
+5.2.13 The third person patient preterite morpheme <-u>
+basic morph:
+label:
+263
+The third person patient preterite morpheme <-u> (3P.PT) indicates a
+third person patient in the preterite tense.
+264
+265
+<-U>
+3P.PT
+CHAPTER FIVE
+266
+lamsko hall-u-yo
+door
+open-3P.PT-Q
+'Have yous opened the door?'
+as-a-i
+sin
+who-ERG-Q firewood
+'Who split the firewood?'
+olonuwa
+an-a
+paisa
+thank you yous-ERG money
+"Thank you for having paid [at the shop down].'
+5.2.14 The non-first person singular morpheme <-e>
+basic morph:
+label:
+<-e>
+nls
+or-ji
+my-happiness
+cham-u
+split-3P.PT
+The non-first person singular morpheme <-e> (n1s), indicating a non-
+first person, is an epenthetic suffix that is elided in most verb forms,
+e.g. before the non-preterite negative suffix <-no>, the conditional
+suffix <-do> and the reported speech suffix <-the>. The suffix differs
+from other verbal affixes in that the non-first person singular mor-
+pheme is found after the interrogative pronouns as-e ‘who is it?' and
+u-i-e 'what is it?'.
+'I am happy.'
+choks-dat-u
+pay-DWN-3P.PT
+nəi-e
+be.good-nls

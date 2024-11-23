@@ -1,0 +1,417 @@
+306
+CHAPTER SIX
+Compound verbs are verbal constructions in which a first verb stem
+(V1) is followed by a second verb stem (V2), that semantically modi-
+fies the first verb stem. The second verb stem with its verbal affixes
+will be referred to as an auxiliary. The semantic range of the auxilia-
+ries varies from deictic categories like 'upward' and 'downward' to
+aspect-like notions such as 'telic', 'durative', 'perseverative', etc. The
+third person preterite of the verb k'amma 'to weep' is k'ap-a. This
+form can be constructed as a compound verb by adding the stem bok-
+of the inceptive auxiliary -boma immediately after the E1 of the V1.
+k"ap-bok-a
+weep-INC-PT
+COMPOUND VERBS
+'He started to cry.'
+Compound verbs are found in many South Asian languages, whether
+the language belongs to the Tibeto-Burman, Austroasiatic, Dravidian
+or Indo-European language family. George van Driem (1987, 1993)
+introduced the term aspectivisers. Although the latter term is very apt
+because auxilaries express Aktionsart, the more neutral cover term
+auxiliary is simply used in this grammar. The V1 of a compound verb
+is, in most instances, the base stem (1) of a simple verb. Syntactic-
+ally compound verbs behave like simple verbs, i.e. they can appear in
+the infinitive or imperative, and active and passive participles can also
+be constructed as compound verbs. Morphologically there are a few
+peculiarities: The first person singular and plural, for example, attach
+their verbal endings to both the stem of the simple verb and to the
+monosyllabic second part. Moreover, verbal endings attached to the
+simple verb stem are marked for preterite tense.
+86
+307
+308
+309
+310
+312
+k"oŋ-u
+look.at-1s 3.PT
+313
+k"oŋ-u
+'I am looking at him.'
+look.at-1s-3.PT
+CHAPTER SIX
+coi-or
+CNT-1s.NPT
+CO
+CNT:1s 3.PT
+'I was looking at him.'
+k"oŋ-um
+cai-am
+look.at-1p-3.PT CNT-1p-3.PT
+'Wepi are looking at him.'
+khoŋ-um
+look.at-1p-3.PT CNT-1p-3.PT
+'Wepi were looking at him.'
+As in Dumi (van Driem 1993a: 197), the first person plural forms
+attach the exclusive morpheme <-ka> to the monosyllabic second part
+only.
+311
+ca-m
+wa:di
+egg
+khoŋ-um
+cai-am-ka
+look.at-1p-3.PT CNT-1p-3.NPT-e
+'Wepe were looking at him.'
+khoŋ-um
+ca-m-ka
+look.at-1p-3.PT CNT-1p-3.PT-e
+'Wepe were looking at him.'
+In 1s 2.NPT forms and in negated preterite forms, the allomorph
+<-n> of the second singular preterite morpheme <-na> is inserted be-
+tween the simple verb stem and the modifying second verb stem.
+ŋi-n
+pi-yan
+BEN-1s-2.npt
+cook-2s.PT
+'I'll cook an egg for you.' (Nep. pakāi dinchu)
+314
+315
+k'o:-n-ca-yan-ci
+316
+Stem suppletion is found in the paradigm of some auxilaries. For ex-
+ample, the momentaneous auxiliary <dit-> has a first singular preter-
+ite form to instead of the expected *dit-u. These irregular conjuga-
+tions are labeled vi-irr and vt-irr. Their full paradigms can be found in
+Appendix II.
+COMPOUND VERBS
+look.at-2s.PT-CNT-1s-2.NPT-d
+'I am looking at youd."
+6.1 The telic auxiliary kama
+The telic auxiliary khama, having an irregular conjugation, augments
+both transitive and intransitive verbs. The telic auxiliary stresses com-
+pletion of the action expressed by the verb. Example (315) contrasts
+with example (316) in that (315) means that someone lifts something
+up and remains at that spot, whereas the form with the auxiliary ex-
+presses telicity, giving the meaning 'to carry it home'.
+317
+ŋkə goŋ-wa
+this carry.by.hand-IMP
+'Carry this [over here]!'
+ŋkə goŋ-k¹i-wə
+this carry.by.hand-TEL-IMP
+'Carry this [home]!'
+87
+The verb limma ‘to set (of the sun)' is obligatorily constructed with
+the telic auxiliary k'ama, the sentence *nam lipp-a being considered
+to be ungrammatical.
+nam lip-k¹i
+sun set-TEL
+"The sun has set."
+88
+318
+319
+320
+321
+322
+323
+324
+CHAPTER SIX
+desa
+tomorrow also look-TEL-IMP I-ERG
+choks-o:-ke
+pay-1s.NPT-ASS
+'Also have a look tomorrow, I will pay money!"
+duŋŋ-a-no
+SO k"on-k"i-wa koŋ-a roŋ
+money
+dun-khi-te
+muŋkə-sa
+drink-TEL-IMP that.one-ERG
+'Drink it! He doesn't drink.'
+am-tel
+khur-m-kha-m
+yours-village bring-INF-TEL-INF
+'You' have to carry it to yours village.'
+dun-ki-wa-na
+tas-wa
+drink-TEL-IMP-PFG hold.out-IMP
+‘Drink it and hold out!'
+0:-jutta at-ki
+my-shoe be.damaged-TEL:PT
+ja
+drink-3P.NPT-NEG.NPT
+ca-khi-ci
+cooked.rice eat-TEL-3ns
+chu:-e
+be-nls
+My shoes have become damaged.'
+'They finished eating rice.'
+dung-khi-cu-ka-no
+di
+millet.beer drink-TEL-d-3-e-NEG.NPT
+'Wede will not drink the millet beer.'
+325
+6.2 The inceptive auxiliaries bo:ma
+The auxiliaries bo:ma vi-4 [1: bok- 2: bo:- 3: bok-] and vt-3 [1: bok- 2:
+bo:- 3: bok-] stress the inception of the action or state expressed by the
+main verb. The label for this auxiliary is INC.
+326
+327
+328
+COMPOUND VERBS
+ka-bok-te
+bite-INC-IMP
+oro:to
+ja
+very.much cooked.rice
+k"et-bok-e
+break-INC-nls
+'If I eat a whole lot of much rice, my belly will burst.'
+'Break it by biting.'
+ges-i
+bok-ya
+laugh-1p.PT INC-1p.NPT
+'It makes uspi laugh.'
+coi-o:-do
+eat-1s.NPT-CND
+tal-n-di-na
+or-bo
+my-belly
+6.3 The momentaneous auxiliary dima
+The momentaneous auxiliary (MOM) indicates that the action express-
+ed by the verb only lasts for a short period or that the action expressed
+by the verb will take place immediately. Both meanings are closely
+connected and can be adequate labelled 'momentaneous', expressing
+both short duration and immediacy. The momentaneous auxiliary has
+an irregular conjugation that can be found in Appendix II. Example
+(328), where the pushing only lasted for a short period, is an example
+of an auxiliary with momentaneous Aktionsart.
+89
+push-2s.PT-MOM-2s.PT
+'I pushed you.'
+The sentences below have auxilaries with immediate Aktionsart.
+90
+329
+330
+331
+332
+333
+k'ikkana po:tel
+then
+334
+hu
+hand
+courtyard
+"Then you have to go immediately to the courtyard.'
+səm-di-m
+c'ui-e
+wash:INF-MOM-INF be-nls
+bes-o
+fart-1s.PT
+CHAPTER SIX
+'[Yours] hands have to be washed. (Nep. dhoi hālnu par-
+cha)'
+k"ai-m-di-m
+c'ui-e
+go-INF-MOM-INF be-nls
+to
+bes-o
+fart-1s.PT
+MOM:1s.PT
+'I farted [for a short period].'
+'I farted [for a long period].'
+am-ŋəmui
+yours-moustache
+k"ək-dit-u
+cut-MOM-3p.PT
+'You' have cut yours moustache.'
+6.4 The intermediate action auxiliary do:ma
+Addition of the intermediate action auxiliary do:ma vi-2 [1: doŋ- 2:
+do:-] and vt-4 [1: doŋ- 2: donn- 3: do:-] conveys the meaning of ante-
+riority of the V1 with respect to an other verb that may or may not be
+expressed.
+am-im-ma-do
+k"at-doŋ-wa keika doska
+yours-sleep-INF-CND go-IMA-IMP wepe later
+khat-ya-ka
+go-1p.NPT-e
+'If you're sleepy go now, wepe'll go later."
+335
+In example (335), Ratna had gone outside to find some vegetables to
+eat and said to me,
+336
+337
+338
+339
+COMPOUND VERBS
+mi
+k"ap-don-te
+fire blow-IMA-IMP
+'Start blowing the fire!'
+samk¹e ca-donn-u-yo
+potato
+eat-IMA-3P.PT-Q
+'Have you begun eating the potatoes?'
+khat-i doŋ-ya-ke
+go-1p.PT IMA-1p.NPT-ASS
+'Wepi'll go in the meantime.'
+khat-don-e
+go-IMA-nls
+'He is already going.'
+6.5 The continuous auxiliary cama
+The continuous auxiliary cama expresses continuity of the action de-
+noted by the verb to which the auxiliary is attached. The continuous
+auxiliary may occur with both transitive and intransitive verbs. When
+used with intransitive verbs, the auxiliary belongs to conjugation vi-6
+and when used with transitive verbs, the auxiliary is identical with the
+verb cama vt-7 ‘to eat'. In the intransitive form of the non-first singu-
+lar non-preterite, the epenthetic non-first singular morpheme <-e> is
+dropped.
+mis pak-cai
+man
+91
+wake.up-CNT
+‘The man is waking up.’
+92
+340
+341
+342
+343
+344
+345
+khat-cai
+harro-i
+an
+elder.brother-VOC yous whereto-Q go-CNT
+'Elder brother, where are you going to?'
+bu-?a
+CHAPTER SIX
+kau
+water
+am-im-ma-do
+yours-sleep-INF-CND
+'If you're sleepy, sleeps on the straw mat.'
+okhi-bon
+po:tel-pa
+ims-ca
+ourpe-uncle courtyard-LOC sleep-CNT:PT
+'Ourpe uncle had been sleeping in the courtyard.'
+tes-cai-ə-ci
+gundri-pu
+straw.mat-LOC
+pour.in-CNT-3P.NPT-3ns
+'They are pouring water in it.'
+mi:-n-ca-yan
+an
+yous think-2s.PT-CNT-1s-2.NPT
+'I remember yous.'
+ims-ca-te
+sleep-CNT-IMP
+6.6 The durative auxiliary yu:ma
+The durative auxiliary yu:ma vt-2 [1: yuks- 2: yur-] expresses the dura-
+tion of the activity of the verb. The auxiliary is identical with the sim-
+plex verb yurma vt-2 [1: yuks- 2: yu:-] meaning ‘to put'. In the para-
+digm of the durative auxiliary, the main verb and the auxiliary are
+partially amalgamated. A full paradigm of the durative auxiliary can
+be found in Appendix II.
+mi k"əp-yuks-wa
+fire blow-DUR-IMP
+'Keep on blowing the fire!'
+346
+347
+348
+349
+350
+suk-bou
+CO
+three-CLF eat: 1s 3.PT
+ja
+COMPOUND VERBS
+'I was eating three pieces.'
+k"ap-uks-u
+rice
+put.on.the.fire-DUR-1s-3.PT
+'I have put the rice on the fire.'
+or-wacha
+lap-yuks-wa
+my-chick catch-DUR-IMP
+'Catch my chicks!'
+an
+yous
+yuks-u
+DUR-1s 3.PT
+kau pi-m
+water give-INF
+'I forgot to give yous water.'
+mat-uks-um-ka
+forget-DUR-1p-3.PT-e
+mat-uks-u
+forget-DUR-1s→3.PT
+'Wepe have forgotten it.'
+6.7 The perseverative auxiliary lama
+Like the durative auxiliary, the perseverative auxiliary lama expresses
+duration. The duration expressed by the perseverative auxiliary is
+longer and more persistent than the duration expressed by the durative
+auxiliary. Some perseverative compounds have meanings that have
+become lexicalised. For example, addition of the perseverative auxil-
+iary to the simplex verb tuma 'to be, to sit' gives the verb tumlama ‘to
+spend the night, stay over for the night'. The perseverative auxiliary
+lama has an irregular conjugation, which can be found in Appendix II.
+351
+anci tu:-lat-ci
+youd be-PER-d
+'Didn't she say that youd had spent the night?"
+93
+mam-pi:-yo
+NEG.PT-say-Q
+94
+352
+353
+354
+355
+356
+357
+358
+359
+360
+koŋ
+I
+k"əp-lat-u
+SO
+also
+'I am also in pain.'
+CHAPTER SIX
+tuk-o
+hurt-1s.PT
+raŋ-lat-ci
+scolding-PER-d
+blow.the.fire-PER-3P.PT
+'You kept on blowing the fire [for a long time].'
+mut-lat-a-no
+'Wedi'll keep on scolding.'
+lat-o:
+PER-1s.NPT
+blow-PER-3P.NPT-NEG.NPT
+'You are not going to keep on blowing.'
+tu-lat-ya-ke
+be-PER-1p.NPT-ASS
+bur-o
+'Let'spi spend the night.'
+yik-um
+lat-am-ka
+grind-1p-3.PT PER-1p-3.NPT-e
+'We'll keep on grinding it.'
+lat-o:
+be.angry-1s.PT PER-1S.NPT
+'I'll stay angry.'
+jutta-lo
+lam dum-o
+shoe-COM road walk-1s.PT
+'With shoes on I can't walk.'
+lat-u
+ŋok-u
+ask-1s 3.PT PER-1S-3.PT
+'I asked him.'
+lat-o:-no
+PER-1s.NPT-NEG.NPT

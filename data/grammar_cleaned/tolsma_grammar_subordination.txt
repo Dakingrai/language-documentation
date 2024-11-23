@@ -1,0 +1,17 @@
+SUBORDINATION
+This chapter is devoted to the general subordinating suffix -kə.
+With the subordinating suffix -kə smaller syntactic constituents like adverbs, adverbial clauses, and adjectives are nominalised. For example, the demonstrative pronouns that are used as a third person singular pronoun are derived from the adverbs to: 'up', na: 'further', and nu: 'down', respectively. With the subordinating suffix <-kə>, these adverbs behave like nouns and take case endings.
+
+to:kə 'the one up'
+na:kə 'the farther one'
+nu:kə 'the one down'
+
+Addition of the subordinating suffix -kə to a verbal clause turns the verbal clause into a noun that can be the subject of the sentence.
+A subordinated clause can be used in an adnominal construction.
+A verb with the suffix -kə added, can be used as a relative clause preceding or following the head noun.
+Most striking, however, is the addition of the subordinating suffix -kə to an affirmative or negated simple verb, auxiliary, or infinitive. What, for example, is the difference between sentence (414) and sentence (415)? Both are in the preterite tense and differ only in having or lacking the subordinating suffix added to the finite verb. I have tried to explain the difference in meaning in the English translation of sentence (415).
+
+(414) espa to 'I came yesterday.'
+(415) espa to-kə 'It so happens that I came yesterday.'
+
+In most cases, one has to be familiar with the background or situation in which a subordinated verb was uttered in order to understand the use and meaning of the suffix.

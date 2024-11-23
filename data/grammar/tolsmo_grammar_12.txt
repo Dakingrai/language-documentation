@@ -1,0 +1,419 @@
+361
+362
+363
+6.8 The benefactive auxiliary pima
+The benefactive auxiliary pima indicates that the action of the main
+verb is performed on behalf of someone else. The benefactive auxil-
+iary pima occurs only with transitive verbs and has an irregular con-
+jugation which can be found in Appendix II.
+364
+365
+366
+367
+cups-u
+lat-o:
+load-1s 3.PT PER-1S.NPT
+'I'll load it.'
+wardi ŋi-n
+egg
+pi-yan
+cook-2s.PT BNF-1s 2.NPT
+'I'll cook an egg for you.' (Nep. pakāi dinchu)
+bolu t"o-n
+wall
+COMPOUND VERBS
+an
+yous
+'I'll build a wall for you.'
+cho:-n-pi-yan
+pi-yan
+build-2s.PT BNF-1s 2.NPT
+ka
+voice send-2s.PT-BNF-15-2.NPT
+'I'll call [someone] for you.'
+i:-o:-po-wa
+learn-1s.NPT-BNF-IMP
+m-k'il
+her-shit
+'Pass on my message!'
+chis-pi-ko
+wipe-BNF:PT-Q
+'Have you wiped away her shit?'
+dil-o:
+roll-1s.NPT
+po-ci-te
+BNF-d-IMP
+95
+'Rolld it for me!'
+96
+368
+369
+370
+371
+372
+na-la
+6.9 The downward auxiliary dama
+The auxiliary dama indicates a downward movement of the main
+verb. The irregular conjugation of this auxilary can be found in Ap-
+pendix II.
+373
+elder.sister-VOC potato
+'Elder sister, cook me some potatoes!'
+hoks-dat-wə
+throw-DWN-IMP
+CHAPTER SIX
+samkhe ŋi:-or-po-te
+ko:m-pi lamdum-o-lo
+laks-o dat-o
+hill-LOC walk-1s.PT-COM slip-1s.PTDWN-1S.PT
+'I slipped while walking in the hills.'
+"Throw it down!'
+k'ai
+cook-1s.NPT-BNF-IMP
+am-khon-pu tes-dat-te
+cooked.vegetables yours-bowl-LOC put.on-DWN-IMP
+'Put the cooked vegetables in yours bowl!'
+lat-u
+an laks-a dat-a
+yous slip-PT DWN-PT
+'Yous slipped.'
+take.out-1s-3.PT
+'I'll take it out."
+dat-o:
+DWN-1s.NPT
+6.10 The upward auxiliary thoma
+The auxiliary toma vt-8 [1: thoi- 2: tho- 3: t"ai- 4: t"ə- 5: t'ui- 6: t'u- 7:
+tha- 8: thok-] denotes an upward motion or location of the verb. The
+374
+auxiliary toma is identical with the simplex verb t'oma vt-8 'to bring
+up'.
+375
+376
+hoks-to-wa
+throw-UP-IMP
+377
+6.11 The horizontal auxiliary bama
+The auxiliary bama denotes horizontal motion or location of the verb.
+The irregular conjugation of this auxiliary is given in Appendix II.
+COMPOUND VERBS
+'Throw it up!'
+hoks-bi-wa
+throw-HOR-IMP
+'Throw it!'
+lat-bi-num-no
+take.out-HOR-2p-3-NEG.NPT
+'You don't take it out.'
+97
+lam-bi-khon
+search-HOR-IMP
+'Search it!'
+6.12 The dimittive auxiliary cho:ma
+The dimittive auxiliary cho:ma vt-2 [1: choks- 2: cho:-] denotes a direc-
+tion away from the speaker. As a simplex verb cho:ma vt-2 has the
+meaning 'to send'.
+378 gəl-um
+choks-am
+remove.grains-1p-3.PT DMT-1p-3.NPT
+'Wepi remove the grains [from the maize cob]
+98
+379
+380
+381
+382
+383
+384
+boksa kham-chor-m
+chui-e
+pork put.on.the.fire-DMT-INF be-nls
+"The pork has to be put on the fire.'
+am-salai
+yours-matches
+chis-choks-wa
+sweep-DMT-IMP
+CHAPTER SIX
+'Strike yours matches!'
+ker-choks-wa
+hit-DMT-IMP
+'Sweep it away!"
+sin
+la:s
+firewood fetch-SUP
+kat-choks-te
+pour.out-DMT-IMP
+'Pour it out!'
+'I'll send him to fetch firewood.'
+desa
+tomorrow
+poks-u
+send-1s 3.PT
+Often the dimittive auxiliary is quite similar in meaning to the telic
+auxiliary k'ama as in example (384) below.
+yat-choks-cu-yo
+finish-DMT-d-3-Q
+choks-o:
+DMT-1s.NPT
+'Will you finish it tomorrow?'
+6.13 The itive auxiliary khaima
+The itive auxiliary k'aima vi-3 [1: k'at- 2: k"ai- 3: k'an-], stressing the
+completion of a process or state, occurs only with intransitive verbs.
+The auxiliary is identical with the simplex verb k'aima vi-3 ‘to go’.
+The main verb may appear as a verb stem or as a finite verb.
+385
+386
+387
+388
+389
+390
+391
+COMPOUND VERBS
+yu:
+dur-a
+khat-a
+millet.paste cook-PT go-PT
+'The millet paste has become cooked.'
+an
+yous
+thon-lo
+mət-khat-e
+come.up-COM
+be.finished-go-PT
+'It will be finished by the time you come.'
+k"im att-a
+house return-PT
+khat-a
+go-PT
+'He has returned home."
+mi sir-a kħat-a
+fire die-PT go-PT
+"The fire went out."
+am-kan
+hups-a
+khat-a
+yours-tooth fall-PT go-PT
+'Yours teeth have fallen out.'
+na:kə mis
+si:-a
+that person die-PT
+"That man died.'
+khat-a
+go-PT
+6.14 The notive auxiliary lema
+The notive auxiliary lema 'to understand, to know how to' indicates
+knowledge or understanding of the main verb.
+kho:-les-o:-no
+sin
+firewood
+'I don't know how to cut firewood.'
+99
+cut-know.how.to-1s.NPT-NEG.NPT
+BIBLIOTHÈQUE
+DES LANGUES
+ORIENTALES
+100
+6.15 The abilitive auxiliary durma
+The abilitive auxiliary durma 'to be able to' indicates ability of the
+main verb.
+392
+393
+394
+CHAPTER SIX
+sin
+firewood
+395
+kur-dur-ə-no-yo
+6.16 The velocitive auxiliary namma
+The velocitive auxiliary namma vi-2 [1: nap- 2: nam-] ‘to be quick'
+denotes that the action of the main verb is performed quickly.
+carry-can-3P.NPT-NEG.NPT-Q
+'Can't you carry the firewood?'
+esean duŋ po:-nap-a
+today you more wake.up-be.quick-PT
+'Today you woke up earlier [than usual].'
+na:kəpa kħat-o-na bai-nap-o:
+there go-1s.PT-PFG come-be.quick-1s.NPT
+'Having gone there I'll come quickly.'
+6.17 The tardive auxiliary chuma
+The tardive auxiliary chuma vi-2 [1: c¹us- 2: c"u-] 'to be late' denotes
+that the action of the verb is performed at a late point in time.
+im-c¹us-i-ka
+sleep-be.late-1p.PT-e
+'We went to bed late.'
+396
+This chapter is devoted to the general subordinating suffix <-kə>.
+Depending on differences in syntactic scope, the suffix conveys
+meanings that have been labelled in grammars of Kiranti languages as
+nominaliser, relativiser and imperfective aspect marker. I will try to
+show how the suffix is used in various constructions and what kind of
+meaning can be attributed to the suffix in each type of construction.
+With the subordinating suffix <-kə> smaller syntactic constituents
+like adverbs, adverbial clauses, and adjectives are nominalised. For
+example, the demonstrative pronouns that are used as a third person
+singular pronoun are derived from the adverbs to: 'up', na: 'further',
+and nu: 'down', respectively. With the subordinating suffix <-kə>,
+these adverbs behave like nouns and take case endings.
+397
+to:kə
+na:kə
+nu:kə
+398
+CHAPTER SEVEN
+SUBORDINATION
+Similarly, the adverbial clause in sentence (397) has been nominalised
+and fulfils the function of object of the verb nima 'to cook'.
+wardi
+egg
+'the one up'
+'the farther one'
+'the one down'
+mandi-kə
+without-SUB
+'We'll cook one without eggs.'
+ŋi:-am
+cook-1p-3.NPT
+am-paŋ-la-kə
+lam kəl-wə
+yours-left.hand-MED-SUB road drive-IMP
+"Take the road on yours left-hand side!'
+102
+399
+400
+401
+402
+403
+buŋ-pu-kə
+Buŋ-LOC-SUB
+404
+405
+so:lome
+girl
+'a girl from Bun'
+to:pto-ka
+up.there-SUB
+k'im
+house
+'the house up there'
+Addition of the subordinating suffix <-kə> to a verbal clause turns the
+verbal clause into a noun that can be the subject of the sentence as in
+example (402), where the verbal clause 'you like it' has become the
+subject of the main verb man-tu 'there is not".
+CHAPTER SEVEN
+omlo:p-kə
+white-SUB
+'the white one'
+A subordinated clause can be used in an adnominal construction as in
+examples (403- 406).
+an-a
+nətt-ə-kə
+yous-ERG
+like-3P.NPT-SUB
+'[We] don't have what you like [here].'
+kon khat-o-ka
+I
+lei
+go-1s.PT-SUB day
+'the day I went away'
+chu:-a-kə don
+be-PT-SUB year
+'last year'
+man-tu
+NEG.PT-be
+wa:di ŋi-mpa-kə
+egg
+kau
+cook-PP-SUB
+water
+'water in which eggs have been boiled'
+406
+407
+408
+409
+In the next example a locative case ending is attached to the subordi-
+nated verb clause.
+410
+ontolo
+just
+411
+412
+SUBORDINATION
+sap-u
+lat-u-kə
+wash-1s 3.PT PER-1s 3.PT-SUB
+'the one I have just been washing'
+koŋ
+I
+A verb with the suffix <-kə> added, can be used as a relative clause
+preceding or following the head noun.
+k'at-o-ka-pu
+go-1s.PT-SUB-LOC
+'at the place below I went to'
+wa!
+khim woŋ-kə
+chicken house enter-SUB chase.away-IMP
+'Chase away the chickens that are entering the house!'
+kəl-wə
+espa
+am-bum
+ta-kə
+yesterday yours-friend come:PT-SUB
+'Who is that friend of yourss who came yesterday?'
+103
+as-e
+who-nls
+0:-paisa
+pi:-u-ka
+att-a
+my-money give-1s 3.PT-SUB return-PT
+'[my] money that I gave him has been returned.'
+narkə-sa
+u-i pik-a-ka chet-o:-no
+that.one-ERG what-Q say-PT-SUB know-1s.NPT-NEG.NPT
+'I don't know what he said.'
+k"oks-u
+koŋ-a pi-nna-kə
+beto-?a u-i
+I-ERG give-2s.PT-SUB knife-INS what-Q cut-3P.PT
+'What did you cut with the knife that I gave you?'
+104
+413
+414
+415
+Most striking, however, is the addition of the subordinating suffix
+<-kə> to an affirmative or negated simple verb, auxiliary, or infini-
+tive. What, for example, is the difference between sentence (414) and
+sentence (415)? Both are in the preterite tense and differ only in hav-
+ing or lacking the subordinating suffix added to the finite verb. I have
+tried to explain the difference in meaning in the English translation of
+sentence (415).
+samk¹e na-?a
+potato
+416
+417
+pi:-o-kə
+kim-a
+elder.sister-ERG give-1s.PT-SUB rot-PT
+"The potatoes my elder sister gave me were rotten.'
+espa
+yesterday
+to
+CHAPTER SEVEN
+come:1s.PT
+'I came yesterday.'
+Likewise, the difference between example (416) and example (417) is
+a very subtle one.
+u-i
+to-ka
+come: 1s.PT-SUB
+espa
+yesterday
+'It so happens that I came yesterday.'
+chui-a
+what-Q_be-PT
+'What has happened?'
+u-i
+chur-a-ka
+what-Q be-PT-SUB
+'What has happened?' (What is it that has happened?)
+Sentences (418) and (419) show examples of the addition of the sub-
+ordinating suffix <-kə> to an auxiliary and an infinitive, respectively.
+Example (420) is an illustration of the subordinating suffix <-kə>
+after a negated finite verb.

@@ -1,0 +1,475 @@
+83
+3.2 Case
+am-ma-c-a-kə
+məi-ə-ci
+yours-mother-ns-ERG-TOP
+do-3P.NPT-3ns
+'What does yours mother [and the rest of her family]
+do?'
+NOMINAL CATEGORIES
+absolutive
+ergative
+instrumental
+Case endings are attached to nouns with or without the non-singular
+suffix and convey meanings like ‘the place where', 'possession', etc.
+Allomorphy of case endings depends on whether the noun ends in a
+vowel or a consonant. In the next table, the case endings of the nouns
+na 'elder sister' and lam 'road' are presented.
+vocative
+genitive
+locative 1
+locative 2
+locative 3
+locative 4
+comitative
+ablative
+elative (= LOC + ABL)
+mediative
+na
+na-?a
+na-?a
+na-?a
+na-mi
+na-pi
+na-pu
+na-pto
+u-i
+what-Q
+na-pa
+na-lo
+lam
+lam-?a
+lam-?a
+lam-?a
+lam-mi
+lam-pi
+lam-pu
+lam-to
+25
+lam-pa
+lam-lo
+lam-ka
+na-pka
+na-pika
+lam-pika
+na-la
+lam-la
+Table 7: Case endings of the nouns na and lam
+The word misi 'man' has an anomalous and irregular ergative ending,
+i.e. mic-a 'man-ERG'.
+26
+3.2.1 The ergative
+The ergative case (ERG) marks the agent of a transitive verb. The er-
+gative case is marked by the suffix <-?a>, but personal pronouns and
+interrogative pronouns take the allomorph <-a>, which is also the
+allomorph found after the non-singular suffix <-ci ~ -c~ -s> (ns).
+Demonstratives used as third person pronouns have the allomorph
+<-sa>.
+84
+85
+86
+87
+88
+89
+as-a-i
+i-a
+who-ERG-Q tell-PT
+CHAPTER THREE
+'Who told you that?'
+khena
+well
+an-a
+u-i
+yous-ERG what-Q
+'Well, what are you doing?'
+or-na-?a
+lou
+my-elder.sister-ERG necklace give-1s.NPT-NEG.NPT-ASS
+'My elder sister won't give me [my] necklace.'
+dowa-?a
+nam
+name.of.a.ghost-ERG sun
+'The sun has been eclipsed.'
+(lit. 'The ghost is eating the sun.')
+chara-?a lamsko thuŋ-cai-ə
+goat-ERG door
+lamsko
+məi-ə
+do-3P.NPT
+pi:-o:-no-ke
+an-a
+yous-ERG door
+cai-ə
+eat-3P.NPT
+"The goat is bumping into the door.'
+bump.into-CNT-3P.NPT
+'Have yous closed the door?'
+chiry-u-yo
+close-3P.PT-Q
+90
+3.2.2 The absolutive
+The absolutive case is unmarked. The subject of intransitive verbs
+(90-91) and the object (92-93) or indirect object (94) of transitive
+verbs appear in the absolutive case.
+91
+92
+93
+94
+kon
+I
+ims-or
+sleep-1s.NPT
+'I am going to sleep.'
+NOMINAL CATEGORIES
+an
+SO hayam tato
+you also very
+time
+'You' also live a long time!'
+an
+tum-yan-ke
+yous meet-1s 2.NPT-ASS
+'I shall meet yous.'
+koŋ
+I
+am-muks
+sip-dit-wa
+yours-eye close.eyes-MOM-IMP
+'Close your eyes!'
+ir-or-wa
+tell-1s.NPT-IMP
+'Tell me!'
+let-ca-wa
+live-CNT-IMP
+27
+S
+Predicates with three arguments (agent, patient and indirect object),
+like pima 'to give', are constructed with the agent appearing in the
+ergative, and both the patient and indirect object in the absolutive,
+though the verb shows agreement with the patient. In sentence (95)
+below, the arguments an 'you' and di 'millet beer' are in the unmark-
+ed absolutive, whereas kon-a 'I', the agent of the transitive verb 'to
+give', appears in the ergative marked here with the suffix <-a>.
+A
+28
+95
+96
+koŋ-a an
+I-ERG yous
+97
+Furthermore, the absolutive is used in expressing the place or entity
+towards which an action proceeds, e.g. kim 'home'.
+CHAPTER THREE
+millet.beer
+'I'll give yous millet beer.'
+3.2.3 The instrumental
+98
+di
+k"im-?o k'at-ya
+house-Q go-1p.NPT
+'Are wepi going home?'
+The instrumental <-?a> (INS) expresses the instrument or cause of the
+action or situation described by the verb.
+or-hu-?a
+my-hand-INS
+pi-yan
+give-1s→2.NPT
+o:-sokowar namchowa-?a
+ək-q
+my-skin
+sunshine-INS
+be.shed-PT
+'My skin has been peeled by the sunshine.'
+The instrumental <-?a> is identical in form with the ergative, but be-
+haves differently at the morphosyntactic level. A verb in Kulung
+shows agreement with the agent or patient, but never with an argu-
+ment in the instrumental. In example (98), the verb coi-o: shows
+agreement with a first person agent and third person patient. If the
+morpheme <-?a> in or-hu-?a were to be an ergative, then the correct
+verb would have been *cəi-ə, and the meaning of the sentence would
+have been **My hand eats it'.
+coi-o:
+eat-1s.NPT
+'I'll eat [it] with my hands.'
+99
+100
+101
+40
+102
+103
+104
+siŋ-?a
+ker-yan
+wood-INS
+hit-1s 2.NPT
+'I'll hit you with [a piece of] wood.'
+3.2.4 The genitive
+105
+NOMINAL CATEGORIES
+pakpou
+kind.of.bamboo hammer-INS
+konk"edum-?a dup-o:
+'I beat the bamboo with a hammer.'
+yu:-?a
+0:-bo
+millet.paste-INS my-belly
+The genitive case <-mi> (GEN) denotes ownership, possession or be-
+longing and can be added to nouns.
+'I am full of millet paste.'
+(lit. 'My belly has become satisfied with millet paste.')
+as-mi
+cha
+who-GEN child cry-PT
+khap-a
+o-ho:p-mi
+my-own-GEN
+'Whose child was crying?'
+beat-1s.NPT
+rin-ka
+language-ABL
+k"as-a
+be.satisfied-PT
+'in my own language'
+ok"i-bon-mi
+nap hui-a
+ourpe-uncle-GEN nose burn-PT
+'Ourpe uncle's nose became burnt.'
+khat-a
+go-PT
+29
+mis-mi
+k"at-a-the
+yi
+jo:-s
+person-GEN dry.field plough-SUP go-PT-REP
+'They say he went to plough someone's field.'
+30
+106
+107
+'the names of the days'
+The genitive is also used to express 'made of, as in the next example.
+lis-mi
+makai-mi lin-mi
+nurma
+chur-e
+millet-GEN maize-GEN yeast-GEN beer be-nls
+'Beer is made of millet, maize and yeast."
+3.2.5 The vocative
+108
+lei-mi
+niŋ
+day-GEN name
+The vocative <-?a> (VOC) is used in direct address. The nominal argu-
+ment in the vocative is often preceded by the interjection e 'hey'.
+or-nec¹o-?a
+109
+CHAPTER THREE
+3.2.6 The locative
+110
+e
+hey
+kau
+my-younger.sibling-VOC water
+‘Hey, younger sibling, bring water!'
+The locative <-pi> (LOC) is used to denote place. In terms of spatial
+deixis, three other Kulung locatives can be distinguished: <-pa> ‘at/in
+the place further (at same level)', <-pu> 'at/in the place (at a lower
+level)' and <-pto ~-to> ‘at/in the place (at a higher level)'.
+k"im-pi
+house-LOC
+tu-cai-ci
+sit-CNT-d
+‘Wedi are sitting in the house."
+bai-wa
+bring-IMP
+am-tel-pa
+bo: man-tu-yo
+yours-village-LOC pig NEG.PT-be-Q
+'Are there no pigs in yours village?'
+111
+112
+113
+114
+115
+m-ho:p-mi
+his-own-GEN
+116
+NOMINAL CATEGORIES
+'He isn't in his own house."
+k"im-pa
+house-LOC
+am-ma-pu
+di
+yours-mother-LOC millet.beer
+'I'll drink millet beer down at your mother's house.'
+man-tu
+NEG.PT-be
+lam
+iy-a-na
+nokc¹o-la lam
+bayu gudel-mi
+priest-ERG road teach-3P.NPT-PFG spirit Gudel-GEN
+m-cho-pto
+poks-a
+its-top-LOC send-3P.NPT
+phuks
+thatch
+'Having shown the path, he sends the spirit to the top of
+Gudel.'
+0:-ma-ci-pto
+my-mother-ns-LOC
+'at [the house of] my mother [and her family]'
+The locative <-pto> has a regular allomorph <-to> after nouns ending
+in a consonant.
+khim-to-n
+tu:-0
+house-LOC-EMP sit-1s.PT
+'I am sitting in the house up there.'
+duŋ-o:
+drink-1s.NPT
+3.2.7 The comitative
+k"imt¹em-to yuks-a-ci
+roof-LOC
+"They thatched the roof.'
+31
+coi-o:
+CNT-1s.NPT
+put-3P.NPT-3ns
+The comitative <-lo> (COM) denotes the persons or things which ac-
+company or take part in an action.
+32
+117
+118
+119
+120
+121
+am-niu-lo
+yours-mind-COM
+122
+123
+'Did you understand?'
+(lit. 'Have you covered it with your mind?')
+rum-lo
+CƏ-wƏ
+salt-COM eat-IMP
+'Eat it with salt.'
+kon-lo
+I-COM
+CHAPTER THREE
+k"at-ci
+go-d
+'Let's go together.'
+an
+yous
+am-bu-lo
+3.2.8 The ablative
+k'app-u-yo
+cover-3P.PT-Q
+as-lo-i
+who-COM-Q
+'With whom did you go?'
+k"at-a
+go-PT
+sur
+yours-elder.brother-COM wedding
+'Go with yours elder brother to the wedding!'
+The ablative <-pka ~ -ka> (ABL) denotes the source.
+an or-pka
+chuli
+yous my-ABL anger have.leisure-INF be(nls)-NEG.NPT
+'You' mustn't be angry with me.'
+nəŋlo-pka
+winnowing.tray-ABL
+k"at-ci-wa
+go-d-IMP
+kai-m
+'from a winnowing tray'
+c'ui-no
+124
+The ablative <-pka> has a regular allomorph <-ka> after nouns ending
+in a consonant.
+125
+126
+127
+128
+nokco-?a
+wabam-ka diləlam-?a tosluŋ
+priest-ERG gourd-ABL ritual.beer-INS ritual.stone
+kuiy-u
+libate-3P.PT
+NOMINAL CATEGORIES
+"The priest libated the ritual stone with ritual beer from
+the gourd.'
+k"oŋ-ka
+dap-te
+small.brass.bowl-ABL taste-IMP
+'Taste it from the small brass bowl!'
+gudel-ka
+ban-o-kə
+Gudel-ABL come-1s.PT-SUB
+'[It is a fact that] I have come from Gudel.'
+an-kə
+k"im-ka-yo
+yous-TOP house-ABL-Q
+'Are yous [coming] from [your$] house?'
+33
+The ablative is also found in some idiomatic expressions. The verb
+tumma 'to meet' governs the ablative with the meaning to meet
+someone, i.e. to gather at a particular place'. In the following sen-
+tence, the ablative is affixed to a nominalised verbal form.
+kei ikhi
+wepi here
+3.2.9 The elative
+tu-p-ci-ka-n
+tup-i-nu
+meet-1p.PT-OPT
+be-AP-ns-ABL-EMP
+'May wepi meet [again] with the ones now here present!'
+The elative, consisting of one of the four locatives <-pi>, <-pa>,
+<-pu>, or <-pto> followed by the ablative <-pka>, conveys the mean-
+34
+ing ‘from out of'. The difference in sense between a Kulung ablative
+and elative is lost in the English rendering, cf. (126) vs. (129).
+129
+130
+131
+132
+133
+CHAPTER THREE
+mamerku-pa-ka
+Mämerku-LOC-ABL
+ban-o
+come-1s.PT
+'I have come from Mämerku.'
+sotto-pu-ka
+t'oŋ-o-ka
+Sotāŋ-LOC-ABL come.up-Is.PT-SUB
+'I have come from Sotan.'
+nam-to-ka
+hups-a
+fall.down-PT
+sun-LOC-ABL
+'It has fallen down from the sun [above].'
+kulurin-pi-ka
+oi-nei-m
+ləi-e
+Kulung.language-LOC-ABL my-speak-INF feel-nls
+'I like to speak Kulung'
+o:-riŋ-pi-ka
+cham
+loi-o:
+my-language-LOC-ABL song sing-1s.NPT
+'I shall sing a song in my language.'
+A suffix <-yika> 'since' is found with temporal adverbs like espa
+'yesterday' or desa 'tomorrow'. Historically, this suffix probably con-
+sists of an unattested locative <-yi> which is cognate to the Dumi
+locative in temporal sense <-yi> (van Driem 1993a: 71) and the allo-
+morph <-ka> of the ablative suffix <-pka>.
+134
+khena
+well
+thoŋ-or-yo
+come-1s.NPT-Q
+desa-yika
+tomorrow-from
+'Well, shall I come from tomorrow on?'

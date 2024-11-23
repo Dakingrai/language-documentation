@@ -1,0 +1,36 @@
+PARTICLES
+Particles are monosyllabic morphemes that can be attached to all the different parts of speech and add a semantic nuance to a word or sentence.
+
+Question particles
+Of the three question particles -ko, -yo and -ʔo, the question particle -yo is the most used. Addition of this question particle converts the sentence into a yes-or-no question. Affirmation can be expressed by e 'yes' and negation by ma 'no'. Besides using a question particle, it is perhaps far more common to answer with a finite affirmative or negated form.
+A typical question consists of one affirmative and one negated finite verb with the question particle added to both finite forms.
+The question particle -ko differs from -yo and -ʔo in that the question particle -ko can only be added to verbs.
+The question particle -ʔo is an all-round question particle that can be added to any part of speech.
+
+The topic particle -kə
+The topic particle -kə (TOP) may be attached to nouns, pronouns, adjectives and adverbs to topicalise the word the topic particle is attached to. Topicalising a word means making the word the theme of the sentence.
+
+The contrastive particle -ne
+The contrastive particle -ne (CTR) has contrastive and adversative meaning.
+The particle has an allomorph -n after words ending in a vowel. The contrastive particle -ne can be added after nouns, personal pronouns, and adverbs.
+In many instances, the particle adds just a slight contrastive notion to the sentence.
+
+The emphatic particle -ŋa
+The emphatic particle -ŋa has an allophone -ŋ after words ending in a vowel. Added to case endings and nouns, the emphatic particle -ŋa expresses a meaning comparable to that expressed by English 'the very'. The empahtic particle can also modify adverbs and verb forms.
+
+The affirmative particle -ha
+The affirmative particle -ha (AFF) expects an affirmative answer a 'yes' to a question. The implication therefore is that the speaker feels quite certain of the information conveyed by the sentence.
+
+The assertive particle -ke
+The assertive particle -ke (ASS) adds extra assertion to a verb.
+
+he probability particle -pʰo
+The particle -pʰo (PRB) expresses probability of the utterance.
+
+The reported speech particle -tʰe
+The reported speech particle -tʰe indicates that the information conveyed by the utterance is second-hand.
+There is no marker for direct speech. The words of the direct speech are just placed before the finite verbum dicendi in the sentence.
+In Kulung, there is no marker for indirect speech.
+
+The emotion particle -i
+The particle -i (EMO) imbues a word or sentence with additional emotion. The emotions that can be found with this particle may vary from anger or despair to surprise.

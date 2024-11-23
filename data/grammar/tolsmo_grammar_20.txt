@@ -1,0 +1,736 @@
+180
+13.1
+13.2
+13.3
+13.4
+13.5
+13.6
+13.7
+APPENDIX ONE
+c"up-pu
+cooking.pot-LOC
+'One pours ground maize in a cooking pot.'
+makaiser
+ground.maize pour.in-1p-3.NPT
+k"ikka makaiser
+dur-e
+then ground.maize pour.in-1p-3.NPT-PFG cook-nls
+"Then, having poured ground maize [in the cooking pot],
+it cooks.'
+tes-am
+tes-am-na
+jijis
+ba:m
+te-m
+a.little buckwheat put.in-INF
+'A little buckwheat has to be added.'
+tes-am-na-n
+chu:-e
+be-nis
+khikka-n lin tes-am
+then-CTR yeast pour.in-1p-3.NPT
+'Then yeast must be added.'
+liŋ
+yeast pour.in-1p-3.NPT-PFG-CTR bamboo.basket-LOC
+sum-am
+khikkana lip-pu
+thereafter jug-LOC
+ba:-pu
+ferment-1p-3.NPT
+'Having poured yeast into [the cooking pot], one fer-
+ments it [the maize] in a bamboo basket."
+khikkana bər-pu
+thereafter bamboo.basket-LOC ferment-1p-3.NPT-PFG
+bai-a
+sum-am-na
+be.fermented-3P.NPT
+'Thereafter, having fermented [the maize] in a bamboo.
+basket, [the maize] will be fermented.'
+liŋ-am
+pour.into-1p→→→3.NPT
+"Thereafter, one pours [the maize] into a jug.'
+13.8
+13.9
+SAMPLE TEXTS
+lip-pu
+jug-LOC pour.into-1p-3.NPT-PFG unfiltered.beer
+duŋ-am
+lin-am-na
+nurma
+drink-1p-3.NPT
+'Having poured [the maize] into a jug, one drinks the
+beer.'
+181
+khikkana nurma
+dun-um
+thereafter unfiltered.beer drink-1p-3.PT
+khi:-am-ka
+m-sip-ne
+raksi ŋi:-am
+1p-3.NPT-SUB its-husk-CTR raksi cook-1p-3.NPT
+'Afterwards, from the husk of the unfiltered beer that one
+has drunk, one cooks [i.e. distils] raksi.'
+2.1 Intransitive verbs
+2.1.1 perma vi-1 [1: per-], fly.
+1ST PERSON SUBJECT
+1s
+pero:
+1di
+perci
+1de
+percika
+1pi
+1pe
+NON-PRETERITE
+perya
+peryaka
+APPENDIX TWO
+2ND PERSON SUBJECT
+2s
+pere
+2d
+perci
+2p
+perni
+PARADIGMS
+3RD PERSON SUBJECT
+3
+pere
+PRETERITE
+pero
+peraci
+peracika
+peri
+perika
+perno
+percino
+pernino
+perno
+NEG PRETERITE
+mamperna
+mamperci
+mamperska
+mamperi
+mamperika
+mamperna
+mampernci
+mamperni
+mamper
+RFA AI
+184
+2.1.2 namma vi-1 [1: nam-], smell.
+1ST PERSON SUBJECT
+1s
+1di
+1de
+1pi
+1pe
+NON-PRETERITE
+namo:
+namci
+namcika
+namya
+namyaka
+2ND PERSON SUBJECT
+2s
+2d
+2p
+name
+namci
+namni
+3RD PERSON SUBJECT
+3
+2s
+2d
+2p
+name
+APPENDIX TWO
+1ST PERSON SUBJECT
+1s
+imso:
+1di
+imsci
+1de
+imscika
+1pi
+imsya
+1pe
+imsyaka
+NON-PRETERITE
+2ND PERSON SUBJECT
+imse
+imsci
+imsni
+3RD PERSON SUBJECT
+3
+imse
+PRETERITE
+2.1.3 imma vi-2 [1: ims- 2: im-], sleep.
+namo
+namaci
+namacika
+nami
+namika
+nama
+namaci
+namani
+nama
+PRETERITE
+imso
+imsaci
+imsacika
+imsi
+imsika
+imsa
+imsaci
+imsani
+imsa
+NEG PRETERITE
+mannamŋa
+mannamci
+mannamska
+mannami
+mannamika
+mannamna
+mannamci
+mannamni
+mannam
+NEG PRETERITE
+maŋimŋa
+manimci
+maŋimska
+maŋimyi
+maŋimyika
+maŋimna
+maŋimnci
+manimni
+maŋim
+2.1.4 gema vi-2 [1: ges- 2: ge-], laugh.
+1ST PERSON SUBJECT
+1s
+geso:
+Idi
+gesci
+1de
+gescika
+1pi
+1pe
+NON-PRETERITE
+gesya
+gesyaka
+2ND PERSON SUBJECT
+2s
+gese
+2d
+gesci
+2p
+gesni
+3RD PERSON SUBJECT
+3
+gese
+2s
+2d
+2p
+1ST PERSON SUBJECT
+1s
+1 di
+1de
+1pi
+1pe
+PARADIGMS
+chukso:
+chuksci
+chukscika
+chuksya
+c"uksyaka
+2ND PERSON SUBJECT
+chukse
+chuksci
+chuksni
+PRETERITE
+2.1.5 chu:ma vi-2 [1: chuks- 2: chu:-], cough.
+3RD PERSON SUBJECT
+3
+chukse
+geso
+gesaci
+gesacika
+gesi
+gesika
+NON-PRETERITE PRETERITE
+gesa
+gesaci
+gesani
+gesa
+chukso
+chuksaci
+c"uksacika
+chuksi
+chuksika
+chuksa
+chuksaci
+chuksani
+chuksa
+NEG PRETERITE
+maŋgeŋa
+maŋgeci
+maŋgeska
+maŋgeyi
+maŋgeyika
+maŋgena
+mangenci
+maŋgenni
+maŋge
+NEG PRETERITE
+manc"una
+manc'uici
+manc"uiska
+manc'u:yi
+manc"uryika
+185
+mancuna
+manc"unci
+manc"unni
+manchu:
+186
+2.1.6 tho:ma vi-2 [1: thon- 2: tho:-], come up.
+1ST PERSON SUBJECT
+thoŋo:
+thoŋci
+1s
+1 di
+1de
+1pi
+1pe
+NON-PRETERITE
+2s
+2d
+2p
+thoŋcika
+thonya
+thoŋyaka
+2ND PERSON SUBJECT
+t"one
+t" onci
+t"oŋni
+3RD PERSON SUBJECT
+3
+thoŋe
+APPENDIX TWO
+NON-PRETERITE
+1ST PERSON SUBJECT
+1s
+yuro!
+1di
+yu:ci
+1de
+yu:cika
+1pi
+1pe
+yurya
+yuryaka
+2ND PERSON SUBJECT
+2s
+yuie
+2d
+yurci
+2p
+yuni
+3RD PERSON SUBJECT
+3
+yuie
+PRETERITE
+2.1.7 yuma vi-2 [1: yu:- 2: yu-], come down.
+thono
+thoŋaci
+t"onacika
+thoni
+t"oŋika
+t"oŋa
+t"oŋaci
+thoŋani
+thoŋa
+PRETERITE
+yu:o
+yu:aci
+yu:acika
+yuri
+yu:ika
+yura
+yu:aci
+yu:ani
+yu:a
+NEG PRETERITE
+mant"o:ŋa
+mant"o:ci
+mant"o:ska
+mant"o:yi
+mant'oryika
+mant¹o:na
+mant"o:nci
+mant" onni
+mant"o:
+NEG PRETERITE
+manyuna
+manyuci
+manyuska
+manyuyi
+manyuyika
+manyuna
+manyunci
+manyunni
+manyu
+2.1.8 tuma vi-2 [1: tu:- 2: tu-], be, sit.
+1ST PERSON SUBJECT
+turo:
+turci
+turcika
+Is
+1di
+1de
+1pi
+1pe
+2s
+2d
+2p
+2ND PERSON SUBJECT
+ture
+turci
+turni
+NON-PRETERITE
+turya
+turyaka
+3RD PERSON SUBJECT
+3
+tu:e
+1s
+1di
+1de
+1pi
+1pe
+2.1.9 sima vi-2 [1: si:- 2: si-], die.
+1ST PERSON SUBJECT
+si:o:
+si:ci
+si:cika
+siya
+siyaka
+2s
+2d
+2p
+PARADIGMS
+NON-PRETERITE
+2ND PERSON SUBJECT
+si:e
+sici
+sini
+3RD PERSON SUBJECT
+3
+site
+PRETERITE
+turo
+turaci
+turacika
+turi
+turika
+tura
+turaci
+turani
+tura
+PRETERITE
+si:o
+si:aci
+si:acika
+siri
+sirika
+sixa
+sixaci
+silani
+si:a
+NEG PRETERITE
+mantuŋa
+mantuci
+mantuska
+mantuyi
+mantuyika
+mantuna
+mantunci
+mantunni
+mantu
+NEG PRETERITE
+mansiŋa
+mansici
+mansiska
+mansiyi
+mansiyika
+187
+mansina
+mansinci
+mansinni
+mansi
+4
+188
+2.1.10 khaima vi-3 [1: khat- 2: khai- 3: khan-], go.
+1ST PERSON SUBJECT
+k"ato:
+k" atci
+khatcika
+k"atya
+k"atyaka
+1s
+1 di
+1 de
+1pi
+1pe
+2ND PERSON SUBJECT
+khate
+khatci
+khatni
+2s
+2d
+2p
+NON-PRETERITE
+3RD PERSON SUBJECT
+3
+khate
+1s
+1 di
+1de
+1pi
+1pe
+1ST PERSON SUBJECT
+bano:
+banci
+bancika
+banya
+banyaka
+APPENDIX TWO
+2s
+2d
+2p
+2ND PERSON SUBJECT
+bane
+banci
+banni
+PRETERITE
+3RD PERSON SUBJECT
+3
+bane
+k'ato
+k'ataci
+k'atacika
+khati
+k"atika
+k'ata
+k'ataci
+k" atani
+NON-PRETERITE PRETERITE
+k" ata
+2.1.11 baima vi-3 [1: ban- 2: bai- 3: ban-], come (along a horizontal
+plane).
+bano
+banaci
+banacika
+bani
+banika
+bana
+banaci
+banani
+NEG PRETERITE
+bana
+maŋk"aina
+maŋk" atci
+mank" aiska
+maŋk"aiyi
+maŋk"aiyika
+maŋk" anna
+maŋk"anci
+maŋk" anni
+maŋkhai
+NEG PRETERITE
+mambaiŋa
+mambaici
+mambaiska
+mambaiyi
+mambaiyika
+mambanna
+mambanci
+mambanni
+mambai
+2.1.12 pima vi-4 [1: pik- 2: pi:- 3: pik-], speak.
+1ST PERSON SUBJECT
+piko:
+pikci
+pikcika
+pikya
+pikyaka
+1s
+1di
+1de
+1pi
+1pe
+2ND PERSON SUBJECT
+pike
+pikci
+pikni
+2s
+2d
+2p
+NON-PRETERITE
+3RD PERSON SUBJECT
+3
+pike
+1s
+1di
+1de
+1pi
+1pe
+1ST PERSON SUBJECT
+pako:
+pakci
+pakcika
+pakya
+pəkyaka
+PARADIGMS
+2s
+2d
+2p
+NON-PRETERITE
+2ND PERSON SUBJECT
+pake
+pakci
+pəkni
+3RD PERSON SUBJECT
+3
+pake
+PRETERITE
+piko
+pikaci
+pikacika
+piki
+pikika
+pika
+pikaci
+pikani
+2.1.13 po:ma vi-4 [1: pək- 2: po:- 3: pok-], wake up, stand up.
+pika
+PRETERITE
+pako
+pəkaci
+pəkacika
+pəki
+pakika
+pəka
+pəkaci
+pəkani
+paka
+NEG PRETERITE
+mampi:ŋa
+mampikci
+mampikska
+mampiyi
+mampiryika
+mampi:na
+mampimci
+mampinni
+mampi:
+NEG PRETERITE
+mampona
+mampokci
+mampokska
+mampo:yi
+mampo:yika
+189
+mampona
+mampo:nci
+mampo:nni
+mampo:
+a ca va
+190
+2.1.14 aima vi-5 [1: at- 2: ai- 3: att- 4: an- 5: a:-], come back
+1ST PERSON SUBJECT
+ato:
+atci
+atcika
+1s
+1di
+1de
+1pi
+1pe
+2s
+2d
+2p
+2ND PERSON SUBJECT
+atte
+atci
+atni
+NON-PRETERITE
+atya
+atyaka
+3RD PERSON SUBJECT
+3
+atte
+1s
+1 di
+1de
+1pi
+1pe
+1ST PERSON SUBJECT
+uto:
+utci
+utcika
+2s
+2d
+2p
+APPENDIX TWO
+NON-PRETERITE
+utya
+utyaka
+2ND PERSON SUBJECT
+utte
+utci
+utni
+3RD PERSON SUBJECT
+3
+utte
+PRETERITE
+ato
+ataci
+atacika
+ati
+atika
+atta
+ataci
+atani
+2.1.15 uima vi-5 [1: ut- 2: ui- 3: utt- 4: un- 5: u:-], recline.
+atta
+PRETERITE
+uto
+utaci
+utacika
+uti
+utika
+utta
+utaci
+utanni
+NEG PRETERITE
+utta
+manaina
+mananci
+maŋa:ska
+manaiyi
+maŋaiyika
+maŋanna
+maŋanci
+maŋanni
+maŋai
+NEG PRETERITE
+manuina
+maŋunci
+maŋu:ska
+maŋuiyi
+maŋuiyika
+maŋunna
+maŋunci
+maŋunni
+maŋui

@@ -1,0 +1,63 @@
+A Kulung finite verb consists of a verb stem to which up to three affixes can be added. These affixes may indicate tense, person, number and negation and even distinguish between inclusive vs. exclusive.
+The majority of affixes are portemanteau morphemes, i.e. one morpheme conveys two or more semantic features. The morpheme -o:, for example, indicates both first person and non-preterite tense.
+The affixes are divided into prefixal and suffixal slots. In total, twenty-two affixes occupy one prefixal and four suffixal slots.
+
+Prefixal slot 1 precedes the verb stem.
+
+man- preterite negative morpheme (NEG.PT)
+
+Suffixal slot 1 contains the preterite marker and portemanteau morphemes that indicate tense and involve one or two actants. The synchronic system of verbal affixation shows that third person patient preterite -u is expressed unless there is a portemanteau morpheme present in the affixal string that indicates both agent and patient.
+
+-a preterite (PT)
+-o: first singular non-preterite (1s.NPT)
+-o first singular preterite (1s.PT)
+-ŋa first singular negative preterite (1s.NEG.PT)
+-ya first plural non-preterite (1p.NPT)
+-i first plural preterite (1p.PT)
+-am 1p 3 non-preterite (1p→3.NPT)
+-um 1p-3 preterite (1p→3.PT)
+
+The relative position of the dual marker -ci in the suffixal string enables us to identify and posit suffixal slot 2 because the dual marker follows the preterite tense marker -a in suffixal slot 1 and precedes the exclusive marker -ka in suffixal slot 3.
+
+-e	non-first person singular (n1s)
+-cu	d→3
+-num	2p→3
+-ci	dual (d)
+-ni	second person plural (2p)
+-ci	third person non-singular (3ns)
+
+Suffixal slot 3 is only occupied by the exclusive morpheme -ka. 
+
+The last suffixal slot is occupied by the negative non-preterite morpheme -no (NEG.NPT).
+
+PREFIXES
+The preterite negative prefix man-, mam-, maŋ- (NEG.PT) in prefixal slot indicates negation and preterite tense in all persons. Besides indicating negation and preterite tense in all persons, the prefix man- is found in the finite verb forms man-tu and man-chu which mean 'is not' and 'should not' respectively. Moreover, the prefix man- is the marker of negation for non-finite forms such as infinitives in -ma, active participles in -pa, and forms ending in the negated simultaneous suffix -mo or sequential suffix -na.
+
+SUFFIXES
+The tense marker -a occurs in affirmative forms of the preterite. The preterite tense marker -a s not found in verb forms in which preterite tense is already indicated by a portemanteau morpheme, e.g. the first plural preterite suffix -i. The Kulung tense system distinguishes between an unmarked non-preterite tense and a marked preterite tense. Non-preterite tense is used for depicting actions and events that take place at the moment of speech or in the future, whereas preterite tense refers to past actions or events.
+The first singular non-preterite actant morpheme -o: indicates a first singular actant in the non-preterite tense.
+The first singular preterite actant morpheme -o indicates a first singular actant in the preterite tense.
+The first singular negative preterite morpheme -ŋa occurs in negative preterite forms with a first singular actant.
+The first plural non-preterite morpheme -ya indicates a first plural person in the non-preterite tense.
+The first plural preterite morpheme -i,  -yi indicates a first plural in the preterite tense. This suffix has an allomorph -yi after stems ending in a vowel or nasal.
+The 1p→3.NPT morpheme -am indicates a transitive relationship between a first person plural agent and a third person patient in the non-preterite tense.
+The 1p→3.PT morpheme -um indicates a transitive relationship between a first person plural agent and a third person patient in the preterite tense.
+The second singular preterite morpheme -na, -nna, -n indicates the involvement of a second person singular in the preterite tense. The suffix has an allomorph -nna after stems ending in a vowel and an allomorph -n when followed by the dual suffix -ci or by the question particle -yo.
+The 1s→2.NPT morpheme -yan indicates the transitive relationship between a first singular agent and a second person patient in the non-preterite tense.
+The 1s→3.PT morpheme -u indicates the transitive relationship of a third person patient with a first singular person agent in the preterite tense.
+The 3P.NPT morpheme -ə indicates a third person patient with a non-first singular person agent in the non-preterite tense.
+The third person patient preterite morpheme -u indicates a third person patient in the preterite tense.
+The non-first person singular morpheme -e, indicating a non-first person, is an epenthetic suffix that is elided in most verb forms, e.g. before the non-preterite negative suffix -no, the conditional suffix -do and the reported speech suffix -tʰe. The suffix differs from other verbal affixes in that the non-first person singular morpheme is found after the interrogative pronouns as-e ‘who is it?' and u-i-e 'what is it?'.
+The d-3 morpheme -cu indicates the transitive relationship of a dual agent and a third person patient.
+The second person plural agent morpheme -num indicates the transitive relationship of a second plural agent and a third person patient.
+The dual morpheme -ci, -s indicates dual actant number. This suffix has an allomorph -s in negative preterite first person dual exclusive form and some other paradigmatically conditioned forms.
+The second person plural morpheme -ni indicates a second person plural actant in intransitive forms and in 1→2p, 2p→1s and 1ns/3→2p forms.
+The third person non-singular morpheme -ci, -s indicates non-singular number of a third person actant. This morpheme has the allomorph -s in negative non-preterite 2s→3ns and (3→3)ns forms and when followed by the subordinate particle -ka or the reported speech particle -tʰe.
+The exclusive morpheme -ka indicates exclusive actant except in 1→2 forms. The Kulung paradigm does not distinguish the various 1ns→2 forms from the corresponding 3→2 forms.
+The non-preterite negative morpheme -no indicates negation in the non-preterite tense.
+
+Verbs 'to be'
+The verb tuma ‘to be, sit' is used to express existential, attributive and locational meaning.
+In existential meaning, the phrase can be interpreted as an equivalent of the English verb 'to have'. In such a construction, the possessor appears in the genitive.
+Constructions with copular meaning are made by the juxtaposition of two nouns.
+The verb chuma ‘to be, become' is used to express inchoativity, exigency or intrinsic property.

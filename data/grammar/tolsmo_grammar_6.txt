@@ -1,0 +1,517 @@
+3.2.10 The mediative
+The mediative <-la> (MED) means 'via, by way of'.
+135
+136
+NOMINAL CATEGORIES
+gudel-la
+ban-o-kə
+Gudel-MED come-1s.PT-SUB
+3.3 Pronouns
+kon
+kas
+kaska
+kei
+keika
+'I have come by way of Gudel.'
+yur-oi-ke
+an
+anci
+anni
+ŋkə
+ŋkəs
+am-dos-la
+yours-back-MED
+come.down-1s.NPT-ASS
+'I am sliding down along your backside'
+ABSOLUTIVE
+3.3.1 Personal pronouns
+The ten personal pronouns in the absolutive and ergative case are
+listed below. Except for the third person, the personal pronouns differ
+for singular, dual and plural number. Furthermore, first person pro-
+nouns have different forms for inclusive and exclusive.
+ERGATIVE
+koŋ-a
+kac-a
+kaska
+kei-a
+keika
+an-a
+anc-a
+anna
+ŋkə-sa
+ŋkəc-a
+GLOSS
+'I'
+'wedi'
+'wede,
+'wepi'
+'wepe,
+'yous'
+'youd,
+'youp'
+'he'
+'they'
+Table 8: Personal pronouns
+ABBREVIATION
+1s
+1 di
+1de
+1pi
+1pe
+2s
+2d
+35
+2p
+3s
+3ns
+36
+3.3.2 Personal possessive prefixes
+The ten personal pronouns have corresponding possessive prefixes,
+which precede the nouns they modify.
+137
+138
+139
+140
+PREFIX
+01-
+ici-
+oci-
+i-
+ok'i-
+am-
+amci-
+amni-
+M-
+k"əci-
+GLOSS
+'my'
+'ourdi,
+'ourde,
+'ourpi,
+'ourpe,
+'yours'
+'yourd'
+'yourp'
+'his'
+'their'
+Table 9: Personal possessive prefixes
+o:-ji
+my-happiness
+CHAPTER THREE
+'I am happy.'
+m-k¹im
+his-house
+nə
+be.good:PT
+khi-m
+an-a
+am-toŋ
+yat-u-yo
+yous-ERG yours-head comb-INF finish-3P.PT-Q
+'Have you finished combing your hair?'
+khat-a
+go-PT
+'He went home.'
+am-u-i
+tuk-e
+yours-what-Q hurt-n1s
+'What [limb] of you hurts?'
+141
+142
+143
+144
+Occasionally, the personal possessive prefix can be found preceding
+the genitive case ending, as in example (142).
+am-pi
+mi
+yours-LOC fire
+145
+146
+NOMINAL CATEGORIES
+'Have you got a light?"
+o:-mi
+my-GEN
+kalam
+pen
+'I don't have a pen.'
+The possessive prefixes precede the reflexive pronoun -hop 'own,
+self and the possessive prefix dependent adverb -halla 'alone, on
+own's one'.
+tu:-e-yo
+be-nis-Q
+o:-ho:p-a
+my-self-ERG
+man-tu
+NEG.PT-be
+k"ur-u
+carry-1s 3.PT
+'I carried it myself.'
+u-i
+what-Q
+am-ho:p-a-ŋ
+let-na
+yours-self-ERG-EMP pour-PFG
+'Pour it yourself and drink it!'
+pik-a
+say-PT
+'What did he say?"
+3.3.3 Interrogative and indefinite pronouns
+A fairly exhaustive list of interrogative and indefinite pronouns is pre-
+AN
+sented in the Table 10.
+37
+duŋ-wa
+drink-IMP
+da:lo
+SO
+when (in the past also
+'I never went.'
+man-khai-na
+NEG.PT-go-1s.NEG.PT
+38
+147
+CASE
+namnammu
+poor
+ban-a
+come-PT
+absolutive
+ergative
+genitive
+instrumental
+locative
+comitative
+absolutive
+ergative
+genitive
+instrumental
+locative
+comitative
+u-ro-i
+u-ton-ka-i
+u-ton-na-i
+har
+harkə-i
+ha:de-i
+"The poor thing, he has come without having eaten any-
+thing!'
+ha:-pi
+dailo-i
+da:na-i
+deppo-i
+CHAPTER THREE
+U
+SO-ŋ
+what also-EMP
+PRONOUN
+as
+as-a-i
+as-mi
+as-a-i
+man-ca-mo
+NEG.PT-eat-PRG
+as-pi
+as-lo-i
+u-i
+u-sa-i
+u-mi
+u-sa-i
+u-pi
+u-lo-i
+GLOSS
+'who'
+'who'
+'whose'
+'by whom'
+'at whom'
+'with whom'
+'what'
+'what'
+'what kind of
+'by what'
+'why'
+'with what'
+'why, for what reason'
+'what kind of
+'how, what sort of
+'which'
+'which one'
+'when (in the future)'
+'where'
+'when (in the past)'
+'how, in what manner'
+'how many'
+Table 10: Interrogative and indefinite pronouns
+148
+149
+150
+151
+152
+am-sokowar u-toŋ-kə-i
+yours-skin
+NOMINAL CATEGORIES
+'What is your skin like?'
+upi t"oŋ-a
+why
+ha:
+tel-pi-ka-i
+which village-LOC-ABL-Q come:PT-SUB-Q
+'From which village have you come?'
+har-kə
+which-TOP
+what-like-TOP-Q
+come.up-PT
+'Why have you come?'
+u-kə-i
+what-TOP-Q
+'By which road?'
+3.4 Numerals
+lam-la-i
+road-MED-Q
+tim-o:
+press-1s.NPT
+'Which one shall I press?'
+tur-e
+be-nls
+ta-kə-i
+39
+Although the Nepali numeral system is widely used in Kulung, I was
+able to collect the indigenous numerals from 1 to 10. Numerals have
+classifier suffixes attached to the numeral stem. When counting hu-
+man referents, the classifier <-po> is added to the numeral stem. For
+non-human referents, the classifier <-bou> is found. In the next table,
+the numerals from 1 to 10 are presented.
+40
+NUMERAL
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+COUNTING
+FORMS
+153
+ir-bum
+nit-ci
+sup-ci
+lir-ci
+ŋa-ci
+tuk-ci
+nup-ci
+ret-ci
+bor-ci
+ik-poŋ
+CHAPTER THREE
+omlo:pa
+gugurpa
+halala:pa
+HUMAN
+REFERENT
+gigippa
+besarwa
+momoppa
+il-po
+nip-po
+sup-po
+lip-po
+пар-ро
+tup-po
+nup-po
+rep-po
+bop-po
+ik-poŋ-po
+Table 11: Numerals
+3.5 Adjectives
+Unlike some Tibeto-Burman languages such as Chinese or Lahu,
+which express adjectival concepts through intransitive verbs, Kulung
+possesses parts of speech which may be called adjectives. Adjectives
+differ from nouns by virtue of their inability to take case endings. In
+Kulung adjectives precede the noun they belong to and can be modi-
+fied by adverbs which precede them.
+NON-HUMAN
+REFERENT
+3.5.1 Colour adjectives
+Colour terms are expressed by adjectives. The term gigippa covers a
+range on the colour spectrum from 'green' to 'purple'. Moreover, the
+term for 'yellow' is derived from besar, the Nepali word for 'tur-
+meric'.
+ir-bou
+nis-bou
+suk-bou
+lik-bou
+ŋak-bou
+tuk-bou
+nuk-bou
+rek-bou
+bok-bou
+ik-poŋ-bou
+'white, light yellow'
+'black'
+'red, pink'
+'green, blue, purple'
+'yellow'
+'brown'
+154
+3.5.2 Intensive
+The intensive suffix <-yo> (INT) can be added to the adjective stem to
+emphasise the intensity of the quality the adjective expresses. From
+the adjective lemlempa 'sweet', for example, an intensive form
+lemlem-yo 'very sweet' can be derived. In the process, note that the
+suffix <-pa> is dropped. The adjective gugur-yo 'pitch-black' in ex-
+ample (154) is the intensive form of the adjective gugurpa 'black'.
+155
+NOMINAL CATEGORIES
+156
+am-p¹aji
+gugur-yo
+chui-a
+yours-rucksack black-INT be-PT
+'Yours rucksack has become pitch-black.'
+3.5.3 The diminutive particle <-c"a>
+The diminutive particle (DIM) <-cha> is a productive morpheme in
+Kulung, which can be added to nouns and adjectives. Added to nouns,
+the diminutive particle indicates the small physical size of the object.
+For example, bo: 'pig' vs. bok-cha (pig-DIM) 'piglet', k'im 'house' vs.
+khim-cha (house-DIM) ‘little house', hu ‘hand' vs. hu-cha 'little hand',
+luŋ 'stone' vs. luŋ-c"a ‘small stone', etc. In some cases, the diminu-
+tive particle is found affixed to adjectives.
+ci:ma-cha
+small-DIM
+ku:o-cha
+well-DIM
+'a tiny well'
+khat-a
+go-PT
+41
+Moreover, the diminutive particle is found with the meaning ‘only,
+just'.
+oci-halla-cha
+ourdi-alone-DIM
+'only wedi alone'
+42
+157
+158
+159
+As in Dumi (van Driem 1993a: 79), in Kulung too the diminutive
+suffix <-cha> can be added to adverbs making the meaning of the ad-
+verb less intense.
+160
+ik-k"am-cha
+one-draught-DIM
+161
+CHAPTER THREE
+'only one little draught'
+an
+yous
+hayam nə-p-cha
+very
+'Yous sang a song very nicely.'
+watam-cha nen-te
+slow-DIM
+be.good-AP-DIM
+speak-IMP
+'Speak slowly!'
+watam-cha
+slow-DIM walk-IMP
+'Walk slowly!'
+lamduma-wa
+moro:-cha
+to.no.purpose-DIM
+khat-a
+go-PT
+'He went for no reason."
+cham la
+song sing:PT
+162
+VERB STEM MORPHOLOGY
+The majority of Kulung verbs are monosyllabic. Polysyllabic verbs
+are verbs which consist of a preverb and a verb stem. All affixes are
+suffixed to the verb stem with the exception of the negative preterite
+morpheme <man->, which appears before the verb stem with some
+polysyllabic verbs, but is found before the preverb with other polysyl-
+labic verbs. The polysyllabic verb lam dumma 'to walk, stroll', for
+example, has a first person singular negated non-preterite form lam
+dum-o:-no 'I don't walk' and a first person singular negated preterite
+form lam man-dum-ŋa ‘I didn't walk'. Polysyllabic verbs with the
+negative preterite morpheme <man-> appearing before the verb stem
+are listed below.
+CHAPTER FOUR
+lam dumma
+cham lama
+hachi lama
+sil bama
+to remma
+nap
+chuma
+'to walk, stroll'
+'to sing'
+'to sneeze'
+'to dance'
+'to stand'
+'to stink'
+Polysyllabic verbs with the negative preterite morpheme <man->
+found before the preverb belong to a small class of verbs of motion.
+For example, the affirmative non-preterite of the polysyllabic verb
+ta-m-tho:-ma 'to arrive up here' is ta t'oŋ-o: 'I arrive up here'. The
+corresponding negated preterite form man-ta-n tho:-ŋa ‘I didn't arrive
+up here'. Furthermore, the first syllable of the prefixed verb receives
+the 'compound verb marker’ <-n> (CM) in the negated preterite tense
+and adds an extra infinitive morpheme <-m-> after the preverb in the
+infinitive. The prefixed compound verbs form a small, closed class of
+verbs. For convenience all the verbs of this class are listed here.
+44
+163
+164
+165
+166
+167
+In order to distinguish between the two groups of polysyllabic verbs, I
+have decided to write the polysyllabic verbs with the negative prete-
+rite morpheme <man-> before the preverb as a single word.
+168
+ta-m-t'o:-ma
+ta-m-bai-ma
+ta-m-yu-ma
+ta-m-la:-ma
+169
+ta-m-ter-ma
+to-m-tu-ma
+to-m-t"o:-ma
+kha-m-le:-ma
+CHAPTER FOUR
+desa
+sotto
+tomorrow Sotān arrive.at-1s.NPT
+'Tomorrow I shall arrive at Sotān.'
+tat"oŋ-a-ci
+arrive.here-PT-d
+'to arrive here (at a higher level)'
+'to arrive here (at the same level)'
+'to arrive here (at a lower level)'
+'to arrive here (from whatever place)'
+'to arrive there'
+'to sit down'
+sotto-pu-ka
+ŋkəpi
+Sotāŋ-LOC-ABL here
+talat-e
+'to come up here'
+'to go away'
+'I have arrived here from Sotān.'
+khalet-o
+go.away-1s.PT
+'Wedi have arrived here.'
+tatek-o:
+totura-te
+sit.down-IMP
+arrive.here-Ins
+'He arrives here (from whatever place)'
+'Sit down here!'
+tat"on-o
+arrive.at-1s.PT
+'I went away.' (Nep. gai hälem)

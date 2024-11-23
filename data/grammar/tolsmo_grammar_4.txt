@@ -1,0 +1,573 @@
+/e/ vs./e:/
+30
+/a/ vs. /a:/
+31
+32
+33
+/mancheŋa/
+/manche:ŋa/
+/wa/
+/wa:/
+/ai/
+35
+/kama/
+/ka:ma/
+/na/
+/na:/
+/ə/ vs. /ə:/
+34
+/ba/
+/bə:/
+ei
+iu
+eu
+PHONOLOGY
+/kai/
+/khai/
+/baip/
+/laispi/
+[mants eŋa]
+[mants¹e:na]
+[wa]
+[wa:]
+[kama]
+[ka:ma]
+[na]
+[na:]
+[ba]
+[bə:]
+2.2 Diphthongs
+The Kulung diphthongs are given in the table below.
+əi
+ai
+[kai]
+[khai]
+au
+'I didn't piss.'
+'I didn't pinch him.'
+'rain'
+'chicken'
+[baip]
+[laispi]
+'to shout'
+'to hang'
+'elder sister'
+'over there'
+'He wove.'
+'basket'
+Table 5: Kulung diphthongs
+ui
+oi
+ou
+'lower leg'
+'cooked vegetables'
+‘long'
+'first'
+15
+16
+/ǝi/
+36
+/ui/
+37
+/ei/
+38
+/oi/
+39
+/iu/
+40
+/eu/
+41
+/ou/
+42
+/au/
+43
+/chəi/
+/ŋeim/
+/pəis/
+/mui/
+/k¹uigi/
+/chuikan/
+/mancheiŋa/
+/tei/
+/poi/
+/niumi/
+/papiuci/
+/deupi/
+/geulo/
+/coumi/
+/youpi/
+/kaupi/
+/paulo/
+2.3 Consonants
+CHAPTER TWO
+[ts¹ǝi]
+[gǝim]
+[pais]
+[mui]
+[khuigi]
+[ts¹uikan]
+[mantsheina]
+[tei]
+[poi]
+[niumi]
+[papiutsi]
+[deupi]
+[geulo]
+[tsoumi]
+[joupi]
+[kaupi]
+[paulo]
+'vagina'
+'shame'
+'waterfall'
+'body hair'
+'whistle'
+'front teeth'
+'I didn't know it.'
+'cloth'
+'neck'
+'of the mind'
+'bats'
+'at the place'
+'with a mongoose'
+'of the heart'
+'in the river'
+'in the water'
+'with a slug'
+The inventory of Kulung consonants is given in the following table.
+44
+45
+S
+46
+47
+р
+t
+C
+k
+/heplo/
+/depci/
+/hopc¹o/
+PHONOLOGY
+/lukspa/
+/mampikska/
+/muksto/
+/khatci/
+/satdi/
+/nitci/
+ph
+th
+ch
+kh
+/napsnum/ [nagsnum]
+/dapsniŋ/
+[dapsniŋ]
+b
+Table 6: Kulung consonants
+d
+j
+2.3.1 Allophonic variation
+Before the fricative /s/ and a following consonant, the voiceless un-
+aspirated bilabial stop /p/ and the voiceless unaspirated dorso-velar
+stop /k/ become a voiceless bilabial fricative [] and a voiceless
+dorso-velar fricative [x], respectively.
+[fiεp lɔ]
+[dep tsi]
+[hop tsho]
+g
+[kat tsi]
+[sat di]
+[nit'tsi]
+[luxspa]
+[mampixska]
+[muxsto]
+E S
+m
+n
+1
+The affricates as well as the phonemes /?/ and /h/ do not occur in syl-
+lable-final and word-final position. The only three stops that occur in
+syllable-final and word-final position, i.e. the voiceless unaspirated
+bilabial stop /p/, the voiceless unaspirated apico-dental stop /t/, and
+the voiceless unaspirated dorso-velar stop /k/ are pronounced unrel-
+eased, e.g.
+W
+r', 1
+y
+h
+'YouP smell it.'
+'secret name of a clan'
+'sack'
+Wede didn't say.'
+'up in the eye'
+'sometimes'
+'the big ones'
+'verandah'
+17
+'Let'sdi go!'
+'Satdi' (a Kulung village)
+'two'
+18
+48
+49
+50
+The voiceless fricative /s/ and the dorso-velar nasal /n/ have palatal-
+ised allophones before the vowel /e/, e.g.
+51
+/bukk¹o/
+/mikma/
+52
+/se:r/
+/ŋerpowa/
+54
+/imscai/
+The voiced bilabial nasal /m/ becomes a voiceless bilabial nasal [m] if
+followed by the fricative /s/ and a following consonant.
+[imstsai]
+'He is sleeping.'
+The phonemes /m/ and /n/ can be realised as syllabic consonants.
+[mpa]
+[mbal]
+[ŋkə]
+/mpa/
+/mbal/
+/ŋkə/
+/k/ vs. /k¹/ vs. /g/
+53
+/ko:ma/
+/kho:ma/
+/go:ma/
+CHAPTER TWO
+/koŋ/
+/khoŋ/
+/goŋ/
+[buk "k"]
+[mik 'ma]
+/p/ vs. /p¹/ vs. /b/
+55
+/mampai/
+/mamphai/
+/mambai/
+[s¹er]
+[n'erpowa]
+2.3.2 Minimal pairs
+Below minimal are given pairs of consonants that contrast for manner
+of articulation.
+'name of a clan'
+'smoke'
+[kɔ:ma]
+[ko:ma]
+[go:ma]
+[kɔŋ]
+[kɔŋ]
+[goŋ]
+'uncooked rice'
+'fig tree (Ficus nemoralis)'
+[mampai]
+[mamphai]
+[mambai]
+'his father'
+'horizontal, level'
+'this one'
+'to win'
+'to look at'
+'to carry by hand'
+'I'
+'brass bowl'
+'division of a clan'
+'It didn't leak.'
+'He didn't reverse it.'
+'He didn't come.'
+/t/ vs. /th/ vs. /d/
+56
+57
+59
+/c/ vs. /ch/ vs. /j/ vs. /s/
+58
+/cowa/
+/chowa/
+60
+/to:ma/
+/tho:ma/
+/do:ma/
+62
+/tite/
+/thite/
+/dite/
+/r/ vs. /l/
+63
+/jowa/
+/sowa/
+/ci/
+/chi/
+/ji/
+/si/
+/ca/
+/cha/
+/m/ vs. /n/ vs. /ŋ/
+61
+/ma/
+/na/
+/ŋa/
+/ja/
+/sa/
+/mo:bo/
+/nobo/
+/nobo/
+/riŋ/
+/liŋ/
+PHONOLOGY
+[to:ma]
+[thoma]
+[do:ma]
+[tite]
+[thite]
+[dite]
+[tsowa]
+[tshowa]
+[dzowa]
+[sowa]
+[tsi]
+[tshi]
+[dzi]
+[si]
+[tsa]
+[tsha]
+[dza]
+[sa]
+[ma]
+[na]
+[na]
+[mɔ:bo]
+[nobɔ]
+[hɔbɔ]
+[riŋ]
+[lin]
+'to move'
+'to come up'
+'to divide'
+'It burns.'
+'He is awake.'
+'It lays an egg.'
+'heart'
+'bird'
+'peacock'
+'vital force'
+'poison'
+'marrow'
+'happiness'
+'louse'
+'taste'
+'child'
+'cooked rice'
+'meat, flesh'
+'mother'
+'elder sister'
+'fish'
+'Mo:bo ritual'
+'ear'
+'face'
+‘language, word'
+'yeast'
+19
+20
+/y/ vs. /w/ vs. /h/vs. /?/
+64
+65
+66
+/ya/
+/wa/
+/ha/
+/?a/
+2.4 Suprasegmental phonology
+2.4.1 The syllable
+A Kulung syllable may consist of a single vowel or nasal.
+[n.kə]
+'he, she, it'
+[m.pa]
+'his father'
+[e]
+'yes'
+67
+/ŋ.kə/
+/m.pa/
+/e/
+If a syllable has the structure CV, the vowel can be a short vowel, a
+long vowel or a diphthong.
+68
+/sa/
+/bo:/
+/poi/
+CHAPTER TWO
+[ja]
+[wa]
+[fia]
+[Pa]
+/loŋ/
+/lam/
+A Kulung syllable can have the structure CVC. The affricates and the
+phonemes /?/ and /h/ do not occur in syllable-final position.
+/muks.pi/
+/chelm.lo/
+[sa]
+[bo:]
+[poi]
+'edge of a blade'
+'rain'
+'AFF'
+'ERG'
+[lɔŋ]
+[lam]
+'meat'
+'pig'
+'neck'
+Syllables having the structure CVCC result from final vowel deletion
+(2.4.2).
+[muxspi]
+[tshelmlɔ]
+'foot'
+'road'
+'in the eye'
+'with a bamboo mat'
+69
+2.4.2 Vowel deletion
+In Kulung, there is a general rule which states that polysyllabic nouns,
+adjectives, and verbal affixes that end in /-pa/, /-ma/, /-wa/ or /-i/ drop
+their final vowel in other than sentence-final position. A word may
+keep its final vowel when uttered in isolation, e.g. in eliciting vocabu-
+lary, but drops the final vowel when the word is followed by an affix.
+If, for example, someone, pointing at his eye, asks how to say 'eye' in
+Kulung, a Kulung will give the answer: muksi 'eye'. When followed
+by a case such as the locative, the Kulung word is muks-pi eye-LOC
+'in the eye' and not *muksi-pi.
+70
+71
+72
+an
+yous
+misi
+person
+'You are a person.'
+PHONOLOGY
+mis-mi
+person-GEN foot
+loŋ chur-e
+be-nls
+'A person has feet.'
+nəwa
+here
+kawa
+water
+'Here [take], water!'
+kau-pi
+water-LOC
+k"at-e-yo
+go-nls-Q
+'Are you going for water?"
+21
+The supine morpheme <-si> in sentence (73) has retained its full form
+because the morpheme occurs in sentence-final position.
+22
+73
+e
+hey
+c"e-si
+piss-SUP
+74
+CHAPTER TWO
+bo:-?a
+uncle-VOC
+c¹e-s
+piss-SUP
+harro-i
+whither-Q
+'Hey, uncle, where are you going to?'
+'[I am going] to piss'
+In example (74), the supine is followed by a finite verb and thus the
+final vowel of the supine suffix is dropped.
+khat-e
+go-nls
+k'at-o:
+go-1s.NPT
+'I am going to piss.'
+The allophony of other suffixes that show final vowel deletion, e.g.
+the active participle <-pa> and the infinitive suffix <-ma> is treated in
+the relevant chapters. The words /c¹uli/ ‘anger', /walili/ ‘lie', /ŋali/
+'beauty' are anomalous in retaining the final vowel in non-final posi-
+tion, e.g. c'uli-?a 'by [his] anger' and not *c'ul-?a. If, however, vowel
+deletion would lead to a phonologically impossible sequence of stops,
+then the vowel deletion rule is blocked. The noun kokpa ‘uncle', for
+example, has the genitive kokpa-mi 'of the uncle', and not *kokp-mi.
+3.1 Number
+To the nominal categories belong the following parts of speech:
+nouns, adjectives, pronouns and numerals. There are unambiguous
+morphological criteria for distinguishing between nouns and verbs.
+Whereas nouns can be marked for case and number, finite verbs are
+marked for person, number, and tense. There is no grammatical gen-
+der in Kulung.
+75
+The explicit non-singular suffix <-ci ~ -C -s> (ns) expresses the
+non-singularity of both animate and inanimate objects. The basic al-
+lomorph is <-ci>.
+CHAPTER THREE
+76
+NOMINAL CATEGORIES
+o:-kokpa
+my-uncle
+m-cha-ci
+his-child-ns
+'They are my uncle's children.'
+Utterance (76) was said to the youngest of five puppies, which was
+left without his four elder brothers, when these had been taken away
+by a jackal:
+ha:pi
+where
+am-bu-ci
+k"at-a
+yours-elder.brother-ns
+go-PT
+'Where have yours elder brothers gone?'
+The non-singular suffix <-ci> is also used to denote a class. For ex-
+ample, in the next sentence, the non-singular suffix <-ci> added after
+tei 'cloth' is used to express 'kinds of clothes' rather than the plurality
+of 'cloth'. Non-singularity is not an obligatory category in Kulung.
+24
+77
+78
+79
+80
+k"o:lo-mi-n
+all-GEN-EMP
+With proper nouns and kinship terms the non-singular suffix <-ci>
+means: 'X and the people belonging to X'.
+81
+82
+'We sew everybody's clothes.'
+When the ablative <-ka> or the topicalising suffix <-kə> (TOP) is
+added to non-singularised nouns ending in a vowel, the non-singular
+morpheme <-ci> has an allomorph <-s>, except after a final /-s/ in the
+preceding stem, e.g. (80).
+yoŋc¹a-s-ka
+CHAPTER THREE
+am-kokpa-s-ka
+your-uncle-ns-ABL
+'from [the place of] yours uncle and his family'
+tei-ci
+cloth-ns
+brother's.child-ns-ABL
+cas-ci-ka
+'from the brother's children'
+grandchild-ns-ABL
+sahu-s-ka
+Kāmī-ns-TOP
+'from the grandchildren'
+'the Kämis'
+bur-am
+sew-1p-3.NPT
+If followed by the ergative <-?a ~ -a>, the non-singular suffix <-ci>
+has an allomorph <-c->.
+ok'i-nani-c-a
+him-na
+ourpe-children-ns-ERG cut:INF-EMP
+'Our children promised to cut [millet].'
+pa-ci
+tell:PT-3ns

@@ -1,0 +1,469 @@
+9.1 The perfect gerund
+The suffix <-na> of the perfect gerund (PFG) is used to express an
+event that is prior to the main clause event. The suffix can be added
+after finite verbs, imperatives and infinitives. The same suffix with
+identical meaning is the Bahing gerund <-na> attached after a verb
+form (Hodgson 1880: 368). The suffix appears to be cognate with the
+Classical Tibetan prolative particle <-nas>, which, attached to past
+verbal stems, expresses temporal sequence and is translated as 'after
+having...'. Chamling, a closely related Rãï language, uses the cognate
+suffix <-n^>.
+462
+463
+CHAPTER NINE
+NON-FINITE VERBAL CONSTRUCTIONS
+464
+tel-pi
+khat-o-na
+makai co
+village-LOC go-1s.PT-PFG maize eat: 1s.PT
+'Having gone to the village, I ate maize.'
+di
+duŋ-am-na
+i-khim
+khat-ya
+millet.beer
+drink-1p-3.NPT-PFG ourPi-house go-lp.NPT
+'Having drunk millet beer, wepi shall go to ourpi home.'
+cai-am
+khai-pu
+vegetables-LOC put.in-1p-3.NPT-PFG eat-1p-3.NPT
+'Having put it in the vegetables, wepi shall eat it.'
+tes-am-na
+118
+465
+466
+467
+468
+469
+470
+471
+am-toŋrim
+hoks-na
+na:kə k'on
+yours-head.scarf throw.away-PFG that bowl
+CHAPTER NINE
+bai-te
+bring-IMP
+'Throw your head scarf away and bring that bowl!'
+oroito
+di
+duŋ-am-na
+i-cou
+very.much millet.beer drink-1p-3.NPT-PFG ourpi-heart
+khet-na
+si:-ya
+break-PFG die-1p.NPT
+'Having drunk a great deal of millet beer, ourpi hearts
+will break and wepi'll die!'
+dung-khi-wa-na
+tas-wa
+drink-TEL-IMP-PFG hold.out-IMP
+'Drink it and hold out!'
+mi maŋ-k"əm-na
+tu:-0
+coi-o:-ke
+fire NEG.PT-blow:INF-PFG be-1s.PT CNT-1s.NPT-ASS
+'I'll just stay here without blowing on the fire.'
+ja
+cooked.rice
+set-am-ka
+boks-am-ka-na
+wa!
+cook-1p-3.NPT-e-PFG chicken
+kill-1p-3.NPT-e
+'Having cooked rice, we shall kill a chicken.'
+am-hu
+yours-hand
+'Are yous sitting here without having washed yours
+hands?'
+tu-cai
+NEG.PT-wash:INF-PFG be-CNT
+man-səm-na
+klikka thon-a-na-n
+thereafter come.up-PT-PFG-EMP
+‘Afterwards, after he had come up, he said nothing.'
+U
+SO mam-pi:
+what also NEG.PT-say
+472
+The sequential meaning can give rise to a causal interpretation as in
+examples (472) and (473).
+473
+474
+475
+NON-FINITE VERBAL CONSTRUCTIONS
+476
+or-mi man-tu-na
+yok-s
+my-fire NEG.PT-be-PFG ourpl-elder.sister-LOC ask-SUP
+k"at-o
+go-1s.PT
+k"unka tel-pa-kə
+that
+i-na-pi
+'Because I didn't have fire, I went to ourpi elder sister to
+ask for it.'
+mic-a
+country-LOC-SUB person-ERG
+man-nəi-s-na
+set-ci
+NEG.PT-like-3ns-PFG kill-3ns
+"The people of that village killed him because they didn't
+like him.'
+am-hop-a-ŋ
+rum
+yours-self-ERG-EMP salt
+'Pour salt in it yourself and drink it!'
+samk¹e du-na
+potato
+tes-na
+pour.in-PFG
+119
+cai-am-ke
+dun-wa
+drink-IMP
+be.cooked-PFG
+eat-1p-3.NPT-ASS
+'After the potatoes are cooked, wepi'll eat.'
+9.2 The present gerund
+The suffix <-to> is added to a verb stem yielding a present gerund. A
+present gerund (PRG) indicates that the situation denoted by the verb
+is contemporaneous with the situation denoted by the finite verb of
+the main clause.
+kham-to
+khat-ya-ke
+chew-PRG go-1p.NPT-ASS
+'Let's go while chewing [sugarcane].'
+120
+477
+478
+479
+480
+481
+482
+CHAPTER NINE
+ja
+ca-to
+mi jui-o:
+cooked.rice eat-PRG fire warm.at-1s.NPT
+'I warm myself by the fire while eating rice.'
+yen-to
+chap-wa
+listen-PRG write-IMP
+'Write while listening!'
+phaplu-pto-ka lam dum-to
+Phäplu-LOC-ABL road walk-PRG
+'He came walking from Phāplu.'
+The negated form of the present gerund is formed by simultaneously
+adding the suffix <-mo> to the verb stem and adding the the negation
+prefix <man-> before the verb stem.
+yuw-a
+man-ner-mo
+ja
+come.down-PT
+espa
+yesterday NEG.PT-speak-PRG
+'Yesterday youd were sitting without saying [anything].'
+tur-a-ci
+sit-PT-d
+man-cham-mo
+k"ai-te
+NEG.PT-write-PRG take.away
+‘Take it away, without writing it [on the bill]!'
+man-ca-mo
+khat-ci-yo
+cooked.rice
+NEG.PT-eat-PRG go-d-Q
+'Are you going without eating rice?'
+9.3 The active participle
+The active participle <-pa> (AP) is formed by attaching the morpheme
+to the infinitive stem. The active participle has a regular allomorph
+<-kpa> with verbs belonging to the conjugations vi-4 and vt-3, e.g.
+pik-pa say-AP from the verb pima ‘to say’ or ŋok-pa ask-AP ‘beggar'
+from the verb ŋo:ma vi-4 [1: ŋok- 2: ŋo:- 3: ŋok-] 'to ask'. The allo-
+483
+morph <-p> of the active participle is found in non-final position. The
+active participle is negated by the negative preterite prefix <man->.
+484
+485
+NON-FINITE VERBAL CONSTRUCTIONS
+486
+487
+man-k"ai-pa
+NEG.PT-go-AP
+488
+'one who is not going'
+The active participle can be used to make the verb impersonal as illus-
+trated by the following one-line obscene Kulung song.
+man-le-pa
+NEG.PT-know-AP
+'one who doesn't know'
+sakhi thui-pa an as-e
+thread spin-AP you who-nls elder.brother-VOC
+0:-chara_lui-pa
+In sentence (486), children of the village Buń were surprised that I
+spoke their language. They pointed at me and said to each other.
+bu-?a
+my-goat fuck-AP
+'Spinning thread, who are yous, elder brother, fucking
+my goat?'
+121
+i-rin
+мә-ра
+ourPi-language do-AP
+'[Look!] he speaks ourpi language.'
+espa
+ta-p
+il-po
+yesterday one-CLF come-AP
+'Yesterday there was also one man coming.'
+an-a
+m-loŋ ca-p-yo
+yous-ERG its-foot eat-AP-Q
+'Do you eat its leg?'
+SO
+also
+122
+489
+490
+491
+492
+ŋkə seir-ne
+this
+In example (490), I pointed at one of the photos which I had taken the
+year before, and kanchi 'female last-born' said:
+493
+CHAPTER NINE
+494
+uncooked.rice-CTR
+"This rice is good.'
+по-ра
+be.good-AP
+Furthermore, with the aid of the active participle adjectives can be
+derived from qualitative verbs, e.g. lempa 'sweet' from the verb
+lemma 'to be sweet', harpa 'dry' from the verb harma 'to be dry'. An
+active participle can be found with case endings or in the non-singular
+number. This use is found predominantly in embedded adnominal
+clauses.
+ŋkə iskul
+k"ai-pa
+this school go-AP
+"This is someone who goes to school.'
+ims-ca-p-kə
+as-e
+sleep-CNT-AP-SUB who-nls
+'Who is sleeping?'
+espa
+ta-p
+mic-a lam
+yesterday come-AP man-ERG road
+'The man who came yesterday asked me the way.'
+wa ta-p
+toŋ
+rain come-AP like
+tət-o
+ask-1s.PT
+am-tel-pi
+so:lome ŋali
+la-p
+tu:-pho
+yours-village-LOC young.girl beauty feel-AP be-PRB
+"There are probably beautiful young girls in yours vil-
+lage.'
+yes-e
+seem-nls
+'It looks as if it might rain.” (Nep. pānī parlā jasto cha.)
+495
+ta-p
+toŋ yen-u
+come-AP like hear-Is-3.PT
+'I heard [a sound] as if it were raining.'
+an
+am-im
+la-p
+toŋ
+yous yours-sleep:INF feel-AP like
+'It looks as if you are sleepy.'
+An embedded adnominal clause can be a relative clause as well.
+496
+497
+498
+499
+500
+501
+502
+wa
+rain
+cham
+la-p-ci
+espa
+yesterday song say-AP-ns
+'the ones that sang a song yesterday'
+NON-FINITE VERBAL CONSTRUCTIONS
+cham
+song
+espa
+lə-pa
+yesterday say-AP
+'the one that sang a song yesterday'
+k"am-pa
+clothes wear-AP
+'the one wearing a black dress'
+gugurpa tei
+black
+keska
+ikhi
+ta-pa
+the.day.before.yesterday here come-AP
+'the one who came here the day before yesterday'
+ti:-pa
+burn-AP
+'the one that is burning'
+kei
+Wepi
+nes-e
+seem-nls
+ikhi
+tup-i-nu
+meet-1p.PT-OPT
+here
+'May wepi meet again with the ones present here now!'
+tu-p-ci-ka-n
+be-AP-ns-ABL-EMP
+123
+124
+9.4 The passive participle
+The passive participle (PP) is made by adding the suffix <-mpa> to the
+infinitival stem. An allomorph <-pa> is found with infinitival stems
+already ending in /-m/. The passive participle is used to make passive
+forms from transitive and intransitive verbs. These may be used ad-
+nominally as adjectives, or behave like nouns and therefore can be
+found with case endings or in the non-singular number. The noun
+t"ompa 'wall', for example, consists of the verbal stem t'o- from the
+verb toma vt-8 'to bring up, build' and the passive participle suffix
+<-mpa>.
+503
+504
+505
+506
+507
+508
+CHAPTER NINE
+hui-mpa samk'e coi-o:
+roast-PP potato eat-1s.NPT
+'I'll eat roasted potatoes.'
+lamsko ci-m-di-mpa
+door
+kau
+water
+nəwƏ koŋ-a həl-o:
+close-INF-MOM-PP here I-ERG
+"The door is closed. Here, I'll open it.'
+te-mpa-yo
+pour-PP-Q
+'Has water been put in?'
+ba:m
+ker-m
+c¹ui-e-yo_ma
+ker-m-di-mpa
+buckwheat thresh-INF be-nls-Q no thresh-INF-MOM-PP
+'Do we have to thresh the buckwheat? No, it is already
+threshed.'
+lamsko maŋ-həl-mpa
+door
+NEG.PT-open-PP
+'The door hasn't been opened.'
+open-1s.NPT
+ci:cha kau te-mpa-kə
+ja
+little water pour.in-PP-SUB rice
+'Rice that is not soggy.'
+509
+510
+511
+512
+513
+NON-FINITE VERBAL CONSTRUCTIONS
+ok"i-k"oŋ
+man-som-pa
+ourde-bowl NEG.PT-wash-PP
+'Ourde bowls haven't been washed.'
+mikpou-pi
+SO man-khai-mpa
+Arundinaria.racemosa-LOC also NEG.PT-go-PP
+'And no one went for bamboo (Arundinaria racemosa).'
+espa
+di
+du:-mpa
+yesterday millet.beer drink-PP
+'Yesterday millet beer was drunk.'
+di-?a
+se:-m-k'a-mpa
+millet.beer-ERG kill-INF-TEL-PP
+'We are completely drunk.'
+(lit. 'We have been killed by millet beer.')
+125
+9.5 The infinitive
+The infinitive is formed by adding the infinitive suffix <-ma> to the
+infinitival verb stem. The allomorphic distribution of the infinitive is
+as follows. An allomorph <-m> occurs in sentence or clause non-final
+position and the zero allomorph <Ø> is found after infinitival stems.
+ending in the nasal /-m/, e.g. o:-im loi-e 'I am sleepy. (lit. 'My sleep-
+ing feels.'). Negation of the infinitive is regularly made by prefixing
+the negative preterite prefix <man-> or one of its allomorphs to the
+verb stem, e.g. k'o:-ma 'to look at', maŋ-k"or-ma 'not to look at'.
+When not governed by a finite form, the infinitive is used to express
+'to want' and 'to have to'. The subject of the verb appears as a per-
+sonal possessive prefix.
+am-tu-ma
+am-khai-ma
+yo
+yo
+yours-be-INF or yours-go-INF or
+'Do you want to stay or do you want to go?'
+126
+514
+515
+In this use, negation is expressed by adding the negative non-preterite
+suffix <-no> immediately after the infinitive suffix.
+516
+517
+518
+or-che-ma
+my-piss-INF
+519
+520
+'I have to piss.'
+Secondly, the infinitive is found as an object of the verbs nəima ‘to
+like', mima 'to think about', maima 'to forget' and yaima ‘to finish'.
+CHAPTER NINE
+or-im-ma-no
+my-sleep-INF-NEG.NPT
+'I don't want to sleep.'
+koŋ-a k'im khai-m
+I-ERG house go-INF
+u-i
+cham
+what write:INF
+'I don't want to go home.'
+nətt-ə
+nət-or-no
+ha:pi khai-m pik-e
+where go-INF
+'Where do you
+want-1s.NPT-NEG.NPT
+want-3P.NPT
+'What do you want to write?'
+say-nls
+intend to go to?"
+yu-m
+muksu-ŋa bajar
+pik-ya-ka-kə
+down-EMP market come.down-INF say-1p.NPT-e-SUB
+'Wepe are planning to come down to the market.'
+mat-uks-u
+rum
+te-m
+salt put.in-INF forget-DUR-1S-3.PT
+'I forgot to put salt in it.'

@@ -1,0 +1,17 @@
+SUBORDINATORS
+Subordinators may be attached to a finite clause in both preterite and non-preterite tense.
+
+The temporal subordinator -lo
+The suffix -lo 'whilst, when' may be added to any affirmative or negative, non-preterite or preterite finite form, with or without the subordinating suffix -kǝ, to denote that the action of the main verb is contemporaneous with the verb in the main clause. Unlike the present gerund -to, the finite form to which the suffix -lo is added may have a different referent than the referent of the main clause.
+
+The temporal subordinator -pka
+The ablative case-marker -pka, preceded by the general subordinator -kǝ, functions as a temporal subordinator to express anteriority of the action of the main verb in the sentence. The temporal subordinator -pka is semantically identical with the perfect gerund -na.
+
+The conditional subordinator -do
+The conditional subordinator -do (CND) can be added to an affirmative or negated finite verb form to mark the condition of the apodosis.
+
+The causal subordinator -kǝsa
+The causal subordinator -kǝsa (CSL) consists of the subordinating suffix -kǝ followed by the ergative -sa.
+
+The concessive subordinator -doso
+The concessive subordinator -doso 'however' consists of the conditional subordinator -do and the conjunction so ‘also'.

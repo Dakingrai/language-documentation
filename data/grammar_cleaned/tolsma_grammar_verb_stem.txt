@@ -1,0 +1,50 @@
+The majority of Kulung verbs are monosyllabic. Polysyllabic verbs are verbs which consist of a preverb and a verb stem. All affixes are suffixed to the verb stem with the exception of the negative preterite morpheme man-, which appears before the verb stem with somepolysyllabic verbs, but is found before the preverb with other polysyllabic verbs. The polysyllabic verb lam dumma 'to walk, stroll', for example, has a first person singular negated non-preterite form lam dum-o:-no 'I don't walk' and a first person singular negated preterite form lam man-dum-ŋa ‘I didn't walk'. Polysyllabic verbs with the negative preterite morpheme man- appearing before the verb stem are listed below.
+
+lam dumma 'to walk, stroll'
+cʰam lǝma 'to sing'
+hacʰi lǝma 'to sneeze'
+sil bama 'to dance'
+tʰo remma 'to stand'
+nap cʰuma 'to stink'
+
+Polysyllabic verbs with the negative preterite morpheme man- found before the preverb belong to a small class of verbs of motion. For example, the affirmative non-preterite of the polysyllabic verb ta-m-tho:-ma 'to arrive up here' is ta t'oŋ-o: 'I arrive up here'. The corresponding negated preterite form man-ta-n tho:-ŋa ‘I didn't arrive up here'. Furthermore, the first syllable of the prefixed verb receives the 'compound verb marker’ -n in the negated preterite tense and adds an extra infinitive morpheme -m- after the preverb in the infinitive. The prefixed compound verbs form a small, closed class of verbs. All the verbs of this class are listed here.
+
+ta-m-tʰo:-ma 'to arrive here (at a higher level)'
+ta-m-bai-ma 'to arrive here (at the same level)'
+ta-m-yu-ma 'to arrive here (at a lower level)'
+ta-m-la:-ma  'to arrive here (from whatever place)'
+ta-m-te:-ma 'to arrive there'
+to-m-tu-ma 'to sit down'
+to-m-tʰo:-ma 'to come up here'
+kʰa-m-le:-ma 'to go away'
+
+Conjugations
+The different conjugations in Kulung are based on paradigmatically conditioned stem alternations. The affixes of the intransitive, transitive and reflexive paradigms are the same in all conjugations. Six intransitive, seven transitive and three reflexive conjugations can be distinguished.
+Some of the auxilaries show irregular conjugations, which are characterised by stem suppletion. The irregular transitive verb ho:myema 'to leave', for example, has a suppletive stem yem- in the negated preterite forms.
+Stem alternations involve Ablaut or stem-final consonant deletion or both.
+
+Intransitive conjugations
+The first conjugation of the intransitive paradigm (vi-1) is characterised by one stem for all verb forms of the simplex paradigm. Verbs with stem Σ1 ending in one of the liquids (-r,-l, -m) belong to this conjugation.
+The second conjugation (vi-2), the most numerous conjugation, has two different stems. Σ2 is formed either by deletion of the stem-final consonant or consonants and lengthening of the stem vowel or by mutation of the stem-final consonant or consonants. This Σ2 occurs only in the negative preterite forms and the infinitive and the non-finite constructions which are derived from the infinitival stem. The following synchronic rules show how the Σ2 can be derived from the Σ1. Stems ending in -s, -ms, -ls or -rs, forms its Σ2 by deletion of the stem-final fricative -s.  A stem Σ1 ending in a long vowel -u: or -i: forms its Σ2 by shortening of the vowel. A stem Σ1 ending in -ŋ or -en forms its Σ2 by deleting the stem-final nasal with compensatory vowel lengthening. A stem Σ1 ending in a dorso-velar stop followed by -s forms its Σ2 by deletion of the two stem-final consonants with compensatory vowel lengthening. A stem Σ1 ending in -ps shows deletion of the stem-final consonant and mutation of the final stop in the formation of its Σ2. A stem Σ1 ending in final -p changes its final to -m.
+The third conjugation (vi-3) has a Σ2 formed by a change of the stem-final consonant and a Σ3 in the negated preterite forms with a second person subject. In the conjugation of baima, the Σ3 and Σ1 happen to be the same.
+The fourth conjugation (vi-4) has a stem Σ2 formed by loss of the stem-final dorso-velar stop with compensatory lenghthening. A stem Σ3 occurs in negated preterite forms with a first person dual subject.
+The fifth conjugation (vi-5) has five different stems. The Σ2, formed by stem final consonant mutation, appears only in negative preterite
+forms. The Σ3 shows stem-final consonant doubling and appears in the second person singular and third person forms. The Σ4 occurs in negated first dual inclusive preterite and negated preterite forms with a second person subject. The Σ5 is found in the negated first dual exclusive preterite.
+The sixth conjugation (vi-6) is the open vowel stem conjugation. Three types of Ablaut are distinguished. The sixth conjugation has four different stems. The conjugation loma ‘to tell’ differs from loma 'to play' only in its having a different vowel in the Σ4.
+
+Transitive conjugations
+The first transitive conjugation (vt-1) is characterised by a base stem for all forms of the simplex paradigm. Verbs with a verb stem ending in -r belong to this type.
+The second conjugation (vt-2) has two stems. The Σ2 appears only in negated preterite forms and in 1s-2 forms. Synchronic rules for deriving Σ2 from Σ1 are presented below. A stem Σ1 ending in a liquid followed by s forms its Σ2 by elision of the s, e.g. -rs > -r. Verbs with a stem Σ1 ending in -ek form a Σ2 by deletion of the stem-final consonant with compensatory vowel lengthening. Verbs with a stem Σ1 ending in -en have a stem Σ2 in -ei. Verbs with a stem Σ1 ending in -ks have a Σ2, which is formed by deleting the two stem-final consonants with compensatory vowel lengthening. Verbs with a stem Σ1 ending in -ps delete the stem-final -s and change the bilabial stop into a bilabial nasal to form their Σ2.
+The third transitive conjugation (vt-3) has three stems. The stem Σ2, formed by deletion of the final dorso-velar stop with compensatory vowel lengthening, appears in negated preterite forms and in 1s→2 forms. The Σ3, derived from the Σ1 by Ablaut of the stem vowel, is found in negated preterite forms with a first person dual agent and a third person patient, in forms with a first person dual patient, and in negated preterite (3→3)ns forms.
+The fourth transitive conjugation (vt-4) has three different verb stems. The Σ2, formed by the doubling of the final consonant of the Σ1, occurs in 2s→3s non-preterite and affirmative preterite, 2s→3ns non-preterite, 3s→3s non-preterite and affirmative preterite, and (3→3)ns non-preterite forms. The Σ3, occuring in all the forms of the negative preterite and in all forms where a 1s→2 relation is expressed, can be derived from the Σ1 by means of the following synchronic rules. A stem Σ1 ending in -s deletes the stem-final consonant. Verbs with a stem Σ1 ending in -n forms its Σ2 by deletion of thestem-final nasal with compensatory vowel lengthening. Verbs with a stem Σ1 ending in -p have a stem Σ2 formed by changing the bilabial stop into a bilabial nasal. Verbs with a stem Σ1 ending in -n change the stem-final nasal into -i to form the stem Σ2.
+Verbs with a Σ1 ending in -t or a post-vocalic -i belong to the fifth conjugation (vt-5). Like the fourth conjugation, these verbs form their
+Σ2 by doubling of the stem-final consonant. The stem Σ3 is formed by changing the stem-final -t to -i. Verbs with a stem Σ1 already ending in -i have a stem Σ3 identical to their Σ1. The Σ4 is found in affirmative and negated 1s→2 preterite forms, negated preterite forms with a second person patient, and negated preterite 2→3 forms.
+The sixth transitive conjugation (vt-6) shows five different verb stems. The stem Σ1 appears in the finite forms showing agreement with a first person singular agent in the non-preterite, and the Σ2 appears in the first singular affirmative preterite. The Σ3 appears in remaining forms of the non-preterite, and the Σ4 in remaining forms of the preterite. The Σ5 is found in 1ns3→2, 2d→3, 2p→3, 3→1di, and 2/3→1de forms of the affirmative preterite tense. Stem Σ5 occurs in negated preterite 1de→3 and 2/3→1de forms.
+The seventh transitive conjugation (vt-7) shows six different verb stems. Just as in the sixth conjugation, the Σ1 and Σ2 occur in the first person singular non-preterite and in the first singular affirmative preterite, respectively. The Σ3, however, is only found in second person singular and third person forms of the non-preterite and affirmative preterite. The Σ4 appears in remaining forms of the non-preterite and 5 in the remaining forms of the preterite. The stem Σ6 is found in all negated preterite forms.
+The eighth transitive conjugation (vt-8) shows eight different verb stems. The stem Σ1 is found in forms showing agreement with a first person singular patient. The Σ2 is found in 1s→2 forms, both preterite and non-preterite, and in negated preterite forms. The Σ3 is found in non-preterite forms that do not have a Σ1, Σ2 or Σ5. The Σ4 is found in affirmative preterite forms indicating 1p→3, 2s→3, 3→3, 3→1pi and 2/3→1pe relationships. The Σ5 is found in non-preterite 1s→3 forms. The 6 is found in affirmative preterite 1s→3 forms. The Σ7 is found in affirmative preterite 1ns/3→2, 2d→3, 2p→3, 3→1di and 2/3→1de forms. The Σ8 is found in negated preterite 1d→3, (3→3)ns, 3→1di and 2/3→1de.
+
+Reflexive conjugations
+The marker for the reflexive conjugation is -nci, with an allomorph -ŋci found in the first person singular non-preterite and an allomorph -ci occuring in other verb forms. Reflexive verbs may be directly or indirectly reflexive. Direct reflexive verbs, such as the verb samcima 'to wash oneself', represent the subject as acting directly on himself.
+The reflexive verb mi:mcima 'to ponder', related to the intransitive verb mima 'to think', can be called indirect reflexive, because the subject is represented as acting for himself.
+The reflexive verb mə-m-ci-ma can be considered an indirect reflexive, meaning 'to do for one's own benefit'.
+The reflexive verb no-m-ci-ma 'to rest', although related to the intran sitive verb nama 'to be good', is not synchronically transparent.

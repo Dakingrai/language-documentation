@@ -1,0 +1,1 @@
+"This a dictionary for translating kulung words to english. \n aima : return \n aima : response \n alma "

@@ -1,0 +1,127 @@
+Case endings are attached to nouns with or without the non-singular suffix and convey meanings like ‘the place where', 'possession', etc.
+Allomorphy of case endings depends on whether the noun ends in a vowel or a consonant. The next table shows the case endings of the noun na 'elder sister'.
+
+absolutive	na
+ergative	na-ʔa
+instrumental	na-ʔa
+vocative	na-ʔa
+genitive	na-mi
+locative 1	na-pi
+locative 2	na-pu
+locative 3	na-pto
+locative 4	na-pa
+comitative	na-lo
+ablative	na-pka
+elative (= LOC + ABL)	na-pika
+mediative	na-la
+
+The word misi 'man' has an anomalous and irregular ergative ending: mic-a 'man-ERG'.
+
+The ergative case marks the agent of a transitive verb. The ergative case is marked by the suffix -ʔa, but personal pronouns and interrogative pronouns take the allomorph -a, which is also the allomorph found after the non-singular suffix -ci, -c, -s. Demonstratives used as third person pronouns have the allomorph -sa.
+
+The absolutive case is unmarked. The subject of intransitive verbs and the object or indirect object of transitive verbs appear in the absolutive case. Predicates with three arguments (agent, patient and indirect object), like pima 'to give', are constructed with the agent appearing in the ergative, and both the patient and indirect object in the absolutive, though the verb shows agreement with the patient. Furthermore, the absolutive is used in expressing the place or entity towards which an action proceeds, e.g. kʰim 'home'.
+
+The instrumental -ʔa expresses the instrument or cause of the action or situation described by the verb. The instrumental -ʔa is identical in form with the ergative, but behaves differently at the morphosyntactic level. A verb in Kulung shows agreement with the agent or patient, but never with an argument in the instrumental.
+
+The genitive case -mi denotes ownership, possession or belonging and can be added to nouns. The genitive is also used to express 'made of'.
+
+The vocative -ʔa is used in direct address. The nominal argument in the vocative is often preceded by the interjection e 'hey'.
+
+The locative -pi is used to denote place. In terms of spatial deixis, three other Kulung locatives can be distinguished: -pa ‘at/in the place further (at same level)', -pu 'at/in the place (at a lower level)' and -pto, -to ‘at/in the place (at a higher level)'. The locative -pto has an allomorph -to after nouns ending in a consonant.
+
+The comitative -lo denotes the persons or things which accompany or take part in an action.
+
+The ablative -pka -ka denotes the source.
+
+The ablative -pka has an allomorph -ka after nouns ending in a consonant.
+
+The elative, consisting of one of the four locatives -pi, -pa, -pu, or -pto followed by the ablative -pk>, conveys the meaning ‘from out of'.
+
+A suffix -yika 'since' is found with temporal adverbs like espa 'yesterday' or desa 'tomorrow'.
+
+The mediative -la means 'via, by way of'.
+
+Personal pronouns
+The ten personal pronouns in the absolutive and ergative case are listed below. Except for the third person, the personal pronouns differ for singular (s), dual (d) and plural (p) number. Furthermore, first person pronouns have different forms for inclusive (i) and exclusive (e).
+
+ABSOLUTIVE	ERGATIVE	GLOSS
+koŋ	koŋ-a	I
+kas	kac-a	we (di)
+kaska	kaska	we (de)
+kei	kei-a	we (pi)
+keika	keika	we  (pe)
+an	an-a	you (s)
+anci	anc-a	you (d)
+annni	anna	you (p)
+ŋkə	ŋkə-sa	he
+ŋkəs	ŋkəc-a	they
+
+Personal possessive prefixes
+The ten personal pronouns have corresponding possessive prefixes, which precede the nouns they modify.
+
+PREFIX	GLOSS
+o:-	my
+ici-	our (di)
+oci-	our (de)
+i-	our (pi)
+okʰi-	our (pe)
+am-	yours
+amci-	your (d)
+amni-	your (p)
+m-	his
+kʰəci-	their
+
+Occasionally, the personal possessive prefix can be found preceding the genitive case ending.
+The possessive prefixes precede the reflexive pronoun -hop 'own, self' and the possessive prefix dependent adverb -halla 'alone, on one's own'.
+
+Interrogative and indefinite pronouns
+A fairly exhaustive list of interrogative and indefinite pronouns is presented in the table:
+
+CASE	PRONOUN	GLOSS
+absolutive	as	who
+ergative	as-a-i	who
+genitive	as-mi	whose
+instrumental	as-a-i	by whom
+locative	as-pi	at whom
+comitative	as-lo-i	with whom
+absolutive	u-i	what
+ergative	a-sa-i	what
+genitive	u-mi	what kind of
+instrumental	u-sa-i	by what
+locative	u-pi	why
+comitative	u-lo-i	with what
+
+u-ro-i	why
+u-toŋ-kə-i	what kind of
+u-toŋ-na-i	how, what sort of
+ha:	which	
+ha:kə-i	which one	
+ha:de-i	when (in the future)
+ha:-pi	where
+da:lo-i	when (in the past)
+da:na-i	how, in what manner
+deppo-i	how many
+
+Numerals
+Numerals have classifier suffixes attached to the numeral stem. When counting human referents, the classifier -po is added to the numeral stem. For
+non-human referents, the classifier -bou is found. In the next table, the numerals from 1 to 10 are presented.
+
+NUMERAL	COUNTING FORMS	HUMAN REFERENT	NON-HUMAN REFERENT
+1	i:-bum	il-po	i:-bou
+2	nit-ci	nip-po	nis-bou
+3	sup-ci	sup-po	suk-bou
+4	li:-ci	lip-po	lik-bou
+5	ŋa-ci	ŋap-po	ŋak-bou
+6	tuk-ci	tup-po	tuk-bou
+7	nup-ci	nup-po	nuk-bou
+8	ret-ci	rep-po	rek-bou
+9	bo:-ci	bop-po	bok-bou
+10	ik-poŋ	ik-poŋ-po	ik-poŋ-bou
+
+Adjectives
+Adjectives
+differ from nouns by virtue of their inability to take case endings. In Kulung adjectives precede the noun they belong to and can be modified by adverbs which precede them.
+
+The intensive suffix -yo can be added to the adjective stem to emphasise the intensity of the quality the adjective expresses. From the adjective lemlempa 'sweet', for example, an intensive form lemlem-yo 'very sweet' can be derived. In the process, note that the suffix -pa is dropped.
+
+The diminutive particle -cha can be added to nouns and adjectives. Added to nouns, the diminutive particle indicates the small physical size of the object. For example, bo: 'pig' vs. bok-cha 'piglet'. In some cases, the diminutive particle is found affixed to adjectives. Moreover, the diminutive particle is found with the meaning ‘only, just'. The diminutive suffix -cha can be added to adverbs making the meaning of the adverb less intense.

@@ -1,0 +1,401 @@
+521
+522
+523
+524
+525
+526
+koŋ
+I
+The infinitive as a subject of an intransitive verb is illustrated by the
+examples below.
+527
+NON-FINITE VERBAL CONSTRUCTIONS
+sei-m
+kill-INF
+min-a
+think-PT
+'He wanted to kill me.'
+(lit. 'He was thinking about killing me.')
+nam
+ca
+smell: INF taste
+'It smells good.'
+okhi-di
+nəi-e
+be.good-nls
+m-wo-m-ya
+man-lə
+his-enter-INF-EMP NEG.PT-be.felt
+'He didn't like to enter.'
+du:-m-k¹a-m
+man-tu
+ourpe-millet.beer drink-INF-TEL-INF NEG.PT-be
+‘Wepe don't have [any] millet beer to drink.'
+mi mui-m
+chui-e
+fire blow-INF be-nls
+'The fire has to be blown.'
+mai-m
+c'ui-no
+forget-INF be-NEG.NPT
+'One must not forget.'
+khena watam watam ne:-m
+therefore slow slow
+speak-INF
+'Therefore you have to speak slowly.'
+127
+chui-e
+be-nls
+Often the infinitive is used as a nomen actionis. The infinitive of
+ne:ma 'to speak' may have the meaning '[way of] speaking', Nepali
+bolī. Likewise the term for 'love' is mima ‘love', the infinitive of 'to
+think'. The infinitive may further serve as a circumlocution for ob-
+samoglasnione z man ta
+128
+jects only recently introduced in Kulung culture for which no native
+word is available. Example (528) can be used to refer to a lighter.
+528
+9.6 The supine
+529
+530
+The supine <-si> may be added to the infinitive stem of verbs ex-
+pressing motion such as k'aima 'to go', baima 'to come', porma 'to
+wake up', giving the meaning 'in order to'. The morpheme <-si>
+drops its vowel in non-final position (cf. 2.4.2). This morpheme is
+cognate with the supine <-se> in Limbu (van Driem 1986: 212).
+531
+mi
+fire
+532
+ker-ma
+hit-INF
+'a lighter'
+533
+khe:-s
+ese-n
+as-so
+today-CTR who-also buy-SUP
+'Today no one came to buy.'
+clor-s
+deliver-SUP
+CHAPTER NINE
+k'at-o:
+go-1s.NPT
+'I am going to deliver.'
+mi
+fire
+koŋ ja
+I
+jur-s
+thoŋ-wa
+warm.at-SUP come.up-IMP
+'Come warm yourself by the fire!'
+ca-s
+cooked.rice eat-SUP
+'I am going to eat rice.'
+kho:-s
+look.at-SUP
+'Let uspi
+go
+man-ta-ha
+k"at-ya-ke
+go-1p.NPT-ASS
+and have a look.'
+NEG.PT-come-AFF
+khat-o:
+go-1s.NPT
+534
+535
+536
+537
+538
+539
+ja
+540
+NON-FINITE VERBAL CONSTRUCTIONS
+ca-s
+cooked.rice eat-SUP
+'Wake up to eat rice!'
+nurma
+dur-s
+ban-wa
+kind.of.beer drink-SUP come-IMP
+'Come in to drink some beer!'
+pək-wə
+wake.up-IMP
+m-to:ma lam-s k"alet-a
+his-wife find-SUP go.away-PT
+'He went away to find his wife.'
+tei
+cloth
+sap-s
+khat-o:
+wash-SUP go-1s.NPT
+'I am going to wash my clothes.'
+kho:-s
+khai-m
+look.at-SUP go-INF
+pik-o:
+say-1s.NPT
+'I like to go to have a look.'
+khul k"e:-s khai-m chui-e
+bark buy-SUP go-INF be-nis
+'[We] have to go to buy bark.'
+9.7 The impersonal first plural inclusive
+The use of the first person inclusive forms in impersonal verbal con-
+structions is a characteristic of probably all Kiranti languages (cf. van
+Driem 1987: 218-221, 1993: 275).
+dur-am-no
+be.able-1p 3.NPT-NEG.NPT
+129
+'It's impossible'
+(lit. 'Wepi can't do it.')
+130
+541
+di
+CHAPTER NINE
+dun-am-no
+dumo
+millet.beer too.much
+'One does not drink too much millet beer.'
+drink-1p-3.NPT-NEG.NPT
+Subordinators are morphologically and semantically closely related to
+case markers (cf. Genetti 1986). Subordinators may be attached to a
+finite clause in both preterite and non-preterite tense.
+542
+10.1 The temporal subordinator <-lo>
+The suffix <-lo> 'whilst, when' (Nep. -kheri) may be added to any
+affirmative or negative, non-preterite or preterite finite form, with or
+without the subordinating suffix <-ko>, to denote that the action of the
+main verb is contemporaneous with the verb in the main clause. Un-
+like the present gerund <-to>, the finite form to which the suffix <-lo>
+is added may have a different referent than the referent of the main
+clause. Historically, the suffix is related to the comitative case ending
+<-lo>.
+543
+CHAPTER 10
+544
+SUBORDINATORS
+ko:m-pi lamdum-o-lo laks-o
+hills-LOC walk-1s.PT-COM slip-1s.PT
+'Whilst walking in the hills, I slipped.'
+mi ti-cai-lo
+fire
+dat-o
+downward-1s.PT
+di
+burn-CNT-COM millet.beer
+'Whilst the fire is burning, wedi are drinking millet beer.'
+dun-cai-cu
+drink-CNT-d-3
+ims-o-lo
+of-seimo! is-a
+sleep-1s.PT-COM my-dream be.bad-PT
+'Whilst sleeping, I had a bad dream.'
+O
+132
+545
+546
+547
+548
+549
+550
+CHAPTER TEN
+an-a
+boksa
+sur
+k"at-ya-lo
+yous-ERG wedding go-1p.NPT-COM pork
+'Are you going to eat pork when wepi go to the wed-
+ing?'
+koŋ
+I
+at¹ui
+pik-a
+a.moment.ago ask-1s-3.PT-COM
+say-PT
+'When I asked him a moment ago, he said “no!" "
+thon-o-lo
+tət-u-lo
+ma
+no
+cai-ko
+eat-Q
+or-bo
+tuk-lo samk¹e са-м
+my-belly hurt-COM potato eat-INF
+nət-o:-no
+tu-s
+an
+sit-SUP come.down-1s.PT-COM yous
+'When I came down to visit you, you were sleeping.
+ims-a
+sleep-PT
+like-1s.NPT-NEG.NPT
+'When my belly hurts, I don't like to eat potatoes.
+pakha khat-lo lamsko chi-wa
+outside go-COM door close-IMP
+'When you go outside, close the door!'
+k¹im-pi samk¹e tur-e
+an
+saka-lo
+cə-wƏ
+house-LOC potato be-nls you hungry-COM eat-IMP
+"There are potatoes in the house; if you are hungry, eat!
+10.2 The temporal subordinator <-pka>
+The ablative case-marker <-pka>, preceded by the general subordina-
+tor <-kə>, functions as a temporal subordinator to express anteriority
+of the action of the main verb in the sentence. The temporal subordi-
+nator <-pka> is semantically identical with the perfect gerund <-na>.
+551
+552
+553
+554
+SUBORDINATORS
+555
+556
+kau puiy-ə-kə-pka
+mi
+k"əm
+c"u:-no
+water boil-3P.NPT-SUB-ABL fire blow:INF be-NEG.NPT
+'After the water starts boiling, one shouldn't blow on the
+fire.'
+klim k"at-ka-pka ims-wa
+house go-SUB-ABL sleep-IMP
+'Go home and go to sleep!'
+10.3 The conditional subordinator <-do>
+anni
+si-ni-kə-pka
+silum
+so-yo məi-num
+youP die-2p-IPF-ABL funeral.rite also-Q do-2p-3P
+'Do you also perform the funeral rite after you have
+died?'
+pik-a-ka-pka-n
+k"at-a
+say-PT-SUB-ABL-CTR
+go-PT
+'After he had said this, he went [away].'
+The conditional subordinator <-do> (CND) can be added to an affirma-
+tive or negated finite verb form to mark the condition of the apodosis.
+o:-pi paisa tu:-do koŋ-a ser
+my-LOC money be-CND I-ERG
+khet-o:
+buy-1s.NPT
+133
+'If I have money, I'll buy rice.'
+lam-na-te
+uncooked.rice
+man-tu-do
+NEG.PT-be-CND search-NEG.NPT-IMP
+'If it is not there, don't look for it!'
+134
+557
+558
+559
+560
+561
+CHAPTER TEN
+man-kha-do
+am-bo
+yours-belly NEG.PT-be.satisfied-CND
+'If yours belly is not satisfied, eat again.'
+an-a
+nətt-ə-do
+yous-ERG like-3P.NPT-CND bring-1p-3.NPT
+'If you like her, wepi shall bring her.'
+nətt-ə-no-do
+an-a
+yous-ERG like-3P.NPT-NEG.NPT-CND
+bai-am-no
+bai-am
+ca-wa
+p"eri cə-wƏ
+again eat-IMP
+bring-1p-3.NPT-NEG.NPT
+'If you don't like her, wepi won't bring her.'
+anni dawa dawa nen-ni-do
+yei
+youp fast fast speak-2p-CND hear
+les-or-no
+understand-1s.NPT-NEG
+'If youP speak fast, I can't understand.'
+tu-wa-do
+kat-u
+u-i
+spill-1s 3.PT mom:3P.PT-IRR-CND what-Q
+10.4 The causal subordinator <-kəsa>
+eat:3P.PT-IRR
+'If I had spilt it, what would you have eaten?'
+The causal subordinator <-kəsa> (CSL) consists of the subordinating
+suffix <-kə> followed by the ergative <-sa>.
+562
+563
+564
+SUBORDINATORS
+565
+duŋ-u-kəsa
+drink-1s 3.PT-CSL be.good-INF-COM
+nə-m-lo
+espa
+yesterday
+ims-o
+sleep-1s.PT
+'Because I drank it [beer] yesterday, I slept well.'
+coi-o:-no
+0:-bo
+tuk-kəsa sa
+my-belly hurt-CSL meat eat-1s.NPT-NEG.NPT
+'I am not eating meat because my belly hurts.'
+raksi dap-u-kosa
+o:-toŋ
+tuk-e
+my-head hurt-nls raksi
+taste-Is-3.PT-CSL
+'I have a headache because I tasted the raksi.'
+10.5 The concessive subordinator <-doso>
+The concessive subordinator <-doso> 'however' consists of the condi-
+tional subordinator <-do> and the conjunction so ‘also'.
+135
+wa tai-doso
+pakha
+khat-o!
+rain fall-although outside
+go-1s.NPT
+‘Although it is raining, I shall go outside.'
+Three modal categories are found in Kulung. These are imperative,
+optative and irrealis.
+566
+11.1 The imperative
+Imperatives in Kulung are made with the aid of one of the suffixes
+<-wa>, <-te> or <-kon>. Of these imperative suffixes, the suffix
+<-wa> is slightly more polite than the suffix <-te>. In addressing a
+superior, e.g. one's father, it is more common to use the imperative
+suffix <-wo>. The imperative suffix <-kon> differs from the suffixes
+<-wa> and <-te>, in that the imperative suffix <-khon> is used to ex-
+press additional impatience and the desired immediate realisation of
+the order issued.
+567
+568
+CHAPTER ELEVEN
+569
+pa-la
+samk¹e
+father-VOC potato
+lamsko chi-wa
+door
+MOOD
+'Father, give me potatoes!'
+close-IMP
+'Close the door!'
+cha-?a
+son-VOC potato
+pi:-or-wa
+give-1s.NPT-IMP
+ca-num-te
+eat-2p-3-IMP
+'EatP it!'
+samk'e pi:-or-te
+give-1s.NPT-IMP
+'Son, give me potatoes?'

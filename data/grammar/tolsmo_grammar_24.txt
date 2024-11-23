@@ -1,0 +1,502 @@
+2.4 Irregular verbs
+2.4.1 du:mk¹ama vt-irr, drink [du:ma ‘drink' with the telic auxiliary
+khama]
+NON-PRETERITE PRETERITE
+1ST PERSON AGENT
+1s
+1 di
+1de
+1pi
+1pe
+duŋu k¹i:o:
+dunk¹icu
+dunk"icuka
+duŋum k'i:am
+duŋum k'i:amka
+2ND PERSON AGENT
+2s
+2d
+2p
+PARADIGMS
+duŋkhirə
+dunk¹icu
+dunk"inum
+3RD PERSON AGENT
+3s
+3ns
+dunk¹i:ǝ
+dunk¹i:əci
+dunu khi
+duŋa k"acu
+duŋa k'acuka
+duŋum k'im
+duŋum kimka
+dunk'i
+duŋa khacu
+duna kanum
+221
+dunk"i
+duŋk'ici
+NEG PRETERITE
+mandu:m k'aŋa
+mandu:m k'aci
+mandum khaska
+mandu:m k'ayi
+mandu:m khayika
+mandu:m k'anna
+mandu:m k'anci
+mandu:m k'anni
+mandu:m k'a
+mandu:m kaci
+222
+2.4.2 tumlama vi-irr, spend the night, stay over for the night [tuma
+'be, sit' with the perseverative auxiliary lama]
+1ST PERSON SUBJECT
+1s
+1 di
+1de
+1pi
+1pe
+NON-PRETERITE
+turo: lator
+turlatci
+tu:latcika
+turi latya
+turi latyaka
+APPENDIX TWO
+2ND PERSON SUBJECT
+2s
+tu:late
+2d
+tu:latci
+2p
+tu:latni
+3RD PERSON SUBJECT
+3
+tu:late
+PRETERITE
+turo lato
+tura latci
+tu:a latcika
+turi lati
+turi latika
+tura lata
+tu:a latci
+tura latni
+tura lata
+NEG PRETERITE
+mantunlana
+mantunlaci
+mantunlaska
+mantunlayi
+mantunlayika
+mantunlana
+mantunlanci
+mantunlanni
+mantunla
+1
+2.4.3 thompima vt-irr, build for someone [toma 'build' with the ben-
+efactive auxiliary pima]
+1s→3s
+1s→3ns
+1di-3
+1de-3
+1pi→3
+1pe→3
+2s-3s
+2s→3ns
+2d-3
+2p-3
+3s-3s
+1s 2s
+1s-2d
+1s-2p
+Ins/3-2s taipi:e
+Ins/3-2d taipi:ci
+Ins/3-2p_ t"aipi:ni
+thupuio:
+t'upuio:ci
+thaipi:cu
+thaipi:cuka
+NON-PRETERITE
+t'on piyan
+t'on piyanci
+t'on piyanni
+2p→1s
+3→ldi
+PARADIGMS
+t"əm puiam
+thom puiamka
+t"əpilə
+t"apitəci
+thǝipi:cu
+thəipi:num
+t"əpira
+(3→3)ns t"əpi:əci
+2s/3-1s thopoio:
+2d→ls t'opoio:ci
+thopoiomi
+thaipi:ci
+2/3-1de thaipi:cika
+3→lpi
+thaipirya
+2/3-1pe thaipi:yaka
+PRETERITE
+t'on pinna
+thon pinci
+t'on pinni
+thapa
+t"apaci
+thapani
+thupu
+thupuci
+thapacu
+thapacuka
+thom pum
+thom pumka
+t"əpi
+thapici
+t'apacu
+t"apanum
+t"əpi
+t"apici
+thopo
+t"opoci
+t'oponi
+thapaci
+t"apacika
+223
+thaipiyi
+thaipiyika
+NEG PRETERITE
+manthon pinna
+mant'on pinci
+manthon pinni
+mant" on pa
+mant"on piyaci
+mant"on pinni
+mant"on piŋa
+mant"on piŋaci
+mant¹on pici
+mant"on piska
+mant" on piyi
+mant¹on piyika
+manthon pina
+mant" on pina
+mant" on pici
+mant"on pinni
+mant" on pa
+manthon pici
+mant"on pinna
+manthon pinaci
+mant¹on piŋanni
+mant¹on pici
+mant'on piska
+mant" on piyi
+mant"on piyika
+224
+2.4.4 ho:mdama vt-irr, throw away downward [ho:ma 'throw' with
+the downward auxiliary dama]
+NON-PRETERITE
+1ST PERSON AGENT
+1s
+1 di
+1de
+1pi
+1pe
+APPENDIX TWO
+hoksu dator
+hoksdatcu
+hoksdatcuka
+hoksum datam
+hoksum datamka
+2ND PERSON AGENT
+2s
+2d
+2p
+hoksdatə
+hoksdatcu
+hoksdatnum
+3RD PERSON AGENT
+3s
+3ns
+hoksdatə
+hoksdatəci
+PRETERITE
+hoksu datu
+hoksa datcu
+hoksa datcuka
+hoksum datum
+hoksum datumka
+hoksdatu
+hoksa datcu
+hoksa datnum
+hoksdatu
+hoksdatci
+NEG PRETERITE
+manho:ndaŋa
+maŋhondaci
+maŋhondaska
+manho:ndayi
+manho:ndayika
+manho:ndana
+manho:ndanci
+manho:ndanni
+maŋhonda
+maŋhondaci
+2.4.5 ho:mbama vt-irr, throw away horizontally [ho:ma 'throw' with
+the horizontal auxiliary bama]
+NON-PRETERITE
+IST PERSON AGENT
+1s
+1di
+1de
+1pi
+1pe
+hoksu buio:
+hoksbicu
+hoksbicuka
+hoksum buiam
+hoksum buiamka
+2ND PERSON AGENT
+2s
+2d
+2p
+PARADIGMS
+hoksbiə
+hoksbicu
+hoksbinum
+3RD PERSON AGENT
+3s
+3ns
+hoksbia
+hoksbitaci
+PRETERITE
+hoksu bu
+hoksa bacu
+hoksa bacuka
+hoksum bum
+hoksum bumka
+hoksbi
+hoksa bacu
+hoksa banum
+225
+hoksbi
+hoksbici
+NEG PRETERITE
+manho:nbana
+manho:nbaci
+manho:nbaska
+manho:nbayi
+manho:nbayika
+maŋho:nbana
+manho:nbanci
+manho:nbanni
+maŋhornba
+manho:nbaci
+226
+2.4.6 ho:myema vt-irr, leave
+NON-PRETERITE
+1ST PERSON AGENT
+1s
+1 di
+1de
+1pi
+1pe
+hoksuio:
+hoksicu
+hoksicuka
+hoksuiam
+hoksuiamka
+2ND PERSON AGENT
+2s
+2d
+2p
+APPENDIX TWO
+hoksitə
+hoksicu
+hoksinum
+3RD PERSON AGENT
+3s
+3ns
+hoksitə
+hoksitəci
+PRETERITE
+hoksuiu
+hoksaiacu
+hoksaiacuka
+hoksuium
+hoksuiumka
+hoksi
+hoksayacu
+hoksayanum
+hoksi
+hoksici
+NEG PRETERITE
+manhomnyena
+maŋhonyeci
+maŋhonyeska
+manho:nyeyi
+manho:nyeyika
+manho:nyena
+manho:nyenci
+manho:nyenni
+maŋhornye
+manho:nyeci
+1
+2.4.7 k'urmdima vt-irr, carry [k"urma 'carry' with the momentanous
+auxiliary dima]
+NON-PRETERITE
+1ST PERSON AGENT
+1s
+1di
+1de
+1pi
+1pe
+k'uru to:
+k"urditcu
+k"urditcuka
+kurum tam
+k"urum tamka
+2ND PERSON AGENT
+2s
+2d
+2p
+PARADIGMS
+k"urdittə
+khurditcu
+khurditnum
+3RD PERSON AGENT
+3s
+3ns
+k"urdittə
+kurdittaci
+PRETERITE
+kuru tu
+kura tacu
+khura tacuka
+kurum tum
+kurum tumka
+k'urditu
+khura tacu
+kura tanum
+227
+k'urditu
+khurditci
+NEG PRETERITE
+maŋk"urm diŋa
+mank"urm dici
+mank"urm diska
+maŋk¹urm diyi
+mank"urm diyika
+maŋk¹urm dinna
+mank"urm dinci
+mank"urm dinni
+maŋk¹urm di
+maŋk¹urm dici
+APPENDIX THREE
+KULUNG-ENGLISH LEXICON
+The alphabetical order of the lexicon is as follows:
+a a: b c ch dee:aa: ghii: jkk¹ l m nŋo o: pp" rstt" u u: wy
+The following lexicon contains all the words found in the grammar,
+supplemented with basic native Kulung lexicon. Since the lexicon is
+meant particularly for comparative research, most of the loan words
+from Nepali have not been included, while preference is given to cul-
+turally important words. Each Kulung entry is provided with an indi-
+cation of its grammatical category and meaning. Verbs are given in
+the infinitive with an indication of their conjugation and verb stems.
+Whenever available, a Nepali equivalent to the Kulung entry is given.
+aima vi-5 [1: at- 2: ai- 3: att- 4: an- 5: a:-] return, come back; Nep.
+pharkanu.
+aima vt-5 [1: at- 2: att- 3: ai- 4: an- 5: ar-] return, response; Nep.
+pharkäunu.
+alma vi-1 [1: al-] be lazy; Nep. alchi.
+alma vt-4 [1: al- 2: all- 3: al-] turn upside down, overturn; Nep.
+palṭāunu.
+am n. woven band on the wooden holster of a khukurī, ‘Nepalese
+knife'.
+amma vt-4 [1: ap- 2: app- 3: am-] 1. shoot (e.g. with bow); Nep.
+hānnu. 2. to break through (of sun) nam appu “The sun has broken
+through'; Nep. jhulkinu. 3. jump over (e.g. rope).
+amma vt-2 [1: aps- 2: am-] hit someone with something.
+asai pron. who (ERG); Nep. kasle.
+asai hepa pron. some people (ERG); Nep. kasaile.
+230
+APPENDIX THREE
+ase pron. who (ABS); Nep. ko.
+askǝi pron. who; Nep. ko-cāhim.
+asloi pron. with whom; Nep. ko-sanga.
+asmi pron. whose; Nep. kasko.
+at"ui adv. already, before, just; Nep. aghi.
+b
+babalpa adj. long; Nep. lämco.
+baima vt-5 [1: bai- 2: baiy- 3: bai- 4: ban- 5: ba:-] bring (on same
+level).
+baima vt-5 [1: bat- 2: batt- 3: bai- 4: ban- 5: ba:-] change, barter;
+Nep. sāṭnu.
+baima vi-3 [1: ban- 2: bai- 3: ban-] come (on same level); Nep. äunu.
+baipa adj. long; Nep. lamo.
+bakkan n. molar; Nep. bangāro.
+baks n. lightning; baks kette ‘it flashes.'; Nep. bijulī.
+bap¹u n. bamboo; Nep. bāṇs.
+bati n. axe; Nep. bancaro.
+bauju n. elder brother's wife.
+bei n. arrow; Nep. bāṇ.
+bel n. full cob of maize.
+bayakosi n. stone frame of the daplo 'fireplace'.
+bayayam n. armpit (also with haplology: bayam); Nep. kākhī.
+ba:ma n. buckwheat; Nep. phāpar.
+ba:ram n. inner wall of a house; Nep. bhittä.
+belo n. sickle; Nep. hamsiyā.
+bema vi-2 [1: bes- 2: be-] fart; Nep. pādnu.
+bemluwa n. fart; Nep. pād.
+bemma vt-2 [1: beps- 2: bem-] carry under one's arm.
+bena n. elder sister's husband.
+beplem n. butterfly; Nep. putalī.
+besarwa adj. yellow; Nep. pahemlo.
+bet¹o n. khukurī, Nepalese knife; Nep. khukurī.
+berma vt-2 [1: bek- 2: be:-] wipe off, e.g. with a broom; Nep. puchnu.
+bəma vt-6 [1: bui- 2: bu- 3: bai- 4: ba-] weave; Nep. bunnu.
+bəma vi-2 [1: bəs- 2: bə-] cry; Nep. karāunu.
+bəmma vt-4 [1: bəp- 2: bəpp- 3: bəm-] cage (birds, chickens, etc.).
+Pentestate age
+KULUNG-ENGLISH LEXICON
+231
+bəmma vt-2 [1: baps- 2: bam-] tie up in a bundle, wind around, wrap
+up; Nep. poko pārnu.
+bəpa n. a grain, pimple.
+bə: n. tightly bamboo-woven large basket; Nep. thunce.
+bə:nam n. headtrap for carrying a sep or bar; Nep. nämlo.
+bicu n. ginger, Zingiber officinale; Nep. aduvă.
+bilma vi-1 [1: bil-] be squeezed, be pressed out.
+bilma vt-4 [1: bil- 2: bill- 3: bil-] 1. squeeze, press out; Nep. nicarnu.
+2. milk; Nep. duhunu.
+bimma vt-4 [1: bip- 2: bipp- 3: bim-] thrust in (e.g. wall of a house,
+balk); Nep. siuranu, ghusārnu
+binippa adj. another; Nep. arko.
+birim n. navel, umbilical cord; Nep. nāițo.
+bi:ma vt-2 [1: bik- 2: bir-] pick, pluck; Nep. țipnu.
+bo n. belly; Nep. pet.
+bo məma vt-6 [1: mui- 2: mu- 3: məi- 4: mə-] be pregnant; Nep. pet
+boknu.
+·bobo n. addressive form of boŋ (q.v.)
+boho n. mud, earth; Nep. hilo.
+bokeha n. piglet
+bokk on n. bamboo water channel, trough; Nep. dumd.
+boksa n. pork; Nep. sungur-ko māsu.
+bolo adj. quick; Nep. chito.
+boma vt-8 [1: boi- 2: bo- 3: bəi- 4: bə- 5: bui- 6: bu- 7: ba- 8: bok-]
+help; Nep. saghāunu.
+bomme n. woman married into the clan.
+boŋ n. 1. paternal uncle, younger than father 2. husband of mother's
+younger sister; Nep. kākā.
+boŋpa n. wedding intermediary.
+boro n. frog, toad; Nep. khasre, bhyāguto.
+botoŋgali n. April/May; Nep. Vaiśākh.
+bouto n. shoulder (as seen from behind), shoulder blades; Nep. kum.
+bo: n. pig (black species); Nep. sungur.
+borci num. nine; Nep. nau.
+bo:lu n. stone wall; Nep. gāro.
+bo:sma n. kind of insect (resembling a fly, but a bit larger)
+bo:ma vt-2 [1: boks- 2: bo:-] boil (of solid foodstuffs); Nep. usinnu.
+bowa n. leaf, petal of a flower; Nep. pāt.

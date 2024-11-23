@@ -1,0 +1,537 @@
+209
+Verbs with a stem El ending in /-p/ have a stem E2 formed by chang-
+ing the bilabial stop into a bilabial nasal.
+210
+VERB STEM MORPHOLOGY
+hep-am
+hepp-u
+hem-yan
+hepma
+[1: hep-2: hepp- 3: hem-]
+'to embrace, hug'
+chan-o:
+chann-ə
+man-chai-s-ka
+'Wepi embrace him.'
+Verbs with a stem Σl ending in /-n/ change the stem-final nasal into
+/-i/ to form the stem [2.
+'He embraced her.'
+'I'll embrace yous.'
+chaima
+[1: chan-2: chann- 3: chai-]
+tətt-u
+tai-an-ni
+man-tən-na
+man-tə:-s-ka
+'to pile, heap up'
+‘I'll heap it up.’
+'He'll heap it up.’
+Wede didn't heap it up'
+55
+4.3.5 The fifth conjugation (vt-5)
+Verbs with a Σ1 ending in /-t/ or a post-vocalic /-i/ belong to the fifth
+conjugation (vt-5). Like the fourth conjugation, these verbs form their
+2 by doubling of the stem-final consonant. The stem 3 is formed
+by changing the stem-final /-t/ to /-i/. Verbs with a stem Σl already
+ending in /-i/ have a stem 3 identical to their Σ1. The [4 is found in
+affirmative and negated 1s→2 preterite forms, negated preterite forms
+with a second person patient, and negated preterite 2-3 forms. The
+stem 5 occurs in negated preterite 1de-3 and 2/3→→→1 de forms.
+211
+taima
+'to ask'
+[1: tət- 2: tətt- 3: təi- 4: tən- 5: tər-]
+tət-am-ka-no
+'Wepe don't ask him.'
+'Yous asked him.'
+'I'll ask youp.'
+‘I didn't ask yous.”
+'Wede didn't ask her.'
+56
+212
+213
+baiy-a-ci
+mam-bai
+ban-ci
+mam-ba:-s-ka
+baima
+[1: bai- 2: baiy- 3: bai- 4: ban- 5: ba:-]
+bai-a-num
+'YouP brought it.'
+CHAPTER FOUR
+'to bring (along a horizontal level)'
+4.3.6 The sixth conjugation (vt-6)
+The sixth transitive conjugation (vt-6) shows five different verb
+stems. The stem Σl appears in the finite forms showing agreement
+with a first person singular agent in the non-preterite, and the Σ2 ap-
+pears in the first singular affirmative preterite. The 3 appears in re-
+maining forms of the non-preterite, and the Σ4 in remaining forms of
+the preterite. The Σ5 is found in Ins/3-2, 2d→3, 2p→3, 3→1di, and
+2/3→→→1de forms of the affirmative preterite tense.
+mu
+тәі-сі
+тат-тә-сі
+ma-cu
+"They bring them.'
+'He didn't bring it.'
+'I brought you'
+'Wede didn't bring it.'
+məma
+'to do'
+[1: mui- 2: mu- 3: məi- 4: mə- 5: ma-]
+mui-or-no
+'I won't do it.'
+'I did it.'
+"They do it.'
+'They didn't do it.'
+"You did it.'
+4.3.7 The seventh conjugation (vt-7)
+The seventh transitive conjugation (vt-7) shows six different verb
+stems. Just as in the sixth conjugation, the E1 and 2 occur in the
+first person singular non-preterite and in the first singular affirmative
+preterite, respectively. The Σ3, however, is only found in second per-
+son singular and third person forms of the non-preterite and affirma-
+tive preterite. The E4 appears in remaining forms of the non-preterite
+and 5 in the remaining forms of the preterite. The stem Σ6 is found
+in all negated preterite forms.
+214
+215
+cama
+'to eat'
+[1: coi- 2: co- 3: cəi- 4: cə- 5: cai- 6: ca-]
+coi-or
+'I eat it.'
+'I ate it.'
+'He eats it.'
+'He ate it.'
+'Wepi eat it.'
+'I didn't eat it."
+CO
+сәі-ә
+CƏ
+cai-am
+man-ca-ya
+VERB STEM MORPHOLOGY
+4.3.8 The eighth conjugation (vt-8)
+The eighth transitive conjugation (vt-8) shows eight different verb
+stems. The stem El is found in forms showing agreement with a first
+person singular patient. The 2 is found in 1s-2 forms, both prete-
+rite and non-preterite, and in negated preterite forms. The 3 is found
+in non-preterite forms that do not have a E1, E2 or 5. The 24 is
+found in affirmative preterite forms indicating 1p-3, 2s-3, 3-3,
+3-1pi and 2/3-1pe relationships. The 5 is found in non-preterite
+1s 3 forms. The 6 is found in affirmative preterite 1s-3 forms.
+The 7 is found in affirmative preterite 1ns/3-2, 2d-3, 2p-3,
+3-1di and 2/3-1de forms. The 8 is found in negated preterite
+1d-3, (3-3)ns, 3→1di and 2/3→→Ide.
+toma
+'to see'
+[1: toi- 2: to- 3: təi- 4: tə- 5: tui- 6: tu- 7: ta- 8: tok-]
+toi-oi-ci
+'You see me.'
+man-to-na-ci
+tai-am-no
+tə-ci
+tui-o:
+tu-ci
+ta-cu-ka
+man-tok-ci
+'I didn't see them.'
+'Wepi don't see them.'
+'Yous saw them.'
+'I see him.'
+57
+'I saw them.'
+*Wede saw him.'
+'Wedi didn't see them.'
+The patterns of stem alternation of the transitive conjugations are rep-
+resented in the following diagrams. In each row of the diagram, the
+verb stems are given in the following order: (1) affirmative non-prete-
+58
+rite stem, (2) affirmative preterite stem, (3) negative non-preterite
+stem, (4) negative preterite stem.
+1s
+1 di
+1de
+1pi
+1pe
+2s
+2d
+2p
+3s
+3ns
+1s
+1di
+1de
+1pi
+1pe
+2s
+2d
+2p
+3s
+3ns
+1s 1 di 1de 1pi
+a
+g
+e
+n
+1s
+t
+a
+g
+e
+n
+t
+1-1-
+1-2
+CHAPTER FOUR
+patient
+vt-2
+vt-3
+1pe 2s 2d 2p 3s 3ns
+2-2-2-2
+Table 13: The second transitive conjugation
+1 di 1de 1pi 1pe 2s
+patient
+1-1-1-3
+1-1-1-2
+2d 2p 3s
+2-2-2-2
+1-1-1-2
+Table 14: The third transitive conjugation
+3ns
+1-1-
+1-3
+1s
+1 di
+1de
+1pi
+1pe t
+2s
+2d
+2p
+3s
+3ns
+1s
+2d
+2p
+3s
+3ns
+a
+g
+(
+n
+1s
+1di
+g
+1de e
+1pi n
+lpe t
+2s
+Is
+a
+1 di
+1de
+VERB STEM MORPHOLOGY
+1pi
+patient
+vt-4
+1-1-1-3
+1pe
+vt-5
+1-1-1-3 1-1-
+1-5
+2s
+2p
+1-1-1-3
+2d
+3-3-3-3
+1-1-1-1
+Table 15: The fourth transitive conjugation
+1-1-1-1
+1 di 1de 1pi 1pe 2s 2d 2p
+patient
+3-4-3-4
+1-3-1-3
+1-1-1-4
+1-1-1-4
+1-1-1-4
+Table 16: The fifth transitive conjugation
+3s
+59
+1-1-1-3
+2-2-
+2-3
+3ns
+2-2-2-1-
+2-3 2-3
+1-1-1-3
+2-1-2-3
+3s 3ns
+1-1-1-3
+1-1-1-5
+1-1-1-3
+2-2-
+2-3
+2-2-2-1-
+2-4 2-4
+1-1-1-4
+2-1-2-3
+60
+1s
+Idi
+1 de
+e
+1pi n
+1pe t
+2s
+2d
+2p
+3s
+3ns
+1s
+1s
+2d
+2p
+3s
+3ns
+a
+g
+1-1-
+1-4
+1s
+a
+1di
+g
+1de e
+1pi n
+lpe t
+2s
+1-1-
+1-6
+1di
+3-5-
+3-4
+1de
+5-6-
+5-6
+vt-6
+1pi
+patient
+3-5-
+4-4
+1 di 1de
+CHAPTER FOUR
+vt-7
+3-4-
+3-4
+5-6-
+6-6
+patient
+1pe 2s
+3-4-
+4-4
+Table 17: The sixth transitive conjugation
+1pi 1pe 2s
+5-6-
+5-6
+2d 2p 3s
+4-4-4-4
+5-6-
+6-6
+3-5-4-4
+3-5-4-4
+3-5-4-4
+5-6-6-6
+2d 2p 3s 3ns
+6-6-6-6
+5-6-6-6
+5-6-6-6
+3ns
+1-2-1-4
+Table 18: The seventh transitive conjugation
+3-4-3-4
+1-2-2-2-
+1-6
+1-6
+5-6-5-6
+3-4-3-6
+5-6-5-6
+3-4-3-6
+2d
+2p
+3s
+3ns
+1s
+1s
+1 di
+1de
+lpi n
+lpe t
+2s
+Pangak
+216
+a
+g
+e
+1-2-
+1-2
+1 di
+1de
+an
+yous
+VERB STEM MORPHOLOGY
+1pi
+patient
+vt-8
+3-7-3-8
+1pe
+3-4-3-2
+səm-ci-s
+2s
+2d 2p
+2-2-2-2
+3-7-3-2
+3-7-3-2
+3-7-3-2
+Table 19: The eighth transitive conjugation
+khat-pho
+go-PRB
+wash:INF-REF-SUP
+'Are you going to wash yourself?'
+61
+3s
+3ns
+5-6-5-2
+4.4 Reflexive conjugations
+Kulung reflexive verbs express what is known in classical grammar as
+middle voice. The marker for the reflexive conjugation is <-nci>, with
+an allomorph <-ŋci> found in the first person singular non-preterite
+and an allomorph <-ci> occuring in other verb forms. The reflexive
+conjugation is a rather unproductive class in Kulung. A selection of
+paradigms of the reflexive conjugation is found in Appendix II. A
+synchronic morphemic analysis leads to the postulation of porteman-
+teau morphemes that mark person and reflexivity. Reflexive verbs
+may be directly or indirectly reflexive. Direct reflexive verbs, such as
+the verb samcima 'to wash oneself', represent the subject as acting
+directly on himself.
+3-6-3-2
+3-4-3-4-
+3-7
+3-2
+5-6-5-2
+3-4-3-6
+62
+The reflexive verb mi:mcima 'to ponder', related to the intransitive
+verb mima 'to think', can be called indirect reflexive, because the
+subject is represented as acting for himself.
+217
+218
+miya-nci
+think-REF
+219
+CHAPTER FOUR
+Likewise, the reflexive verb mə-m-ci-ma can be considered an indir-
+ect reflexive, meaning 'to do for one's own benefit'.
+'You' are pondering.'
+u-i
+what-Q
+тәуа-псі
+do-REF
+'What are you doing [for your own benefit]?'
+an-a
+yu:
+ca-p-toŋ
+yous-ERG millet.paste eat-AP-like
+mə-m-ci-m
+do-INF-REF-INF
+c"ui-e
+be-nls
+'You have to act as if you are eating millet paste.'
+The reflexive verb no-m-ci-ma 'to rest', although related to the intran-
+sitive verb nama 'to be good', is not synchronically transparent.
+A Kulung finite verb consists of a verb stem to which up to three af-
+fixes can be added. These affixes may indicate tense, person, number
+and negation and even distinguish between inclusive vs. exclusive.
+The majority of affixes are portemanteau morphemes, i.e. one mor-
+pheme conveys two or more semantic features. The morpheme <-o:>,
+for example, indicates both first person and non-preterite tense. The
+affixes are divided into prefixal and suffixal slots. The concept of a
+slot was defined by van Driem as 'the functional position of a mor-
+pheme in an affixal string of an inflected verb form' (1990: 27). In
+total, twenty-two affixes occupy one prefixal and four suffixal slots.
+<man->
+CHAPTER FIVE
+Prefixal slot 1
+Prefixal slot 1 (pfl) precedes the verb stem.
+VERBAL AFFIXES
+<-a>
+<-0:>
+<-0>
+<-na>
+<-ya>
+<-i>
+<-am>
+<-um>
+Suffixal slot 1
+Suffixal slot 1 (sfl) contains the preterite marker and portemanteau
+morphemes that indicate tense and involve one or two actants. The
+synchronic system of verbal affixation shows that third person patient
+preterite <-u> is expressed unless there is a portemanteau morpheme
+present in the affixal string that indicates both agent and patient.
+the preterite negative morpheme (NEG.PT)
+preterite (PT)
+first singular non-preterite (1s.NPT)
+first singular preterite (1s.PT)
+first singular negative preterite (1s.NEG.PT)
+first plural non-preterite (1p.NPT)
+first plural preterite (1p.PT)
+1p 3 non-preterite (1p-3.NPT)
+1p-3 preterite (1p-3.PT)
+64
+<-na>
+<-yan>
+<-u>
+<-Ə>
+<-U>
+<-e>
+<-cu>
+<-num>
+<-ci>
+<-ni>
+<-ci>
+Suffixal slot 2
+The relative position of the dual marker <-ci> in the suffixal string
+enables us to identify and posit a suffixal slot sf2 because the dual
+marker follows the preterite tense marker <-a> in suffixal slot sfl and
+precedes the exclusive marker <-ka> in suffixal slot sf3.
+CHAPTER FIVE
+<-ka>
+second singular preterite (2s.PT)
+1s 2 non-preterite (1s→→2.NPT)
+1s→3 preterite (1s—3.PT)
+third person patient non-preterite (3P.NPT)
+third person patient preterite (3P.PT)
+<-no>
+non-first person singular (nls)
+the d-3 (d-3)
+the 2p 3 (2p-3)
+dual (d)
+Suffixal slot 3
+Suffixal slot sf3 is only occupied by the exclusive morpheme <-ka>.
+The morpheme follows the dual morpheme <-ci> in suffixal slot sf2
+and precedes the negative non-preterite morpheme <-no> (NEG.NPT)
+in suffixal slot sf4.
+second person plural (2p)
+third person non-singular (3ns)
+exclusive morpheme (e)
+Suffixal slot 4
+The last suffixal slot is occupied by the negative non-preterite mor-
+pheme <-no> (NEG.NPT).
+non-preterite negative (NEG.NPT)
+5.1 Prefix
+5.1.1 The negative preterite morpheme <man->
+basic morph:
+label:
+<man->
+NEG.PT

@@ -1,0 +1,102 @@
+[
+    {
+        "gold_kulung": " o:t\u0283\u02b0a t\u032aaie pikt\u032ao sara\u014b o:ma k\u02b0apa,",
+        "gold_english": "Saying 'My child will return', my mother wept bitterly ",
+        "gpt4_kulung": "Kulung: 'e b\u01ddma mi nana 'aima b\u01dd\u014be."
+    },
+    {
+        "gold_kulung": " sak\u02b0i t\u032aut\u032aam t\u0283i:mat\u0283\u02b0aka si\u014bpika,",
+        "gold_english": "We(pi) spin threads on a small piece of wood ",
+        "gpt4_kulung": "Kulung:  nu\u014bk\u02b0i n\u01ddka k\u02b0e:i\n\n(Note: This is a best guess translation for the given English sentence.)"
+    },
+    {
+        "gold_kulung": " h\u0259nna kei t\u0283\u02b0amt\u0283i l\u0259ija ikulu\u014bk\u0259 ri\u014bpika,",
+        "gold_english": "Now we(pi) sing songs in our(pi) Kulung language ",
+        "gpt4_kulung": "n\u01ddn\u0268m\u01dd\u014ba \u0268r\u0268\u014bpi k\u02b0o:lo\u014bai"
+    },
+    {
+        "gold_kulung": " so:go so k\u02b0at\u032aja k\u02b0o:lo\u014bai lam l\u0259ija,",
+        "gold_english": "We(pi) go to the jungle, we(pi) all seek [the way] ",
+        "gpt4_kulung": "Kulung:  m\u01ddt\u032aa t\u0283\u02b0u:\u014ba, m\u01ddt\u032aa t\u0283\u02b0a\u014bk\u02b0a k\u02b0o:lo\u014ba."
+    },
+    {
+        "gold_kulung": " h\u0259nnak\u0259 kei iri\u014bk\u0259 t\u0283\u02b0am l\u01ddija,",
+        "gold_english": "Now we(pi) sing a song in our(pi) language ",
+        "gpt4_kulung": "Kulung: iri\u014bka so t\u0283\u02b0am l\u01ddt\u032ao"
+    },
+    {
+        "gold_kulung": " mo:bo so m\u0259iam \u028ba:t\u0283\u02b0a lo bo: lo nu,",
+        "gold_english": "We(pi) perform Mobo with chicks and pigs ",
+        "gpt4_kulung": "Kulung: mo:bo m\u01ddiam kulut\u0283\u02b0a \u028bat\u0283\u02b0a lo bo: lo nu."
+    },
+    {
+        "gold_kulung": " k\u02b0o:lo\u014bai t\u032aupi bu\u0294a olonu,",
+        "gold_english": "We(pi) have all met again, elder brothers, welcome ",
+        "gpt4_kulung": "Kulung: t\u032aupi k\u02b0at\u032ai bu\u0294a k\u02b0o:lo\u014bai olonu"
+    },
+    {
+        "gold_kulung": " samk\u02b0e so \u014bi:am barapka d\u032au:noke,",
+        "gold_english": "We(pi) cook potatoes, they don't cook in the cooking pan,",
+        "gpt4_kulung": "k\u02b0o:lo\u0272 \u028bumu l\u01ddn\u0254k\u02b0e, t\u0283\u02b0e\u026al\u026d\u0254k\u02b0e."
+    },
+    {
+        "gold_kulung": " it\u032aelpi imi so:go so mand\u032ai so:mt\u0283\u02b0ak\u0259 t\u0283\u02b0u:noke,",
+        "gold_english": "In our(pi) village, without our(pi) forest, there can be no human beings ",
+        "gpt4_kulung": "Kulung:  iri\u014bka k\u02b0impu, k\u02b0oro\u014bka k\u02b0impu, hara i:ni m\u0254k\u02b0u."
+    },
+    {
+        "gold_kulung": " samk\u02b0e so let\u032aam asarpi b\u0259lamke,",
+        "gold_english": "We(pi) plant potatoes, in \u0100\u1e63\u0101\u1e0dh (June/July) we(pi) dig them up ",
+        "gpt4_kulung": "Kulung: mi:ba b\u0254:hu \u1e6dh\u012b k\u02b0a\u014bm\u01ddk\u02b0\u0254\u0304 mi:ba \u028ba:nt\u0283a."
+    },
+    {
+        "gold_kulung": " molmik\u0259 lagi si:bolo\u014b k\u0259lamke,",
+        "gold_english": "For fertiliser, we(pi) push them together with the leaves [in the ground] ",
+        "gpt4_kulung": "Kulung: kh\u01ddc\u02b0i am l\u0259wa\u014bk\u0259 i:bum."
+    },
+    {
+        "gold_kulung": " t\u0283\u02b0uppu makaiser t\u032aesam,",
+        "gold_english": "One pours ground maize in a cooking pot ",
+        "gpt4_kulung": "English: One pours ground maize in a cooking pot  \nKulung: bu:ma k\u0101dh\u012b ko\u014b d\u0292a\u1e6d\u032au."
+    },
+    {
+        "gold_kulung": " k\u02b0ikka makaiser t\u032aesamna d\u032aure ,",
+        "gold_english": "Then, having poured ground maize [in the cooking pot], it cooks ",
+        "gpt4_kulung": "Kulung:  k\u02b0a:ju t\u0283h\u025bkw\u0254 t\u0283a r\u0254\u014b\u0268 \u028ba\u030bt\u0283\u02b0e."
+    },
+    {
+        "gold_kulung": " d\u0292id\u0292is ba:m t\u032aesm t\u0283hu:e,",
+        "gold_english": "A little buckwheat has to be added ",
+        "gpt4_kulung": "Kulung: ba:ma aima t\u0283\u025bt\u032ae"
+    },
+    {
+        "gold_kulung": " k\u02b0ikkan lin t\u032aesam ,",
+        "gold_english": "Then yeast must be added ",
+        "gpt4_kulung": "Kulung: tshe\u0301lma-mana  k\u02b0o\u0304l."
+    },
+    {
+        "gold_kulung": " li\u014b t\u032aesamnan ba:pu sumamna,",
+        "gold_english": "Having poured yeast into [the cooking pot], one ferments it [the maize] in a bamboo basket ",
+        "gpt4_kulung": "Kulung: t\u0283him y\u028al t\u0283h\u012bbe s\u026ad\u028b\u0101\u014bis\u0268r m\u01dd\u014bka \u0268na \u0268n bo\u014bi t\u0283\u01ddt\u032ae."
+    },
+    {
+        "gold_kulung": " k\u02b0ikkana b\u0259rpu sumamna baia,",
+        "gold_english": "Thereafter, having fermented [the maize] in a bamboo basket, [the maize] will be fermented ",
+        "gpt4_kulung": "Kulung: k\u02b0ikkana baphu b\u01ddma k\u02b0obui \u0268s\u00f6\u014bo k\u02b0o:lo."
+    },
+    {
+        "gold_kulung": " k\u02b0ikkana lippu li\u014bam,",
+        "gold_english": "Thereafter, one pours [the maize] into a jug *",
+        "gpt4_kulung": "Kulung: k\u02b0ikkana t\u0283\u025bt\u032ai n\u0254l t\u0283u:p\u01ddn "
+    },
+    {
+        "gold_kulung": " lippu linamna nurma d\u032au\u014bam,",
+        "gold_english": "Having poured [the maize] into a jug, one drinks the beer ",
+        "gpt4_kulung": "Kulung:  x\u02b0obui l\u028an \u0272a:  d\u032ai\u014be."
+    },
+    {
+        "gold_kulung": " k\u02b0ikkana nurma d\u032au\u014bum k\u02b0i:amka msipne raksi \u014bi:am,",
+        "gold_english": "Afterwards, from the husk of the unfiltered beer that one has drunk, one cooks [i e  distils] raksi ",
+        "gpt4_kulung": "Kulung:  n\u01ddpi-\u028ba d\u032aing m\u01ddm m\u01dd:ma raksi \u028be:ka."
+    }
+]

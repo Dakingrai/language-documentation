@@ -1,0 +1,614 @@
+2.2.17 cama vt-7 [1: coi- 2: co- 3: cəi- 4: cə- 5: cai- 6: ca-], eat.
+NON-PRETERITE
+1ST PERSON AGENT
+1s
+1di
+1de
+1pi
+1pe
+coio:
+caicu
+caicuka
+caiam
+caiamka
+PARADIGMS
+2ND PERSON AGENT
+2s
+caia
+2d
+caicu
+2p
+cainum
+3RD PERSON AGENT
+3s
+caia
+3ns
+сәісі
+PRETERITE
+со
+cacu
+caska
+cam
+camka
+cə
+cacu
+canum
+CƏ
+сәсі
+NEG PRETERITE
+mancaŋa
+mancaci
+mancaska
+mancayi
+mancayika
+mancana
+mancanci
+mancanni
+211
+manca
+mancaci
+212
+2.2.18 toma vt-8 [1: toi- 2: to- 3: təi- 4: tə- 5: tui- 6: tu- 7: ta- 8:
+tok-], see.
+1s 2s
+1s 2d
+toyan
+toyanci
+1s-2p toyanni
+NON-PRETERITE
+Ins/3-2s toie
+Ins/3-2d taici
+Ins/3-2p təini
+1s-3s
+tuior
+1s→3ns tuio:ci
+1di-3
+taicu
+1de-3
+taicuka
+1pi-3
+taiam
+1pe 3
+təiamka
+2s-3s
+taia
+2s→3ns təəci
+taicu
+təinum
+2d-3
+2p→→→3
+3s-3s
+APPENDIX TWO
+taia
+(3→3)ns təiaci
+2s/3-1s toio:
+2d→ls
+toio:ci
+2p→ls toiomi
+3-1di
+taici
+2/3-1de taicika
+3→lpi
+təiya
+2/3→1pe təiyaka
+PRETERITE
+tonna
+tonci
+tonni
+ta
+taci
+tani
+tu
+tuci
+tacu
+tacuka
+təm
+təmka
+tə
+təci
+tacu
+tanum
+tə
+təci
+to
+toci
+toni
+taci
+tacika
+təyi
+təyika
+NEG PRETERITE
+mantonna
+mantonci
+mantonni
+mantonna
+mantonci
+mantonni
+mantoŋa
+mantonaci
+mantokci
+mantokska
+mantoyi
+mantoyika
+mantonna
+mantonna
+mantonci
+mantonni
+manto
+mantokci
+mantoŋa
+mantonaci
+mantoŋani
+mantokci
+mantokska
+mantoyi
+mantoyika
+2.2.19 thoma vt-8 [1: thoi- 2; tho- 3: thoi- 4: tha- 5: thui- 6: thu- 7: tha-
+8: thok-], bring up.
+NON-PRETERITE
+1s 2s
+t'oyan
+1s→2d
+t'oyanci
+1s-2p t'oyanni
+Ins/3-2s taie
+Ins/3-2d t'ici
+Ins/3-2p t'aini
+1s→3s
+t'uio:
+1s→3ns t'uio:ci
+1di→3
+thaicu
+1de-3
+thoicuka
+1pi→3 thoiam
+1pe→3
+2s-3s
+thaiamka
+thaiə
+thaiaci
+thaicu
+thoinum
+PARADIGMS
+2s 3ns
+2d-3
+2p 3
+3s-3s
+thaia
+(3→3)ns thoiaci
+2s/3→ls thoio:
+2d-1s
+t'oio:ci
+2p 1s
+thoiomi
+3-1 di
+thaici
+2/3-1de
+t"ǝicika
+3→→→lpi
+t"əiya
+2/3-1pe thaiyaka
+PRETERITE
+thonna
+t" onci
+t" onni
+tha
+taci
+t" ani
+t'u
+thuci
+t'acu
+thacuka
+tham
+t"əmka
+thaci
+thacu
+t" anum
+the
+thaci
+tho
+thoci
+thoni
+thaci
+thacika
+thəyi
+t"əyika
+NEG PRETERITE
+mant"onna
+mant" onci
+mant¹onni
+mant"onna
+mant" onci
+mant" onni
+mant"oŋa
+manthoŋaci
+mant"okci
+mant"okska
+manthoyi
+manthoyika
+mant¹onna
+manthonna
+mant" onci
+mant" onni
+mant"o
+213
+mant"okci
+manthoŋa
+mant¹oŋaci
+mant"oŋani
+manthokci
+mant"okska
+mant"oyi
+mant"oyika
+214
+2.2.20 ho:mt oma vt-8, throw upward [ho:ma 'to throw' with the up-
+ward auxiliary thoma]
+1ST PERSON AGENT
+IS
+1di
+1de
+1pi
+1pe
+NON-PRETERITE
+APPENDIX TWO
+hoksu tuio:
+hokst"ǝicu
+hokst"oicuka
+hoksum thaiam
+hoksum t"aiamka
+2ND PERSON AGENT
+2s
+2d
+2p
+hokst aia
+hokstaicu
+hokstainum
+3RD PERSON AGENT
+3s
+3ns
+hoksthaia
+hokst"ǝiaci
+PRETERITE
+hoksu t'u
+hoksa t'acu
+hoksa t"acuka
+hoksum thom
+hoksum t"əmka
+hoksta
+hoksa t'acu
+hoksa t"anum
+hokst"
+hokstaci
+NEG PRETERITE
+manho:nt"oŋa
+manho:nthoci
+manho:nt oska
+maŋhoint"oyi
+manho:nthoyika
+manho:nt" ona
+manho:nt" onci
+maŋho:nthonni
+manho:ntho
+manho:nthoci
+2.2.21 poma vt-8 [1: poi- 2: po- 3: рəі- 4: рə- 5: pui- 6: pu- 7: pa- 8:
+pok-], tell, talk with.
+NON-PRETERITE
+1s-2s
+poyan
+1s-2d poyanci
+1s-2p poyanni
+Ins/3-2s paie
+1ns/3-2d pісі
+Ins/3-2p paini
+1s-3s
+puio:
+1s-3ns
+puio:ci
+1di-3
+рәіси
+1 de-3
+poicuka
+1pi-3
+poiam
+1pe-3
+priamka
+2s-3s
+PARADIGMS
+paia
+2s-3ns pəiaci
+2d-3
+paicu
+2p-3 painum
+3s→3s paia
+(3-3)ns pəiaci
+2s/3-1s
+poio:
+2d-1s
+poio:ci
+2p-1s poio:ni
+3-1di
+paici
+2/3-1 de poicika
+3-1pi
+paiya
+2/3-1pe
+pəiyaka
+PRETERITE
+ponna
+ponci
+ponni
+pa
+paci
+pani
+pu
+puci
+раси
+pacuka
+рәм
+pəmka
+рә
+рәсі
+раси
+panum
+рә
+рәсi
+po
+росi
+poni
+paci
+pacika
+payi
+pəyika
+NEG PRETERITE
+mamponna
+mamponci
+mamроnni
+mamponna
+mamponci
+mamponni
+215
+матрома
+mamponaci
+mampokci
+mampokska
+mampoyi
+mampoyika
+mamponna
+mamponna
+mamponci
+mamponni
+mampo
+mampokci
+матрома
+mamponaci
+mamponani
+mampokci
+mampokska
+татроуі
+mampoyika
+216
+2.3 Reflexive verbs
+2.3.1 mul-m-ci-ma vr [1: mul- 2: muly-] hide oneself.
+NON-PRETERITE PRETERITE
+IST PERSON SUBJECT
+1s
+1di
+1de
+1pi
+1pe
+mulyoŋcuŋ
+mulyci
+mulycika
+mulyaci
+mulyacika
+2ND PERSON SUBJECT
+2s
+2d
+2p
+mulyanci
+mulyci
+mulyannici
+APPENDIX TWO
+3RD PERSON SUBJECT
+3
+mulyanci
+mulncun
+mulnciyaci
+mulnciyika
+muliciyi
+muliciyika
+mulnci
+mulnciyaci
+mulnici
+mulnci
+NEG PRETERITE
+mammulnciŋa
+mammulncici
+mammulncika
+mammulnci
+mammulncika
+mammulncina
+mammulncici
+mammulnici
+mammulnci
+2.3.2 haimcima vr [1: hai- 2: ha- 3: hat-], depart, take leave.
+NON-PRETERITE
+1ST PERSON SUBJECT
+1s
+1 di
+1de
+1pi
+1pe
+haioncun
+hatci
+hatcika
+hayaci
+hayacika
+2ND PERSON SUBJECT
+2s
+2d
+2p
+hayanci
+hatci
+hayannici
+PARADIGMS
+3RD PERSON SUBJECT
+3
+hayanci
+PRETERITE
+hancun
+hanciyaci
+hanciyacika
+hayiciyi
+hayiciyika
+hanci
+hanciyaci
+hanici
+hanci
+217
+NEG PRETERITE
+manhancina
+manhancici
+manhatcika
+manhanci
+manhanciyika
+maŋhancina
+manhancici
+maŋhannici
+maŋhanci
+218
+2.3.3 phomcima vr [1: p¹o- 2: pªok-], break up.
+NON-PRETERITE
+1ST PERSON SUBJECT
+1s
+1 di
+1de
+1pi
+1pe
+p'oyoncun
+p"okci
+p"okcika
+p"okyaci
+p"okyacika
+2ND PERSON SUBJECT
+2s
+2d
+2p
+p"oyanci
+p"okci
+p'oyannici
+APPENDIX TWO
+3RD PERSON SUBJECT
+3
+phoyanci
+PRETERITE
+p'oncun
+p'onciyaci
+p"onciyacika
+p"okiciyi
+p'okiciyika
+p'onci
+p'onciyaci
+p'onnici
+phonci
+NEG PRETERITE
+mamp"oncina
+mamp"oncici
+mamp"okcika
+mamp"onciyi
+mamp"onciyika
+mamp"oncina
+mamp"oncici
+mamp"onnici
+mamp"onci
+2.3.4 nomcima vr [1: no- 2: not-], rest. Nep. bisāunu
+NON-PRETERITE
+1ST PERSON SUBJECT
+1s
+1 di
+1de
+Ipi
+1pe
+noyoncun
+notci
+notcika
+noyaci
+noyacika
+2ND PERSON SUBJECT
+2s
+2d
+2p
+noyanci
+notci
+noyannici
+PARADIGMS
+3RD PERSON SUBJECT
+3
+noyanci
+PRETERITE
+noncun
+nonciyaci
+nonciyacika
+noyiciyi
+noyiciyika
+nonci
+noncici
+nonnici
+nonci
+219
+NEG PRETERITE
+mannoncina
+mannoncici
+mannoncicika
+mannonciyi
+mannonciyika
+mannoncina
+mannoncici
+mannonnici
+mannonci
+220
+2.3.5 incima vr [1: i- 2: it-], learn. Nep. siknu
+1ST PERSON SUBJECT
+1s
+1di
+1de
+1pi
+1pe
+NON-PRETERITE
+iyoncun
+itci
+itcika
+iyaci
+iyacika
+APPENDIX TWO
+2ND PERSON SUBJECT
+2s
+iyanci
+2d
+itci
+2p
+iyannici
+3RD PERSON SUBJECT
+3
+iyanci
+PRETERITE
+incun
+inciyaci
+inciyacika
+iyiciyi
+iyiciyika
+inci
+incici
+innici
+inci
+NEG PRETERITE
+manincina
+maŋincici
+maŋincicika
+maŋinciyi
+maŋinciyika
+maŋincina
+manincici
+maŋinnici
+maŋinci
+Promote

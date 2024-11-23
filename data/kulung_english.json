@@ -1,0 +1,5164 @@
+{
+    "kulung_english" : {
+        "aima": [
+            "vt-5 [1: at- 2: att- 3: ai- 4: an- 5: a:-]",
+            "return, response"
+        ],
+        "alma": [
+            "vt-4 [1: al- 2: all- 3: al-]",
+            "turn upside down, overturn"
+        ],
+        "am": [
+            "n.",
+            "woven band on the wooden holster of a khukuri\u0304, 'Nepalese knife'"
+        ],
+        "amma": [
+            "vt-2 [1: aps- 2: am-]",
+            "hit someone with something."
+        ],
+        "asaj": [
+            "pron.",
+            "who (erg)"
+        ],
+        "asaj hepa": [
+            "pron.",
+            "some people (erg)"
+        ],
+        "ase": [
+            "pron.",
+            "who (abs)"
+        ],
+        "ask\u01ddj": [
+            "pron.",
+            "who"
+        ],
+        "asl\u0254j": [
+            "pron.",
+            "with whom"
+        ],
+        "asmi": [
+            "pron.",
+            "whose"
+        ],
+        "at\u032ahui": [
+            "adv.",
+            "already, before, just"
+        ],
+        "babalpa": [
+            "adj.",
+            "long"
+        ],
+        "baima": [
+            "vi-4 [1: ban- 2: bai- 3: ban-]",
+            "come (on same level)"
+        ],
+        "baipa": [
+            "adj.",
+            "long"
+        ],
+        "bakkaN": [
+            "n.",
+            "molar"
+        ],
+        "baks": [
+            "n.",
+            "lightning"
+        ],
+        "ba:ma": [
+            "n.",
+            "buckwheat"
+        ],
+        "ba:ram": [
+            "n.",
+            "inner wall of a house"
+        ],
+        "baphu": [
+            "n.",
+            "bamboo"
+        ],
+        "bat\u032ai": [
+            "n.",
+            "axe"
+        ],
+        "bajak\u0254si": [
+            "n.",
+            "stone frame of the dapl\u0254 'fire-place'."
+        ],
+        "bajajam": [
+            "n.",
+            "armpit (also with haplology: bayam)"
+        ],
+        "bei": [
+            "n.",
+            "arrow"
+        ],
+        "bel": [
+            "n.",
+            "the pod of maize when full"
+        ],
+        "bel\u0254": [
+            "n.",
+            "sickle"
+        ],
+        "bema": [
+            "vi-3 [1: bes- 2: be-]",
+            "fart"
+        ],
+        "bemlu\u028ba": [
+            "n.",
+            "fart"
+        ],
+        "bemma": [
+            "vt-2 [1: beps- 2: bem-]",
+            "carry under one's arm."
+        ],
+        "be:ma": [
+            "vt-2 [1: bek- 2: be:-]",
+            "wipe off, e.g. with a broom"
+        ],
+        "beplem": [
+            "n.",
+            "butterfly"
+        ],
+        "besar\u028ba": [
+            "adj.",
+            "yellow"
+        ],
+        "bet\u032ah\u0254": [
+            "n.",
+            "khukuri\u0304, Nepalese knife"
+        ],
+        "b\u01ddma": [
+            "vi-3 [1: b\u01dds- 2: b\u01dd-]",
+            "cry"
+        ],
+        "b\u01ddmma": [
+            "vt-2 [1: b\u01ddps- 2: b\u01ddm-]",
+            "tie in a bundle, wind around, wrap up"
+        ],
+        "b\u01dd:": [
+            "n.",
+            "tightly bamboo-woven large basket"
+        ],
+        "b\u01dd:nam": [
+            "n.",
+            "headtrap for carrying a sep or b\u01dd:"
+        ],
+        "b\u01ddpa": [
+            "n.",
+            "a grain, pimple."
+        ],
+        "bit\u0283hu": [
+            "n.",
+            "ginger, Zingiber officinale Rosc."
+        ],
+        "bilma": [
+            "vt-4 [1: bil- 2: bill- 3: bil-]",
+            "1. squeeze, press out 2. milk"
+        ],
+        "bimma": [
+            "vt-4 [1: bip- 2: bipp- 3: bim-]",
+            "thrust in (e.g. wall of a house, balk)"
+        ],
+        "binippa": [
+            "adj.",
+            "another"
+        ],
+        "bi:ma": [
+            "vt-2 [1: bik- 2: bi:-]",
+            "pick, pluck"
+        ],
+        "birim": [
+            "n.",
+            "navel, umbilical cord"
+        ],
+        "b\u0254": [
+            "n.",
+            "belly"
+        ],
+        "b\u0254 mama": [
+            "vt-6 [1: mui- 2: mu- 3: m\u01ddi- 4: m\u01dd-]",
+            "be pregnant"
+        ],
+        "b\u0254h\u0254": [
+            "n.",
+            "mud, earth"
+        ],
+        "b\u0254kt\u0283ha": [
+            "n.",
+            "piglet"
+        ],
+        "b\u0254kkh\u0254N": [
+            "n.",
+            "bamboo water-channel, trough"
+        ],
+        "b\u0254ksa": [
+            "n.",
+            "pork"
+        ],
+        "b\u0254l\u0254": [
+            "adj.",
+            "quick"
+        ],
+        "b\u0254ma": [
+            "vt-8 [1: b\u0254i- 2: b\u0254- 3: b\u01ddi- 4: b\u01dd- 5: bui- 6: bu- 7: ba- 8: b\u0254k-]",
+            "help"
+        ],
+        "b\u0254mme": [
+            "n.",
+            "woman married into the clan."
+        ],
+        "b\u0254N": [
+            "n.",
+            "1. paternal uncle, older or younger than father 2. husband of"
+        ],
+        "b\u0254Npa": [
+            "n.",
+            "wedding intermediary."
+        ],
+        "b\u0254:": [
+            "n.",
+            "pig (black species)"
+        ],
+        "b\u0254:t\u0283i": [
+            "num.",
+            "nine."
+        ],
+        "b\u0254:lu": [
+            "n.",
+            "stone wall"
+        ],
+        "b\u0254:ma": [
+            "vt-2 [1: b\u0254ks- 2: b\u0254:-]",
+            "cook (of solid foodstuffs)"
+        ],
+        "b\u0254:sma": [
+            "n.",
+            "kind of insect (resembling a fly, but a bit larger)"
+        ],
+        "b\u0254r\u0254": [
+            "n.",
+            "frog, toad"
+        ],
+        "b\u0254t\u032a\u0254Ngali": [
+            "n.",
+            "April/May"
+        ],
+        "b\u0254ut\u032a\u0254": [
+            "n.",
+            "shoulder (as seen from behind), shoulder blades"
+        ],
+        "b\u0254\u028ba": [
+            "n.",
+            "leaf, petal of a flower"
+        ],
+        "bu": [
+            "n.",
+            "1. elder brother 2. wife's elder sister's husband 3. husband's"
+        ],
+        "bubu bubu": [
+            "adv.",
+            "together on one spot."
+        ],
+        "but\u0283um": [
+            "n.",
+            "the great bear (star constellation)."
+        ],
+        "buima": [
+            "vt-5 [1: but- 2: butt- 3: bui- 4: bun- 5: bu:-]",
+            "undress, uncloth, put off jewelry, glasses"
+        ],
+        "bukh\u0254": [
+            "n.",
+            "small tightly-woven bamboo basket for storage of grains"
+        ],
+        "buksi": [
+            "n.",
+            "kind of antelope"
+        ],
+        "bul": [
+            "n.",
+            "July/August"
+        ],
+        "bulma": [
+            "vi-3 [1: buls- 2: bul-]",
+            "run"
+        ],
+        "bululu\u028ba": [
+            "n.",
+            "thunder"
+        ],
+        "bum": [
+            "n.",
+            "friend"
+        ],
+        "bumt\u0283ari": [
+            "n.",
+            "waistband"
+        ],
+        "bumma": [
+            "vt-4 [1: bup- 2: bupp- 3: bum-]",
+            "gather (cloths) together"
+        ],
+        "buN": [
+            "n.",
+            "flower"
+        ],
+        "buNnam": [
+            "n.",
+            "the beginning of spring, season starting in April and lasting"
+        ],
+        "bu:ma": [
+            "vt-2 [1: buks- 2: bu:-]",
+            "pour out, overthrow, sow"
+        ],
+        "bur": [
+            "n.",
+            "mountain"
+        ],
+        "burma": [
+            "vt-1 [1: bur-]",
+            "sew, stitch"
+        ],
+        "t\u0283a": [
+            "n.",
+            "taste."
+        ],
+        "t\u0283akt\u0283akur": [
+            "n.",
+            "December/January"
+        ],
+        "t\u0283alei": [
+            "n.",
+            "seed"
+        ],
+        "t\u0283ama": [
+            "vt-7 [1: c\u0254i- 2: c\u0254- 3: c\u01ddi- 4: c\u01dd- 5: cai- 6: ca-]",
+            "eat"
+        ],
+        "t\u0283anari": [
+            "n.",
+            "throat (interior)"
+        ],
+        "t\u0283a:ma": [
+            "vt-2 [1: caks- 2: ca:-]",
+            "prune (branches of a tree)"
+        ],
+        "t\u0283ap": [
+            "n.",
+            "ghost, spirit of deceased"
+        ],
+        "t\u0283aphara": [
+            "n.",
+            "long-handled mattock with a narrow blade"
+        ],
+        "t\u0283apm\u01ddma": [
+            "n.",
+            "great-grandmother"
+        ],
+        "t\u0283apph\u01ddpa": [
+            "n.",
+            "great-grandfather"
+        ],
+        "t\u0283ari": [
+            "n.",
+            "ancestral land."
+        ],
+        "t\u0283asi": [
+            "n.",
+            "grandchild"
+        ],
+        "t\u0283asku\u028ba": [
+            "n.",
+            "the king crow"
+        ],
+        "t\u0283el": [
+            "n.",
+            "parental home of a married woman"
+        ],
+        "t\u0283elma": [
+            "vt-4 [1: cel- 2: cell- 3: cel-]",
+            "split in two (in particular firewood)"
+        ],
+        "t\u0283emt\u0283emmas": [
+            "n.",
+            "sole of the foot, planta pedis."
+        ],
+        "t\u0283emma": [
+            "vi-1 [1: cem-]",
+            "rot away, waste away"
+        ],
+        "t\u0283e:ma": [
+            "vt-4 [1: cen- 2: cenn- 3: cei-]",
+            "cut meat"
+        ],
+        "t\u0283eralamp\u0254\u028ba": [
+            "n.",
+            "the tree Maesa chisia Buch.-Ham. ex. D.Don"
+        ],
+        "t\u0283\u01ddi\u01ddmma": [
+            "n.",
+            "fly"
+        ],
+        "t\u0283\u01ddima": [
+            "vt-4 [1: c\u01ddi- 2: c\u01ddiy- 3: c\u01ddi-]",
+            "tease, deride, harass"
+        ],
+        "t\u0283\u01ddmma": [
+            "vt-2 [1: c\u01ddps- 2: c\u01ddm-]",
+            "put into disorder"
+        ],
+        "t\u0283ha": [
+            "diminutive suffix",
+            " "
+        ],
+        "t\u0283hab\u0254": [
+            "n.",
+            "honeycomb"
+        ],
+        "t\u0283hat\u0283ha": [
+            "n.",
+            "children (collectively)."
+        ],
+        "t\u0283haima": [
+            "vt-4 [1: chan- 2: chann- 3: chai-]",
+            "pile, heap up"
+        ],
+        "t\u0283ham": [
+            "n.",
+            "song"
+        ],
+        "t\u0283hama": [
+            "vi-3 [1: chas- 2: cha-]",
+            "blaze (of fire)"
+        ],
+        "t\u0283hamei": [
+            "n.",
+            "needle"
+        ],
+        "t\u0283hameit\u0283h\u0254\u028ba": [
+            "n.",
+            "kind of bird."
+        ],
+        "t\u0283hamma": [
+            "vt-4 [1: chap- 2: chapp- 3: cham-]",
+            "write"
+        ],
+        "t\u0283haN": [
+            "n.",
+            "bangle, bracelet made of glass"
+        ],
+        "t\u0283haN\u028ba:sk\u0254": [
+            "n.",
+            "forearm, wrist"
+        ],
+        "t\u0283hap": [
+            "n.",
+            "sword (of the shaman)."
+        ],
+        "t\u0283hara": [
+            "n.",
+            "goat"
+        ],
+        "t\u0283harama": [
+            "n.",
+            "female goat"
+        ],
+        "t\u0283harui": [
+            "adj.",
+            "younger (in age)"
+        ],
+        "t\u0283ha\u028ba": [
+            "n.",
+            "frost"
+        ],
+        "t\u0283he": [
+            "n.",
+            "nice-smelling medicinal alpine herb"
+        ],
+        "t\u0283het\u0283herpa": [
+            "adj.",
+            "variegated"
+        ],
+        "t\u0283heima": [
+            "vt-5 [1: chet- 2: chett- 3: chei- 4: cen- 5: ce:-]",
+            "know (a fact, person, way), recognize"
+        ],
+        "t\u0283hel": [
+            "n.",
+            "parental home of a married woman"
+        ],
+        "t\u0283helamd\u032aelam": [
+            "n.",
+            "thoroughfare, way"
+        ],
+        "t\u0283helma": [
+            "n.",
+            "bamboo mat"
+        ],
+        "t\u0283hem": [
+            "n.",
+            "rib"
+        ],
+        "t\u0283hema": [
+            "vi-3 [1: ches- 2: che-]",
+            "piss"
+        ],
+        "t\u0283hemlu\u028ba": [
+            "n.",
+            "piss"
+        ],
+        "t\u0283hemma": [
+            "vt-4 [1: chem- 2: chemm- 3: chem-]",
+            "persuade"
+        ],
+        "t\u0283hem\u0254\u028ba": [
+            "adj.fem.",
+            "smart, clever, shrewd"
+        ],
+        "t\u0283heNt\u0283heNj\u0254": [
+            "adj.",
+            "light (not dark)"
+        ],
+        "t\u0283he:ma": [
+            "vt-2 [1: chek- 2: che:-]",
+            "pinch"
+        ],
+        "t\u0283hep\u0254\u028ba": [
+            "adj.masc.",
+            "smart, clever, shrewd"
+        ],
+        "t\u0283hepuri": [
+            "n.",
+            "vertebra"
+        ],
+        "t\u0283h\u01ddi": [
+            "n.",
+            "vagina"
+        ],
+        "t\u0283h\u01ddimui": [
+            "n.",
+            "woman's pubic hair."
+        ],
+        "t\u0283h\u01dd\u028ba": [
+            "n.",
+            "sugar cane"
+        ],
+        "t\u0283hi": [
+            "n.",
+            "marrow"
+        ],
+        "t\u0283hid\u032a\u0254\u028ba": [
+            "n.",
+            "bamboo wicker basket suspended over the fireplace; Eastern Nep."
+        ],
+        "t\u0283hikt\u0283hilikpa": [
+            "adj.",
+            "cold, cool"
+        ],
+        "t\u0283hima": [
+            "vt-4 [1: chis- 2: chiss- 3: chi-]",
+            "sweep (with a broom or piece of wood), wipe off, blow one's nose"
+        ],
+        "t\u0283himma": [
+            "vt-4 [1: chip- 2: chipp- 3: chim-]",
+            "bump into, meet"
+        ],
+        "t\u0283him\u0254": [
+            "adv.",
+            "year after next"
+        ],
+        "t\u0283hind\u032ai": [
+            "adv.",
+            "day after tomorrow"
+        ],
+        "t\u0283hi:ma": [
+            "vi-3 [1: chik- 2: chi:-]",
+            "be cold (of temperature), e.g. in the house."
+        ],
+        "t\u0283hi:pa": [
+            "n.",
+            "bedbug, Cimex lectularius"
+        ],
+        "t\u0283hir\u028ba": [
+            "n.",
+            "kind of bird."
+        ],
+        "t\u0283h\u0254": [
+            "n.",
+            "top (e.g of a tree), moutain peak, summit"
+        ],
+        "t\u0283h\u0254d\u032a\u0254\u028ba": [
+            "n.",
+            "grease"
+        ],
+        "t\u0283h\u0254d\u032a\u0254\u028baluN": [
+            "n.",
+            "white flint"
+        ],
+        "t\u0283h\u0254kt\u0283h\u0254:me": [
+            "n.",
+            "finger, toe"
+        ],
+        "t\u0283h\u0254ma": [
+            "vt-8 [1: c\u0254i- 2: c\u0254- 3: c\u01ddi- 4: c\u01dd- 5: cui- 6: cu- 7: ca- 8: c\u0254k-]",
+            "(with sewa 'hommage') bow down before, salute respectfully"
+        ],
+        "t\u0283h\u0254N": [
+            "n.",
+            "barley, Hordeum vulgare"
+        ],
+        "t\u0283h\u0254Nki": [
+            " ",
+            "alternative form of ch\u0254N"
+        ],
+        "t\u0283h\u0254Nma": [
+            "n.",
+            "1. mother's younger sister 2. wife of father's younger brother"
+        ],
+        "t\u0283h\u0254:ma": [
+            "vt-2 [1: ch\u0254ks- 2: ch\u0254:-]",
+            "1. deliver 2. pay 3. ka ch\u0254:ma call"
+        ],
+        "t\u0283h\u0254\u028ba": [
+            "n.",
+            "bird"
+        ],
+        "t\u0283hubui": [
+            "n.",
+            "ashes"
+        ],
+        "t\u0283huburi": [
+            "adv.",
+            "far, distant"
+        ],
+        "t\u0283hut\u0283hurpa": [
+            "adj.",
+            "narrow"
+        ],
+        "t\u0283huikaN": [
+            "n.",
+            "front teeth."
+        ],
+        "t\u0283huima": [
+            "vt-5 [1: chui- 2: chuiy- 3: chui- 4: chun- 5: chu:-]",
+            "tie (a knot); e.g. dog, bandage on a leg."
+        ],
+        "t\u0283huksipa": [
+            "adj.",
+            "poor"
+        ],
+        "t\u0283huli": [
+            "n.",
+            "anger"
+        ],
+        "t\u0283huma": [
+            "vi-3 [1: chu:- 2: chu-]",
+            "be, has to"
+        ],
+        "t\u0283humb\u0254": [
+            "n.",
+            "mortar"
+        ],
+        "t\u0283humma": [
+            "vt-2 [1: chups- 2: chum-]",
+            "gather, collect"
+        ],
+        "t\u0283humri": [
+            "n.",
+            "waist"
+        ],
+        "t\u0283hunt\u0283huina": [
+            "adv.",
+            "on one's haunches"
+        ],
+        "t\u0283hu:ma": [
+            "vi-3 [1: chuks- 2: chu:-]",
+            "cough"
+        ],
+        "t\u0283hupa": [
+            "n.",
+            "cooking-pot"
+        ],
+        "t\u0283hurme": [
+            "n.",
+            "parent-in-law (female or male speaking)"
+        ],
+        "t\u0283hurmelam": [
+            "n.",
+            "going to the house of the parents-in-law after a marriage."
+        ],
+        "t\u0283hu\u028bi": [
+            "n.",
+            "mouse, rat"
+        ],
+        "t\u0283i": [
+            "n.",
+            "poison"
+        ],
+        "t\u0283ibaipa": [
+            "adj.",
+            "short"
+        ],
+        "t\u0283it\u0283i:t\u0283ha": [
+            "adv.",
+            "very little"
+        ],
+        "t\u0283id\u032ais\u0254N": [
+            "n.",
+            "Indian sorrel, Oxalis corniculata L. The Indian sorrel has a"
+        ],
+        "t\u0283ikippa": [
+            "n.",
+            "human flea, Pulex irritans"
+        ],
+        "t\u0283iksi": [
+            "n.",
+            "kidney"
+        ],
+        "t\u0283ima": [
+            "vt-4 [1: ci:- 2: ci:y- 3: ci-]",
+            "make wet"
+        ],
+        "t\u0283imma": [
+            "vt-4 [1: cip- 2: cipp- 3: cim-]",
+            "press, squeeze"
+        ],
+        "t\u0283i:t\u0283ha": [
+            "adv.",
+            "little"
+        ],
+        "t\u0283i:ma": [
+            "vi-3 [1: ciN- 2: ci:-]",
+            "last long (e.g. clothes)"
+        ],
+        "t\u0283ir": [
+            "n.",
+            "a particular kind of bird."
+        ],
+        "t\u0283irepa": [
+            "adj.",
+            "short."
+        ],
+        "t\u0283irma": [
+            "vt-2 [1: cirs- 2: cir-]",
+            "drain, pour out"
+        ],
+        "t\u0283iskhil": [
+            "n.",
+            "intestines, entrails"
+        ],
+        "t\u0283it\u032at\u032a\u01dd": [
+            "interj.",
+            "I don't know"
+        ],
+        "t\u0283\u0254": [
+            "n.",
+            "fruit of a plant or tree."
+        ],
+        "t\u0283\u0254t\u0283\u0254ppa": [
+            "adj.",
+            "decorated"
+        ],
+        "t\u0283\u0254kh\u0254ma": [
+            "n.",
+            "stomach"
+        ],
+        "t\u0283\u0254l": [
+            "n.",
+            "peak"
+        ],
+        "t\u0283\u0254Ngil": [
+            "n.",
+            "soybean, Glycine hispida"
+        ],
+        "t\u0283\u0254:ma": [
+            "vt-2 [1: c\u0254ks- 2: c\u0254:-]",
+            "decorate"
+        ],
+        "t\u0283\u0254\u028ba": [
+            "n.",
+            "heart"
+        ],
+        "t\u0283u": [
+            "n.",
+            "female breast"
+        ],
+        "t\u0283ut\u0283u": [
+            "n.",
+            "nipple of breast"
+        ],
+        "t\u0283umma": [
+            "vt-2 [1: cups- 2: cum-]",
+            "load"
+        ],
+        "t\u0283uN": [
+            "n.",
+            "coldness"
+        ],
+        "t\u0283unam": [
+            "n.",
+            "cold season"
+        ],
+        "t\u0283uNnam": [
+            "n.",
+            "last part of the winter (January to March)."
+        ],
+        "t\u0283u:kh\u0254:m": [
+            "n.",
+            "rainbow"
+        ],
+        "t\u0283u:ma": [
+            "vi-3 [1: cuN- 2: cu:-]",
+            "be cold"
+        ],
+        "t\u0283upa": [
+            "n.",
+            "right hand"
+        ],
+        "t\u0283upkhas\u028ba": [
+            "adj.",
+            "thin"
+        ],
+        "t\u0283upla": [
+            "adv.",
+            "on the rightside"
+        ],
+        "t\u0283urma": [
+            "vt-1 [1: cur-]",
+            "shrink, wrinkle"
+        ],
+        "t\u0283usd\u032a\u0254": [
+            "n.",
+            "corner"
+        ],
+        "d\u032aaima": [
+            "vi-4 [1: dat- 2: dai- 3: dan-]",
+            "be seen"
+        ],
+        "d\u032aalui": [
+            "adv.",
+            "downhill"
+        ],
+        "d\u032aamai": [
+            "n.",
+            "tailor's caste"
+        ],
+        "d\u032aamma": [
+            "vi-3 [1: daps- 2: dam-]",
+            "knock down, tackle, wrestle, play around"
+        ],
+        "d\u032aamphe": [
+            "n.",
+            "altar in upper side of the house for household gods."
+        ],
+        "d\u032aamr\u0254": [
+            "n.",
+            "precipice, steep slope"
+        ],
+        "d\u032aa:l\u0254i": [
+            "pron.",
+            "when? (in the past)"
+        ],
+        "d\u032aa:nai": [
+            "pron.",
+            "how?, in what manner?"
+        ],
+        "d\u032aapa": [
+            "adj.",
+            "wide."
+        ],
+        "d\u032aapl\u0254": [
+            "n.",
+            "fire-place, hearth"
+        ],
+        "d\u032aapsi": [
+            "n.",
+            "bedstead"
+        ],
+        "d\u032aapsniN": [
+            "n.",
+            "magical name of a clan."
+        ],
+        "d\u032aaulu": [
+            "n.",
+            "chin"
+        ],
+        "d\u032aa\u028ba": [
+            "adj.",
+            "quick"
+        ],
+        "d\u032aebd\u032ae": [
+            "n.",
+            "1. paternal uncle, older than father 2. husband of mother's"
+        ],
+        "d\u032aed\u032aam": [
+            "n.",
+            "rite for the god nagi."
+        ],
+        "d\u032aeima": [
+            "vt-5 [1: det- 2: dett- 3: dei- 4: den- 5: de:-]",
+            "fell, cut down (with a khukuri or axe)"
+        ],
+        "d\u032aekma": [
+            "n.",
+            "large snake"
+        ],
+        "d\u032aelma": [
+            "vt-4 [1: del- 2: dell- 3: del-]",
+            "pull out, pull up"
+        ],
+        "d\u032aema": [
+            "vi-3 [1: dei- 2: de-]",
+            "be big"
+        ],
+        "d\u032aemd\u032ae": [
+            "n.",
+            "1. mother's elder sister 2. wife of father's elder brother"
+        ],
+        "d\u032aemma": [
+            "vt-4 [1: dep- 2: depp- 3: dem-]",
+            "cover, cover up"
+        ],
+        "d\u032aemm\u01ddma": [
+            "n.",
+            "grandmother's elder sister."
+        ],
+        "d\u032aepa": [
+            "adj.",
+            "big, fat"
+        ],
+        "d\u032aepi": [
+            "pron.",
+            "for how much?"
+        ],
+        "d\u032aepph\u01ddpa": [
+            "n.",
+            "grandfather's elder brother."
+        ],
+        "d\u032aepp\u0254i": [
+            "pron.",
+            "how many (with human classifier)"
+        ],
+        "d\u032aeri": [
+            "n.",
+            "some species of bamboo suitable for making coya\u0304"
+        ],
+        "d\u032aesa": [
+            "adv.",
+            "tomorrow"
+        ],
+        "d\u032aet\u032at\u0283ha": [
+            "n.",
+            "morning"
+        ],
+        "d\u032aet\u032a\u0254i": [
+            "pron.",
+            "how many?"
+        ],
+        "d\u032aeu": [
+            "n.",
+            "place"
+        ],
+        "d\u032a\u01ddima": [
+            "vt-5 [1: d\u01ddi- 2: d\u01ddiy- 3: d\u01ddi- 4: d\u01ddn- 5: d\u01dd:-]",
+            "set fire to, light, kindle"
+        ],
+        "d\u032ai": [
+            "n.",
+            "millet beer, alcoholic drink (generical term)"
+        ],
+        "d\u032ai m\u01ddma": [
+            "vt-6 [1: di mui- 2: di mu- 3: di m\u01ddi- 4: di m\u01dd-]",
+            "spread, spread out"
+        ],
+        "d\u032aibu\u028ba": [
+            "n.",
+            "hunting"
+        ],
+        "d\u032ait\u0283ard\u032ai": [
+            "n.",
+            "beer stand."
+        ],
+        "d\u032ait\u0283her\u028ba": [
+            "adj.",
+            "drunk"
+        ],
+        "d\u032aid\u032aikham": [
+            "n.",
+            "firefly"
+        ],
+        "d\u032ailma": [
+            "vt-4 [1: dil- 2: dill- 3: dil-]",
+            "roll, wrape up"
+        ],
+        "d\u032aim": [
+            "n.",
+            "time (always preceded by a numeral); e.g u-dim, nis-dim one"
+        ],
+        "d\u032aima": [
+            "vt-4 [1: di:- 2: di:y- 3: di-]",
+            "patch up, mend, repair"
+        ],
+        "d\u032aind\u032airi": [
+            "n.",
+            "heel"
+        ],
+        "d\u032ai:ma": [
+            "vt-4 [1: diN- 2: diNN- 3: di:-]",
+            "stop"
+        ],
+        "d\u032airi": [
+            "n.",
+            "bamboo band for tying."
+        ],
+        "d\u032airiN\u028ba": [
+            "n.",
+            "gecko"
+        ],
+        "d\u032airit\u032at\u032ai": [
+            "n.",
+            "swamp"
+        ],
+        "d\u032a\u0254": [
+            "n.",
+            "nut, seed, kernel"
+        ],
+        "d\u032a\u0254t\u0283er": [
+            "n.",
+            "wheat, Triticum sativum"
+        ],
+        "d\u032a\u0254kkhu": [
+            "n.",
+            "cloth made of wild hemp"
+        ],
+        "d\u032a\u0254kt\u032ahum": [
+            "adv.",
+            "in three days"
+        ],
+        "d\u032a\u0254ma": [
+            "vt-8 [1: d\u0254i- 2: d\u0254- 3: d\u01ddi- 4: d\u01dd- 5: dui- 6: du- 7: da- 8: d\u0254k-]",
+            "dig"
+        ],
+        "d\u032a\u0254m\u0254": [
+            "adv.",
+            "in three year's time"
+        ],
+        "d\u032a\u0254N": [
+            "n.",
+            "year (always preceded by a numeral)"
+        ],
+        "d\u032a\u0254Ng\u01ddm": [
+            "n.",
+            "jew's harp"
+        ],
+        "d\u032a\u0254: b\u01ddma": [
+            "vt-6 [1: bui- 2: bu- 3: b\u01ddi- 4: b\u01dd-]",
+            "to weave at a loom"
+        ],
+        "d\u032a\u0254: msarad\u032aam": [
+            "n.",
+            "loom"
+        ],
+        "d\u032a\u0254:berp\u0254\u028ba": [
+            "n.",
+            "the Nepalese red rhododendron tree Rhododendron barbatum"
+        ],
+        "d\u032a\u0254:ma": [
+            "vt-4 [1: d\u0254N- 2: d\u0254NN- 3: d\u0254:-]",
+            "freeze, coagulate"
+        ],
+        "d\u032a\u0254:ri": [
+            "n.",
+            "foot of a tree"
+        ],
+        "d\u032a\u0254s": [
+            "n.",
+            "back"
+        ],
+        "d\u032a\u0254ska": [
+            "adv.",
+            "later"
+        ],
+        "d\u032a\u0254spi": [
+            "adv.",
+            "later"
+        ],
+        "d\u032a\u0254u": [
+            "n.",
+            "half"
+        ],
+        "d\u032a\u0254\u028ba": [
+            "n.",
+            "kind of ghost (Nep. bhu\u0304t) that eats the sun or moon and causes"
+        ],
+        "d\u032a\u0254\u028be": [
+            "n.",
+            "back of the head (Lat. occiput)."
+        ],
+        "d\u032auk\u028ba": [
+            "n.",
+            "sorrow, misery"
+        ],
+        "d\u032auma": [
+            "vi-3 [1: du:- 2: du-]",
+            "cook"
+        ],
+        "d\u032aumd\u032au": [
+            "n.",
+            "small moutain bamboo Arundinaria intermedia, Nep. ka\u0304lo niga\u0304lo."
+        ],
+        "d\u032aumluN": [
+            "n.",
+            "pounding stone."
+        ],
+        "d\u032aumma": [
+            "vt-4 [1: dup- 2: dupp- 3: dum-]",
+            "1. pound, crush, knock, forge, blow (on a horn or flute) 2. lam"
+        ],
+        "d\u032aum\u0254": [
+            "adv.",
+            "too much, very"
+        ],
+        "d\u032au:ma": [
+            "vt-4 [1: duN- 2: duNN- 3: du:-]",
+            "drink"
+        ],
+        "d\u032auppa": [
+            "n.",
+            "landslide"
+        ],
+        "d\u032aurma": [
+            "vi-1 [1: dur-]",
+            "be able"
+        ],
+        "e": [
+            "interj.",
+            "yes (as a response to a question with one of the question"
+        ],
+        "eima": [
+            "vt-5 [1: et- 2: ett- 3: ei- 4: en- 5: e:-]",
+            "leave over (food)."
+        ],
+        "eksa": [
+            "adv.",
+            "hither (horizontal level; towards speaker)"
+        ],
+        "ekt\u032a\u0254": [
+            "adv.",
+            "towards up here"
+        ],
+        "elma": [
+            "vi-1 [1: el-]",
+            "flow (of a river)"
+        ],
+        "ema": [
+            "vi-3 [1: es- 2: e-]",
+            "shit"
+        ],
+        "emma": [
+            "vt-2 [1: eps- 2: em-]",
+            "aim, aim at"
+        ],
+        "e:ma": [
+            "vt-2 [1: ek- 2: e:-]",
+            "beat, tear"
+        ],
+        "ese": [
+            "adv.",
+            "today"
+        ],
+        "esk\u0254": [
+            "n.",
+            "anus."
+        ],
+        "espa": [
+            "adv.",
+            "yesterday"
+        ],
+        "\u01ddh\u0254mpi": [
+            "adv.",
+            "about"
+        ],
+        "\u01ddima": [
+            "vt-5 [1: \u01ddt- 2: \u01ddtt- 3: \u01ddi- 4: \u01ddn- 5: \u01dd:-]",
+            "break"
+        ],
+        "\u01ddlma": [
+            "vt-4 [1: \u01ddl- 2: \u01ddll- 3: \u01ddl-]",
+            "rescue, set free"
+        ],
+        "\u01ddma": [
+            "vi-3 [1: \u01dds- 2: \u01dd-]",
+            "break through of first light of the day, k\u0254 \u01dds-a eIt has become"
+        ],
+        "\u01ddnpa": [
+            "adv.",
+            "here, in here (further, but at same level)."
+        ],
+        "\u01ddnpi": [
+            "adv.",
+            "here, in here."
+        ],
+        "\u01ddnpu": [
+            "adv.",
+            "here, in here (down)."
+        ],
+        "\u01ddnt\u032a\u0254": [
+            "adv.",
+            "here, in here (up)."
+        ],
+        "gagappa": [
+            "n.",
+            "crow"
+        ],
+        "gal": [
+            "n.",
+            "centipede"
+        ],
+        "galma": [
+            "vt-4 [1: gal- 2: gall- 3: gal-]",
+            "rub, fuck (vulg.)"
+        ],
+        "gam": [
+            "n.",
+            "body"
+        ],
+        "gampika t\u032aama": [
+            "vi-7 [1: t\u0254i- 2: t\u0254- 3: tai- 4: ta-]",
+            "menstruate"
+        ],
+        "ga:nam": [
+            "n.",
+            "stinging nettle, Girardinia heterophylla"
+        ],
+        "ga:nd\u032airi": [
+            "n.",
+            "throat."
+        ],
+        "garigari": [
+            "adv.",
+            "fast, quickly."
+        ],
+        "ga\u028ba": [
+            "n.",
+            "crab"
+        ],
+        "gel\u0254b\u0254m": [
+            "n.",
+            "coals from the fireplace"
+        ],
+        "gem": [
+            "n.",
+            "branch of a tree"
+        ],
+        "gema": [
+            "vi-3 [1: ges- 2: ge-]",
+            "laugh"
+        ],
+        "ge:b\u0254": [
+            "adv.",
+            "almost"
+        ],
+        "ge:pa": [
+            "adj.",
+            "sharp"
+        ],
+        "geri": [
+            "n.",
+            "hip"
+        ],
+        "geskuma": [
+            "n.",
+            "female orphan"
+        ],
+        "geskupa": [
+            "n.",
+            "male orphan"
+        ],
+        "ge\u028ba": [
+            "n.",
+            "mongoose"
+        ],
+        "g\u01ddlma": [
+            "vt-4 [1: g\u01ddl- 2: g\u01ddll- 3: g\u01ddl-]",
+            "remove grains of maize from the cob."
+        ],
+        "g\u01ddma": [
+            "vt-2 [1: g\u01dds- 2: g\u01dd-]",
+            "damage, destroy"
+        ],
+        "g\u01ddmg\u01ddmpa": [
+            "adj.",
+            "weak, feeble"
+        ],
+        "gi": [
+            "n.",
+            "parrot"
+        ],
+        "gigippa": [
+            "adj.",
+            "blue, green, young (of firewood), unripe, uncooked"
+        ],
+        "gilu": [
+            "n.",
+            "Himalayan elk"
+        ],
+        "gimd\u0292u": [
+            "n.",
+            "shade"
+        ],
+        "git\u032a": [
+            "n.",
+            "August/September"
+        ],
+        "g\u0254N": [
+            "n.",
+            "subdivision of a clan."
+        ],
+        "g\u0254:": [
+            "n.",
+            "inside"
+        ],
+        "g\u0254:d\u032ai": [
+            "n.",
+            "hole, opening"
+        ],
+        "g\u0254:g\u0254": [
+            "n.",
+            "lap"
+        ],
+        "g\u0254:ma": [
+            "vt-2 [1: g\u0254ks- 2: g\u0254:-]",
+            "dry at the fire"
+        ],
+        "g\u0254pesum": [
+            "n.",
+            "moss"
+        ],
+        "g\u0254psum": [
+            "n.",
+            "(archaic) trousers, made of nettle (khi)."
+        ],
+        "g\u0254skela": [
+            "n.",
+            "kind of lizard of brown-green colour"
+        ],
+        "g\u0254s\u028ba": [
+            "n.",
+            "hollow of the knee, fossa poplitea."
+        ],
+        "gut\u0283ulum": [
+            "n.",
+            "wet stone"
+        ],
+        "gugurpa": [
+            "adj.",
+            "black"
+        ],
+        "guima": [
+            "vt-5 [1: gut- 2: gutt- 3: gui- 4: gun- 5: gu:-]",
+            "collect, gather together"
+        ],
+        "guma": [
+            "vt-4 [1: gus- 2: guss- 3: gu-]",
+            "store up (grain, etc.)"
+        ],
+        "gumma": [
+            "vt-4 [1: gup- 2: gupp- 3: gum-]",
+            "reproach"
+        ],
+        "gumpa": [
+            "adj.",
+            "deep"
+        ],
+        "guN": [
+            "n.",
+            "rainshield"
+        ],
+        "gunum\u0254ksi": [
+            "adv.",
+            "muttering, humming"
+        ],
+        "gurma": [
+            "vi-1 [1: gur-]",
+            "be black"
+        ],
+        "hat\u0283hi l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            "sneeze."
+        ],
+        "hat\u0283hi mima": [
+            "vi-3 [1: mi:- 2: mi-]",
+            "sneeze."
+        ],
+        "haimt\u0283ima": [
+            "vr [1: ha- 2: hat-]",
+            "part (company), break up."
+        ],
+        "hakamma": [
+            "n.",
+            "yawn"
+        ],
+        "hakamma l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            " "
+        ],
+        "hakippa": [
+            "adv.",
+            "later"
+        ],
+        "halala:pa": [
+            "adj.",
+            "red, pink, orange, purple"
+        ],
+        "halbu": [
+            "n.",
+            "red sky"
+        ],
+        "halkja": [
+            "adj.",
+            "red, pink, orange, purple"
+        ],
+        "halla": [
+            "adv.",
+            "alone (preceded by a possessive pronominal prefix)"
+        ],
+        "hal\u0254ri": [
+            "n.",
+            "yoke"
+        ],
+        "hals": [
+            "n.",
+            "March/April"
+        ],
+        "hama": [
+            "vt-2 [1: has- 2: ha-]",
+            "distribute"
+        ],
+        "hamma": [
+            "vt-2 [1: haps- 2: ham-]",
+            "spread over, e.g. faeces over a field"
+        ],
+        "haN": [
+            "n.",
+            "king"
+        ],
+        "ha:d\u032aem": [
+            "pron.",
+            "when?, at what time?"
+        ],
+        "ha:d\u032ae:i": [
+            "pron.",
+            "when"
+        ],
+        "ha:k\u01dd lamlai": [
+            "pron.",
+            "which way?"
+        ],
+        "ha:pi": [
+            "pron.",
+            "where?"
+        ],
+        "ha:r\u0254i": [
+            "pron.",
+            "whereto?"
+        ],
+        "hargem": [
+            "n.",
+            "cymbals"
+        ],
+        "harma": [
+            "vi-1 [1: har-]",
+            "be dry (grains, leaves, grass, etc.)."
+        ],
+        "harpa": [
+            "adj.",
+            "dried"
+        ],
+        "hajam": [
+            "adv.",
+            "very"
+        ],
+        "heb\u0254\u028ba": [
+            "n.",
+            "lumbar region of the back"
+        ],
+        "helma": [
+            "n.",
+            "mother of son-in-law"
+        ],
+        "helpa": [
+            "n.",
+            "father of son-in-law"
+        ],
+        "hemma": [
+            "vt-4 [1: hep- 2: hepp- 3: hem-]",
+            "embrace, hug"
+        ],
+        "hend\u032aahend\u032aa": [
+            "adj.",
+            "curious."
+        ],
+        "he:ma": [
+            "vt-2 [1: hek- 2: he:-]",
+            "cut, harvest, pick up"
+        ],
+        "hep": [
+            "adj.",
+            "some"
+        ],
+        "hepl\u0254": [
+            "adv.",
+            "sometimes"
+        ],
+        "heppa": [
+            "adj.",
+            "some people"
+        ],
+        "h\u01ddlma": [
+            "vt-4 [1: h\u01ddl- 2: h\u01ddll- 3: h\u01ddl-]",
+            "open"
+        ],
+        "h\u01ddmma": [
+            "vt-4 [1: h\u01ddp- 2: h\u01ddpp- 3: h\u01ddm-]",
+            "sip, lap up, slurp."
+        ],
+        "h\u01ddnna": [
+            "adv.",
+            "now, at this moment"
+        ],
+        "h\u01ddrd\u032ai": [
+            "n.",
+            "curcuma, Curcuma longa"
+        ],
+        "h\u01ddrma": [
+            "vt-2 [1: h\u01ddrs- 2: h\u01ddr-]",
+            "split in two (e.g. split bamboo when making a chelm), peel off."
+        ],
+        "hi": [
+            "n.",
+            "blood"
+        ],
+        "hibunam": [
+            "n.",
+            "the shaman's magic wand, made of the bamboo species baphu (q.v.)"
+        ],
+        "hik": [
+            "n.",
+            "wind"
+        ],
+        "hik kelma": [
+            "vi-1 [1: kel-]",
+            "be windy"
+        ],
+        "hilma": [
+            "vt-4 [1: hil- 2: hill- 3: hil-]",
+            "level, make level"
+        ],
+        "hil\u028bapa": [
+            "adj.",
+            "soggy (rice)"
+        ],
+        "hima": [
+            "vt-4 [1: his- 2: hiss- 3: hi-]",
+            "scrape, scratch"
+        ],
+        "himma": [
+            "vt-4 [1: hip- 2: hipp- 3: him-]",
+            "cut (with a sickle; horizontally)"
+        ],
+        "hi:ma": [
+            "vt-4 [1: hiN- 2: hiNN- 3: hi:-]",
+            "raise, bring up (livestock, children), care for"
+        ],
+        "hirk\u0254": [
+            "adv.",
+            "away."
+        ],
+        "h\u0254b\u0254": [
+            "n.",
+            "the folding together of two palms"
+        ],
+        "h\u0254d\u032au": [
+            "n.",
+            "waking consciousness."
+        ],
+        "h\u0254g\u0254: se:pa": [
+            "adv.",
+            "tonight"
+        ],
+        "h\u0254g\u0254:\u028ba": [
+            "adv.",
+            "later, later in the day"
+        ],
+        "h\u0254kuh\u0254ku": [
+            "adj.",
+            "lukewarm."
+        ],
+        "h\u0254lnam": [
+            "n.",
+            "first part of the summer (mid May till mid July), also called"
+        ],
+        "h\u0254:ma": [
+            "vt-2 [1: h\u0254ks- 2: h\u0254:-]",
+            "throw, throw away"
+        ],
+        "h\u0254:p": [
+            "reflexive pronoun",
+            "own, self; preceded by the possessive pronominal prefixes. -"
+        ],
+        "h\u0254pt\u0283h\u0254": [
+            "n.",
+            "verandah inside the courtyard"
+        ],
+        "h\u0254pt\u032a\u0254": [
+            "adj.",
+            "empty"
+        ],
+        "h\u0254s\u0254": [
+            "adv.",
+            "yet"
+        ],
+        "h\u0254u": [
+            "n.",
+            "bark of a tree, peelings (of a potato), foreskin (of a penis)"
+        ],
+        "hu": [
+            "n.",
+            "arm"
+        ],
+        "hud\u032aimma": [
+            "n.",
+            "hiccup"
+        ],
+        "huhu": [
+            "n.",
+            "brown fish owl."
+        ],
+        "huima": [
+            "vt-5 [1: hui- 2: huiy- 3: hui- 4: hun- 5: hu:-]",
+            "burn, roast"
+        ],
+        "hukphama": [
+            "n.",
+            "palm"
+        ],
+        "huk\u028ba": [
+            "n.",
+            "storm"
+        ],
+        "humma": [
+            "vt-2 [1: hups- 2: hum-]",
+            "cause to fall from a height, cause to fall down"
+        ],
+        "hu:ma": [
+            "vt-4 [1: huN- 2: huNN- 3: hu:-]",
+            "wait, await"
+        ],
+        "huri\u028ba": [
+            "adj.",
+            "weak, without strength"
+        ],
+        "hurma": [
+            "vt-2 [1: hurs- 2: hur-]",
+            "wash hair of the head"
+        ],
+        "hurum\u0254ksi": [
+            "adv.",
+            "with soaring voice"
+        ],
+        "hu\u028ba": [
+            "n.",
+            "sweat"
+        ],
+        "hu\u028ba mima": [
+            "vi-3 [1: mi:- 2: mi-]",
+            "sweat."
+        ],
+        "ikhi": [
+            "adv.",
+            "here"
+        ],
+        "ikka": [
+            "adv.",
+            "herefrom."
+        ],
+        "ima": [
+            "vi-3 [1: is- 2: i-]",
+            "be bad"
+        ],
+        "imma": [
+            "vt-4 [1: ip- 2: ipp- 3: im-]",
+            "put to bed, put to sleep"
+        ],
+        "imsk\u0254": [
+            "n.",
+            "bed, place to sleep"
+        ],
+        "int\u0283ima": [
+            "vr [1: i- 2: it-]",
+            "learn"
+        ],
+        "ini": [
+            "adv.",
+            "this year"
+        ],
+        "inimba": [
+            "adv.",
+            "nowadays"
+        ],
+        "i:bum": [
+            "num.",
+            "one."
+        ],
+        "i:bumNa": [
+            "adv.",
+            "same."
+        ],
+        "d\u0292a": [
+            "n.",
+            "cooked rice, food (in general)"
+        ],
+        "d\u0292akhil\u028ba": [
+            "n.",
+            "whitewash; used in dying the fiber of khi (q.v.)."
+        ],
+        "d\u0292at\u032a\u01ddlma": [
+            "n.",
+            "adam's apple."
+        ],
+        "d\u0292ed\u0292e": [
+            "n.",
+            "smile"
+        ],
+        "d\u0292emma": [
+            "vt-4 [1: jep- 2: jepp- 3: jem-]",
+            "forge"
+        ],
+        "d\u0292er": [
+            "n.",
+            "disgust, revulsion."
+        ],
+        "d\u0292er l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            "disgust"
+        ],
+        "d\u0292erma": [
+            "vt-1 [1: jer-]",
+            "disgust, hate"
+        ],
+        "d\u0292\u01ddk\u01dd": [
+            "adv.",
+            "whatsoever"
+        ],
+        "d\u0292i": [
+            "n.",
+            "happiness"
+        ],
+        "d\u0292i n\u01ddma": [
+            "vi-7 [1: n\u0254i- 2: n\u0254- 3: n\u01ddi- 4: n\u01dd-]",
+            "be happy"
+        ],
+        "d\u0292it\u0283am": [
+            "n.",
+            "beer mash"
+        ],
+        "d\u0292id\u0292is": [
+            "n.",
+            "a very little."
+        ],
+        "d\u0292imma": [
+            "vi-1 [1: jim-]",
+            "be enough (of sleep)"
+        ],
+        "d\u0292irnamput\u0283h\u0254": [
+            "n.",
+            "caterpillar"
+        ],
+        "d\u0292is": [
+            "n.",
+            "a little."
+        ],
+        "d\u0292isna": [
+            "adv.",
+            "in a minute"
+        ],
+        "d\u0292\u0254:ma": [
+            "vt-4 [1: j\u0254N- 2: j\u0254NN- 3: j\u0254:-]",
+            "plough"
+        ],
+        "d\u0292\u0254\u028ba": [
+            "n.",
+            "peacock"
+        ],
+        "d\u0292uima": [
+            "vt-5 [1: jui- 2: juiy- 3: jui- 4: jun- 5: ju:-]",
+            "warm oneself at the fire"
+        ],
+        "d\u0292ud\u0292urpa": [
+            "adj.",
+            "sour"
+        ],
+        "d\u0292ud\u0292urj\u0254": [
+            "adj.",
+            "very sour"
+        ],
+        "d\u0292ula": [
+            "n.",
+            "fibre for making fire with a flint"
+        ],
+        "d\u0292u:ma": [
+            "vi-3 [1: juk- 2: ju:-]",
+            "jump (on), flee"
+        ],
+        "d\u0292urma": [
+            "vi-1 [1: jur-]",
+            "be sour"
+        ],
+        "kai": [
+            "n.",
+            "calf of the leg"
+        ],
+        "kaima": [
+            "vt-5 [1: kat- 2: katt- 3: kai- 4: kan- 5: ka:-]",
+            "spill, pour out"
+        ],
+        "kalakst\u032a\u0254m": [
+            "n.",
+            "cliff, precipice, steep slope"
+        ],
+        "kama": [
+            "vi-7 [1: k\u0254i- 2: k\u0254- 3: kai- 4: ka-]",
+            "make noise, shout, squeal (pig, goat), sing (of a bird), rumble"
+        ],
+        "kamma": [
+            "vt-2 [1: kaps- 2: kam-]",
+            "fit, meet, join (vertically)"
+        ],
+        "kaN": [
+            "n.",
+            "tooth"
+        ],
+        "ka:ma": [
+            "vt-2 [1: kaks- 2: ka:-]",
+            "hang, hang on, suspend"
+        ],
+        "kas": [
+            "pron.",
+            "we"
+        ],
+        "kaska": [
+            "pron.",
+            "we"
+        ],
+        "kauput\u0283h\u0254": [
+            "n.",
+            "dragonfly"
+        ],
+        "ka\u028ba": [
+            "n.",
+            "water"
+        ],
+        "ket\u0283he": [
+            "adv.",
+            "once, some time ago, long ago"
+        ],
+        "kei": [
+            "pron.",
+            "we pl."
+        ],
+        "keika": [
+            "pron.",
+            "we p.e."
+        ],
+        "kemma": [
+            "vt-4 [1: kep- 2: kepp- 3: kem-]",
+            "fasten, stick, join"
+        ],
+        "ke:ma": [
+            "vi-3 [1: keN- 2: ke:-]",
+            "become cold, cool"
+        ],
+        "kerma": [
+            "vt-1 [1: ker-]",
+            "hit, beat, thresh"
+        ],
+        "keska": [
+            "adv.",
+            "day before yesterday"
+        ],
+        "k\u01ddl": [
+            "n.",
+            "tusk (of elephant), fang (of snake, pig, tiger)"
+        ],
+        "k\u01ddlma": [
+            "vt-4 [1: k\u01ddl- 2: k\u01ddll- 3: k\u01ddl-]",
+            "chase, pursue, drive off (cattle, people), push, follow, take a"
+        ],
+        "k\u01ddmma": [
+            "vt-4 [1: k\u01ddp- 2: k\u01ddpp- 3: k\u01ddm-]",
+            "pick up"
+        ],
+        "kha": [
+            "n.",
+            "irrigated field"
+        ],
+        "khat\u0283alu": [
+            "n.",
+            "elbow"
+        ],
+        "khai": [
+            "n.",
+            "cooked vegetables, Nep. tihun."
+        ],
+        "khaima": [
+            "vt-5 [1: khai- 2: khaiy- 3: khai- 4: khan- 5: kha:-]",
+            "take, take away"
+        ],
+        "khakma": [
+            "n.",
+            "phlegm"
+        ],
+        "khal": [
+            "num.",
+            "score, e.g. ik-khal twenty."
+        ],
+        "khalamba": [
+            "n.",
+            "cold, cough"
+        ],
+        "khalem": [
+            "n.",
+            "black ant"
+        ],
+        "kham": [
+            "n.",
+            "draught (always preceded by a numeral) e.g. ik-kham 'one draught'."
+        ],
+        "khama": [
+            "vi-3 [1: khas- 2: kha-]",
+            "be satisfied (of food), \u0254:-b\u0254 khas-a 'I am satisfied'."
+        ],
+        "khama\u028ba": [
+            "n.",
+            "juice of fermented rice"
+        ],
+        "khamma": [
+            "vt-4 [1: kham- 2: khamm- 3: kham-]",
+            "chew"
+        ],
+        "khamp\u0254\u028ba": [
+            "n.",
+            "the peach-tree Prunus persica"
+        ],
+        "khamsi": [
+            "n.",
+            "peach"
+        ],
+        "khand\u032airi": [
+            "n.",
+            "September/October"
+        ],
+        "khaNkhaNpa": [
+            "adj.",
+            "slanting"
+        ],
+        "khard\u032a\u0254": [
+            "n.",
+            "Kulung name of ward no. 5 in Chemsi\u0304\u014b."
+        ],
+        "kharma": [
+            "vt-1 [1: khar-]",
+            "tie"
+        ],
+        "kharp\u0254\u028ba": [
+            "n.",
+            "the walnut-tree Juglans regia"
+        ],
+        "kharsi": [
+            "n.",
+            "1. walnut 2. ankle"
+        ],
+        "khas": [
+            "n.",
+            "porcupine"
+        ],
+        "khe": [
+            "n.",
+            "yam, potato (archaic)"
+        ],
+        "kheba": [
+            "n.",
+            "dog"
+        ],
+        "kheima": [
+            "vt-5 [1: khet- 2: khett- 3: khei- 4: khen- 5: khe:-]",
+            "buy"
+        ],
+        "khel\u028ba": [
+            "n.",
+            "kind of bird."
+        ],
+        "khema": [
+            "vi-3 [1: khei- 2: khe-]",
+            "quarrel, fight"
+        ],
+        "khemma": [
+            "vt-4 [1: khep- 2: khepp- 3: khem-]",
+            "cut, cut through (e.g. potato), shred"
+        ],
+        "khem\u0254": [
+            "adv.",
+            "in four years' time"
+        ],
+        "khemu": [
+            "n.",
+            "loosely woven rectangular bamboo basket for sifting grains or"
+        ],
+        "khena": [
+            "interj.",
+            "well"
+        ],
+        "kheplem": [
+            "n.",
+            "money (archaic)."
+        ],
+        "khepme": [
+            "n.",
+            "bitch, female dog"
+        ],
+        "kher": [
+            "n.",
+            "wound"
+        ],
+        "khet\u032at\u032ahum": [
+            "adv.",
+            "in four days."
+        ],
+        "kh\u01dd": [
+            "dem.",
+            "he, that one (not present)"
+        ],
+        "kh\u01ddb\u01ddrma": [
+            "n.",
+            "burp"
+        ],
+        "kh\u01ddb\u01ddrma l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            "burp."
+        ],
+        "kh\u01ddld\u0292\u01ddma": [
+            "n.",
+            "goitre"
+        ],
+        "kh\u01ddlma": [
+            "vt-4 [1: kh\u01ddl- 2: kh\u01ddll- 3: k\u01ddl-]",
+            "move from one place to another"
+        ],
+        "kh\u01ddm": [
+            "n.",
+            "lid of a pot"
+        ],
+        "kh\u01ddma": [
+            "vt-2 [1: kh\u01dds- 2: kh\u01dd-]",
+            "collect, store up, heap up"
+        ],
+        "kh\u01ddmla": [
+            "n.",
+            "ravine"
+        ],
+        "kh\u01ddmma": [
+            "vt-4 [1: kh\u01ddp- 2: kh\u01ddpp- 3: kh\u01ddm-]",
+            "cover, put the lid on a pot"
+        ],
+        "kh\u01ddrsamd\u032a\u0254": [
+            "n.",
+            "Kulung name of ward no. 3 in Chemsi\u0304\u014b."
+        ],
+        "khi": [
+            "n.",
+            "Himalayan nettle, Girardinia diversifolia (Link) Friis, from"
+        ],
+        "khikhirpa": [
+            "adj.",
+            "round, cirular"
+        ],
+        "khikka": [
+            "adv.",
+            "then"
+        ],
+        "khikkana": [
+            "adv.",
+            "afterwards"
+        ],
+        "khikpa": [
+            "adj.",
+            "bitter"
+        ],
+        "khil": [
+            "n.",
+            "faeces, ash (of a cigarette)"
+        ],
+        "khim": [
+            "n.",
+            "house"
+        ],
+        "khima": [
+            "vt-4 [1: khi:- 2: khi:y- 3: khi-]",
+            "comb"
+        ],
+        "khimt\u0283hini": [
+            "n.",
+            "rightside (East) of the house."
+        ],
+        "khimd\u032a\u0254s": [
+            "n.",
+            "backside (South) of the house."
+        ],
+        "khimd\u032au\u028ba": [
+            "n.",
+            "leftside (West) of the house."
+        ],
+        "khimlais": [
+            "n.",
+            "frontside (North) of the house."
+        ],
+        "khimma": [
+            "vt-4 [1: khip- 2: khipp- 3: khim-]",
+            "tie a load"
+        ],
+        "khimt\u032ahem": [
+            "n.",
+            "roof, top of the house"
+        ],
+        "khiN": [
+            "n.",
+            "gall"
+        ],
+        "khi:ma": [
+            "vi-3 [1: khik- 2: khi:-]",
+            "be bitter"
+        ],
+        "khirim\u0254ksi": [
+            "adv.",
+            "in a circle"
+        ],
+        "khirma": [
+            "vt-1 [1: khir-]",
+            "make a circle"
+        ],
+        "khisi": [
+            "n.",
+            "deer"
+        ],
+        "khis\u0254p\u0254\u028ba": [
+            "n.",
+            "the pine-tree Pinus wallichiana"
+        ],
+        "khit\u032a\u0254": [
+            "conj.",
+            "or"
+        ],
+        "kh\u0254": [
+            "n.",
+            "boil"
+        ],
+        "kh\u0254burkh\u0254bur": [
+            "adj.",
+            "coarse, rough"
+        ],
+        "kh\u0254d\u032a\u0254": [
+            "adv.",
+            "in that manner"
+        ],
+        "kh\u0254d\u032a\u0254l\u0254": [
+            "adv.",
+            "at that time"
+        ],
+        "kh\u0254kh\u0254lpa": [
+            "adj.",
+            "bent"
+        ],
+        "kh\u0254ma": [
+            "vt-8 [1: kh\u0254i- 2: kh\u0254- 3: kh\u01ddi- 4: kh\u01dd- 5: khui- 6: khu- 7:",
+            "sting, bite, chew"
+        ],
+        "kh\u0254N": [
+            "n.",
+            "small brass bowl"
+        ],
+        "kh\u0254Nl\u0254": [
+            "n.",
+            "splinter of split bamboo."
+        ],
+        "kh\u0254nt\u032a\u0254d\u032ai": [
+            "adv.",
+            "that much."
+        ],
+        "kh\u0254:l\u0254": [
+            "adv.",
+            "all, every"
+        ],
+        "kh\u0254:l\u0254pi": [
+            "adv.",
+            "everywhere."
+        ],
+        "kh\u0254:ma": [
+            "vt-4 [1: kh\u0254N- 2: kh\u0254NN- 3: kh\u0254:-]",
+            "see"
+        ],
+        "kh\u0254:sk\u0254": [
+            "n.",
+            "viewfinder of a photocamera."
+        ],
+        "kh\u0254r\u0254:": [
+            "conj.",
+            "if"
+        ],
+        "kh\u0254r\u0254:d\u032a\u0254s\u0254N": [
+            "conj.",
+            "although, albeit"
+        ],
+        "kh\u0254r\u0254:na": [
+            "adv.",
+            "in that manner."
+        ],
+        "kh\u0254usi": [
+            "n.",
+            "cotton"
+        ],
+        "khud\u032a\u0254": [
+            "n.",
+            "honey"
+        ],
+        "khuigi": [
+            "n.",
+            "whistle."
+        ],
+        "khuigi m\u01ddma": [
+            "vt-6 [1: mui- 2: mu- 3: m\u01ddi- 4: m\u01dd-]",
+            "whistle"
+        ],
+        "khuima": [
+            "vt-5 [1: khui- 2: khuiy- 3: khui- 4: khun- 5: khu:-]",
+            "sharpen"
+        ],
+        "khul": [
+            "n.",
+            "bark of the Daphne spec., from which paper is made"
+        ],
+        "khulum": [
+            "n.",
+            "hole in the ground, pit"
+        ],
+        "khuma": [
+            "vt-4 [1: khus- 2: khuss- 3: khu-]",
+            "steal"
+        ],
+        "khumma": [
+            "vt-4 [1: khup- 2: khupp- 3: khum-]",
+            "cause to meet, join"
+        ],
+        "khund\u0292una": [
+            "adv.",
+            "on one's knees."
+        ],
+        "khuNk\u01dd": [
+            "dem.",
+            "he, that one"
+        ],
+        "khuNma": [
+            "n.",
+            "chief, king"
+        ],
+        "khun\u028ba": [
+            "n.",
+            "pus"
+        ],
+        "khu:ma": [
+            "vt-2 [1: khuks- 2: khu:-]",
+            "wear (on head or shoulder)"
+        ],
+        "khurma": [
+            "vt-1 [1: khur-]",
+            "carry on the back"
+        ],
+        "khururu\u028ba": [
+            "n.",
+            "circular hand-driven millstone (also with haplology: khuruwa)"
+        ],
+        "khusma": [
+            "n.",
+            "thief (female)"
+        ],
+        "khuspa": [
+            "n.",
+            "thief"
+        ],
+        "khu\u028b\u0254lu": [
+            "n.",
+            "ocean"
+        ],
+        "kiksi": [
+            "n.",
+            "kind of small fish."
+        ],
+        "kilma": [
+            "vt-4 [1: kil- 2: kill- 3: kil-]",
+            "plaster, smear with sim\u0323dur"
+        ],
+        "kima": [
+            "vi-3 [1: kis- 2: ki-]",
+            "frighten"
+        ],
+        "kimma": [
+            "vt-4 [1: kip- 2: kipp- 3: kim-]",
+            "cut off (e.g. with a pair of scissors)"
+        ],
+        "kiNkiNpa": [
+            "adj.",
+            "aright, right side up"
+        ],
+        "ki:ma": [
+            "vt-2 [1: kin- 2: ki:-]",
+            "stretch"
+        ],
+        "kirippa": [
+            "n.",
+            "kind of black and brown insect with a yellow head."
+        ],
+        "k\u0254": [
+            "n.",
+            "light"
+        ],
+        "k\u0254kt\u0283humma": [
+            "n.",
+            "wooden tray for pounding of chilly."
+        ],
+        "k\u0254kt\u0283ilipa": [
+            "n.",
+            "kind of lizard with read head and white skin"
+        ],
+        "k\u0254kk\u0254r\u0254": [
+            "n.",
+            "partridge"
+        ],
+        "k\u0254kk\u0254si": [
+            "n.",
+            "threshold (of door)."
+        ],
+        "k\u0254k\u0254r\u0254Nma": [
+            "n.",
+            "snail."
+        ],
+        "k\u0254kpa": [
+            "n.",
+            "mother's brother"
+        ],
+        "k\u0254ma": [
+            "vt-8 [1: k\u0254i- 2: k\u0254- 3: k\u01ddi- 4: k\u01dd- 5: kui- 6: ku- 7: ka- 8: k\u0254k-]",
+            "cross a river."
+        ],
+        "k\u0254N": [
+            "pron.",
+            "I"
+        ],
+        "k\u0254Nkhed\u032aum": [
+            "n.",
+            "hammer."
+        ],
+        "k\u0254Nkhi": [
+            "n.",
+            "pestle"
+        ],
+        "k\u0254:m": [
+            "n.",
+            "kind of frog."
+        ],
+        "k\u0254:ma": [
+            "vi-3 [1: k\u0254ks- 2: k\u0254:-]",
+            "win, exceed, transgress"
+        ],
+        "k\u0254:N": [
+            "n.",
+            "step, pace"
+        ],
+        "k\u0254:j\u0254": [
+            "n.",
+            "restraint, obstruction"
+        ],
+        "k\u0254rma": [
+            "vt-1 [1: k\u0254r-]",
+            "hinder, stop (people)"
+        ],
+        "k\u0254r\u0254buN": [
+            "n.",
+            "blossom of corn."
+        ],
+        "kuima": [
+            "vt-5 [1: kui- 2: kuiy- 3: kui- 4: kun- 5: ku:-]",
+            "libate, plash or sprinkle with water"
+        ],
+        "kulut\u0283ha": [
+            "n.",
+            "a Kulung."
+        ],
+        "kulume": [
+            "n.",
+            "a Kulung woman."
+        ],
+        "kuluriN": [
+            "n.",
+            "the Kulung language."
+        ],
+        "kumma": [
+            "vt-2 [1: kups- 2: kum-]",
+            "bend"
+        ],
+        "kuN": [
+            "n.",
+            "rim of a knife"
+        ],
+        "kuppu": [
+            "n.",
+            "bred egg."
+        ],
+        "kurma": [
+            "vi-1 [1: kur-]",
+            "set (of the sun)"
+        ],
+        "kut\u032at\u0283\u01dd": [
+            "n.",
+            "digging instrument"
+        ],
+        "la": [
+            "n.",
+            "moon"
+        ],
+        "laima": [
+            "vt-5 [1: lat- 2: latt- 3: lai- 4: lan- 5: la:-]",
+            "take out of, fetch"
+        ],
+        "lais": [
+            "n.",
+            "front"
+        ],
+        "laispi": [
+            "adv.",
+            "first"
+        ],
+        "lam": [
+            "n.",
+            "road, path, hole"
+        ],
+        "lam d\u032aumma": [
+            "vi-1 [1: lam dum-]",
+            "walk"
+        ],
+        "lamma": [
+            "vt-4 [1: lap- 2: lapp- 3: lam-]",
+            "grab, hold, catch, seize, grasp, khalamba lamma catch a cold"
+        ],
+        "lamsk\u0254": [
+            "n.",
+            "door"
+        ],
+        "lanimad\u032au": [
+            "n.",
+            "moonlight"
+        ],
+        "laN\u0254": [
+            "n.",
+            "desire"
+        ],
+        "la:ma": [
+            "vt-4 [1: laN- 2: laNN- 3: la:-]",
+            "make glitter or shine"
+        ],
+        "lapp\u01ddi": [
+            "n.",
+            "echo"
+        ],
+        "lapt\u032a\u0254": [
+            "n.",
+            "wing"
+        ],
+        "lari": [
+            "n.",
+            "stalk, pistil of a flower"
+        ],
+        "le": [
+            "n.",
+            "penis"
+        ],
+        "lebaleba": [
+            "adj.",
+            "silent"
+        ],
+        "lei": [
+            "n.",
+            "day"
+        ],
+        "leima": [
+            "vt-5 [1: let- 2: lett- 3: lei- 4: len- 5: le:-]",
+            "plant, pour out"
+        ],
+        "lem": [
+            "n.",
+            "tongue"
+        ],
+        "lema": [
+            "vi-3 [1: les- 2: le-]",
+            "potent auxiliary, to know how to"
+        ],
+        "lemlempa": [
+            "adj.",
+            "sweet"
+        ],
+        "lemlemj\u0254": [
+            "adj.",
+            "very sweet"
+        ],
+        "lemma": [
+            "vt-4 [1: lem- 2: lemm- 3: lem-]",
+            "persuade"
+        ],
+        "lemui": [
+            "n.",
+            "man's pubic hair"
+        ],
+        "le:pa": [
+            "n.",
+            "afternoon"
+        ],
+        "le:pa le:pa": [
+            "adv.",
+            "day by day"
+        ],
+        "l\u01ddba l\u01ddba": [
+            "adj.",
+            "soft"
+        ],
+        "l\u01ddima": [
+            "vi-6 [1: l\u01ddt- 2: l\u01ddi- 3: l\u01ddtt- 4: l\u01ddn- 5: l\u01dd:-]",
+            "descend, go out, fall down, emerge, appear"
+        ],
+        "l\u01ddkhel\u01ddkhe": [
+            "adj.",
+            "soft; mild"
+        ],
+        "l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            "feel itself, play"
+        ],
+        "l\u01ddmma": [
+            "vi-3 [1: l\u01ddp- 2: l\u01ddm-]",
+            "be soft"
+        ],
+        "li": [
+            "n.",
+            "water leech"
+        ],
+        "lil": [
+            "n.",
+            "May/June"
+        ],
+        "lim": [
+            "n.",
+            "shoot of a plant"
+        ],
+        "lima": [
+            "vt-4 [1: li:- 2: li:y- 3: li-]",
+            "rinse, rinse the mouth"
+        ],
+        "limma": [
+            "vt-4 [1: lip- 2: lipp- 3: lim-]",
+            "cross a ridge"
+        ],
+        "liN": [
+            "n.",
+            "yeast, leaven"
+        ],
+        "liN\u0254ksi": [
+            " ",
+            "(archaic) see liN\u0254:si"
+        ],
+        "liN\u0254:": [
+            "n.",
+            "the banana-tree Musu paradisiaca"
+        ],
+        "liN\u0254:si": [
+            "n.",
+            "banana"
+        ],
+        "li:t\u0283i": [
+            "num.",
+            "four."
+        ],
+        "li:ma": [
+            "vt-4 [1: liN- 2: liNN- 3: li:-]",
+            "pour into, insert"
+        ],
+        "liphu": [
+            "n.",
+            "bow"
+        ],
+        "lipi": [
+            "n.",
+            "a sperical earthenware jug"
+        ],
+        "lisi": [
+            "n.",
+            "millet; Eleusine coracana"
+        ],
+        "l\u0254": [
+            "conj.",
+            "and"
+        ],
+        "l\u0254bei": [
+            "n.",
+            "bamboo libation spoon."
+        ],
+        "l\u0254kt\u0283esk\u0254": [
+            "n.",
+            "Kulung name of ward no. 4 in Chemsi\u0304\u014b."
+        ],
+        "l\u0254ma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u0254-]",
+            "tell, order"
+        ],
+        "l\u0254N": [
+            "n.",
+            "leg, foot"
+        ],
+        "l\u0254nam": [
+            "n.",
+            "dry season known as the first part of the winter (November till"
+        ],
+        "l\u0254namma": [
+            "n.",
+            "January/February"
+        ],
+        "l\u0254nappa": [
+            "n.",
+            "February/March"
+        ],
+        "l\u0254Nma": [
+            "n.",
+            "shadow"
+        ],
+        "l\u0254Nsum": [
+            "n.",
+            "(archaic) shoe, made of khi 'nettle'."
+        ],
+        "l\u0254:bei": [
+            "n.",
+            "leech"
+        ],
+        "l\u0254:ma": [
+            "vt-3 [1: l\u0254k- 2: l\u0254:- 3: l\u0254k-]",
+            "lick"
+        ],
+        "l\u0254:phema": [
+            "n.",
+            "dorsum pedis."
+        ],
+        "l\u0254\u028ba": [
+            "n.",
+            "necklace"
+        ],
+        "lu": [
+            "n.",
+            "large, edible frog"
+        ],
+        "luima": [
+            "vt-5 [1: lui- 2: luiy- 3: lui- 4: lun- 5: lu:-]",
+            "copulate, fuck"
+        ],
+        "lukt\u0283um": [
+            "n.",
+            "(archaic) dress made out of khi 'nettle', said to be worn in"
+        ],
+        "luksi": [
+            "n.",
+            "childless person."
+        ],
+        "lukspa": [
+            "n.",
+            "sack, made of khi 'nettle' and worn by women."
+        ],
+        "luma": [
+            "n.",
+            "liver"
+        ],
+        "lumd\u032au": [
+            "adj.",
+            "second-born"
+        ],
+        "lumd\u032aut\u0283ha": [
+            "n.",
+            "second-born child"
+        ],
+        "lumma": [
+            "vt-3 [1: lups- 2: lum-]",
+            "make a little warm."
+        ],
+        "luN": [
+            "n.",
+            "stone, rock"
+        ],
+        "luNkuppa": [
+            "n.",
+            "the plant Amaranthus (the seeds and leaves of which are eaten)"
+        ],
+        "lunma": [
+            "n.",
+            "earthquake"
+        ],
+        "luNma": [
+            "n.",
+            "husbandless wife"
+        ],
+        "luNpa": [
+            "n.",
+            "wifeless man"
+        ],
+        "lu:bum": [
+            "n.",
+            "cave"
+        ],
+        "lu:muksi": [
+            "n.",
+            "black flint stone"
+        ],
+        "ma": [
+            "n.",
+            "mother"
+        ],
+        "maima": [
+            "vt-5 [1: mat- 2: matt- 3: mai- 4: man- 5: ma:-]",
+            "forget"
+        ],
+        "makai": [
+            "n.",
+            "maize"
+        ],
+        "makh\u0254luN": [
+            "n.",
+            "hearth-stone towards rear end of the house."
+        ],
+        "mal\u0254:": [
+            "adv.",
+            "just"
+        ],
+        "mal\u0254: mal\u0254:": [
+            "adv.",
+            "just now"
+        ],
+        "mama": [
+            "vt-2 [1: mas- 2: ma-]",
+            "lose"
+        ],
+        "maNge:pa": [
+            "adj.",
+            "blunt"
+        ],
+        "mann\u01ddpa": [
+            "adj.",
+            "bad, useless, worthless."
+        ],
+        "mari": [
+            "adv.",
+            "very much"
+        ],
+        "mar\u0254:": [
+            "conj.",
+            "otherwise, if not (cf. _mar\u0254:d\u0254,_ _mar\u0254:k\u01dd_)"
+        ],
+        "mar\u0254:d\u032a\u0254": [
+            "conj.",
+            "otherwise, if not (cf. _mar\u0254:,_ _mar\u0254:k\u01dd_)"
+        ],
+        "mar\u0254:k\u01dd": [
+            "conj.",
+            "otherwise, if not (cf. _mar\u0254,_ _mar\u0254:d\u0254_)"
+        ],
+        "mat\u032at\u032aa": [
+            "adv.",
+            "only"
+        ],
+        "mbal": [
+            "adv.",
+            "horizontal, level"
+        ],
+        "mei": [
+            "n.",
+            "thingummy, what-d'you-call-it"
+        ],
+        "meksa": [
+            "adv.",
+            "thither, towards there (on same plain, (from speaker)"
+        ],
+        "mekt\u032a\u0254": [
+            "adv.",
+            "upward (from speaker)"
+        ],
+        "me:d\u032a\u0254k\u01dd": [
+            "conj.",
+            "if it is the case."
+        ],
+        "me:si": [
+            "n.",
+            "water buffalo"
+        ],
+        "meri": [
+            "n.",
+            "tail"
+        ],
+        "mer\u028ba": [
+            "n.",
+            "hoarfrost"
+        ],
+        "met\u032a\u0254Nka": [
+            "adv.",
+            "two years ago"
+        ],
+        "m\u01ddima": [
+            "vt-5 [1: m\u01ddt- 2: m\u01ddtt- 3: m\u01ddi- 4: m\u01ddn- 5: m\u01dd:-]",
+            "finish, complete"
+        ],
+        "m\u01ddma": [
+            "n.",
+            "grandmother (either paternal or maternal; male or female speaking)"
+        ],
+        "m\u01ddmma": [
+            "vt-4 [1: m\u01ddp- 2: m\u01ddpp- 3: m\u01ddm-]",
+            "wipe out, erase"
+        ],
+        "m\u01ddnpi": [
+            "adv.",
+            "there, in there"
+        ],
+        "mi": [
+            "n.",
+            "fire"
+        ],
+        "mikhit\u0283ha": [
+            "adv.",
+            "near."
+        ],
+        "mikka": [
+            "adv.",
+            "therefrom."
+        ],
+        "mikma": [
+            "n.",
+            "smoke"
+        ],
+        "mikp\u0254\u028ba": [
+            "n.",
+            "the bamboo species Arundinaria racemosa"
+        ],
+        "mik\u028ba": [
+            "n.",
+            "tear"
+        ],
+        "mima": [
+            "vt-4 [1: mi:- 2: mi:y- 3: mi-]",
+            "1. productive causativizer; construed with the gerund; 2. niN"
+        ],
+        "mimt\u0283ha": [
+            "n.",
+            "female"
+        ],
+        "mi:ma": [
+            "vi-3 [1: min- 2: mi:-]",
+            "think, consider, remember"
+        ],
+        "mi:mt\u0283ama": [
+            "vi-7",
+            "mi:ma ('to think' with the continuative aspectivizer) remember"
+        ],
+        "mip\u0254t\u032a\u0254:ma": [
+            "n.",
+            "torch, piece of burning wood"
+        ],
+        "misi": [
+            "n.",
+            "human being, person"
+        ],
+        "m\u0254himma": [
+            "n.",
+            "epilepsy"
+        ],
+        "m\u0254ksi": [
+            "n.",
+            "1. son-in-law 2. husband of an elder or younger sibling's daughter"
+        ],
+        "m\u0254m": [
+            "n.",
+            "cloud"
+        ],
+        "m\u0254m\u0254": [
+            "n.",
+            "dawn"
+        ],
+        "m\u0254N": [
+            "n.",
+            "harvested, but unhusked rice."
+        ],
+        "m\u0254Nkh\u0254": [
+            "n.",
+            "name of a mythological bird"
+        ],
+        "m\u0254:b\u0254": [
+            "n.",
+            "household rite."
+        ],
+        "m\u0254:b\u0254t\u0283ha": [
+            "n.",
+            "shaman"
+        ],
+        "m\u0254r\u0254:": [
+            "adv.",
+            "to no purpose, free, gratis"
+        ],
+        "m\u0254r\u0254:na": [
+            "adv.",
+            "that way, in that manner"
+        ],
+        "m\u0254sum": [
+            "n.",
+            "father's sleeping place"
+        ],
+        "mui": [
+            "n.",
+            "body hair"
+        ],
+        "muima": [
+            "vt-5 [1: mut- 2: mutt- 3: mui- 4: mun- 5: mu:-]",
+            "blow out, blow one's nose, inflate"
+        ],
+        "mukt\u0283he": [
+            "n.",
+            "knot"
+        ],
+        "muks": [
+            "sippa",
+            "adj. blind"
+        ],
+        "muksi": [
+            "n.",
+            "eye, sepal of a flower"
+        ],
+        "mukskhil": [
+            "n.",
+            "eye detritus."
+        ],
+        "muksmui": [
+            "n.",
+            "eyelash, eyebrow"
+        ],
+        "mukspum": [
+            "n.",
+            "eye socket."
+        ],
+        "muksu": [
+            "adv.",
+            "downward (from speaker)"
+        ],
+        "mulma": [
+            "vt-4 [1: mul- 2: mull- 3: mul-]",
+            "hide"
+        ],
+        "mulmt\u0283ima": [
+            "vr [1: mul- 2: muly-]",
+            "hide oneself"
+        ],
+        "mulu": [
+            "n.",
+            "hail"
+        ],
+        "mulum": [
+            "n.",
+            "tuft of hair"
+        ],
+        "muni": [
+            "n.",
+            "cat"
+        ],
+        "muNk\u01dd": [
+            "dem.",
+            "he (invisible)"
+        ],
+        "mupd\u032aem": [
+            "n.",
+            "red wasp"
+        ],
+        "muri": [
+            "n.",
+            "smell"
+        ],
+        "mu\u028ba": [
+            "n.",
+            "kite, hawk"
+        ],
+        "na": [
+            "n.",
+            "1. elder sister 2. husband's elder sister 3. wife's elder"
+        ],
+        "Na": [
+            "n.",
+            "fish"
+        ],
+        "Nat\u0283i": [
+            "num.",
+            "five"
+        ],
+        "nagi": [
+            "n.",
+            "serpent god."
+        ],
+        "Naima": [
+            "vi-4 [1: Nat- 2: Nai- 3: Nan-]",
+            "become tired"
+        ],
+        "nakhil\u028ba": [
+            "n.",
+            "mucus, snot"
+        ],
+        "nakka": [
+            "adv.",
+            "on the other side"
+        ],
+        "Nali": [
+            "n.",
+            "beauty of countenance"
+        ],
+        "Nali isa": [
+            "adj.",
+            "ugly."
+        ],
+        "Nali l\u01ddpa": [
+            "adj.",
+            "beautiful, attractive"
+        ],
+        "Nali n\u01ddpa": [
+            "adj.",
+            "beautiful, attractive"
+        ],
+        "Nalma": [
+            "vt-1 [1: Nal- ]",
+            "destroy"
+        ],
+        "nam": [
+            "n.",
+            "sky, sun, weather"
+        ],
+        "namt\u0283h\u0254\u028ba": [
+            "n.",
+            "sunshine"
+        ],
+        "namd\u032aurum": [
+            "n.",
+            "locust"
+        ],
+        "namhalbu": [
+            "n.",
+            "sunset"
+        ],
+        "namk\u0254kt\u032ai": [
+            "n.",
+            "yolk."
+        ],
+        "namma": [
+            "vt-2 [1: naps- 2: nam-]",
+            "smell, sniff"
+        ],
+        "Namma": [
+            "vt-4 [1: Nap- 2: Napp- 3: Nam-]",
+            "snatch away"
+        ],
+        "namme": [
+            "n.",
+            "1. daughter-in-law 2. wife of an elder or younger sibling's son"
+        ],
+        "namm\u0254": [
+            "adv.",
+            "next year"
+        ],
+        "namnamu": [
+            "adj.",
+            "poor, pitiable"
+        ],
+        "namput\u0283h\u0254": [
+            "n.",
+            "earthworm"
+        ],
+        "namsam": [
+            "n.",
+            "sunrise"
+        ],
+        "na:": [
+            "adv.",
+            "over there"
+        ],
+        "na:ka": [
+            "adv.",
+            "from there."
+        ],
+        "na:k\u01dd": [
+            "pron.",
+            "dem. he, that (at same level); Nep tyo."
+        ],
+        "na:k\u01ddpa": [
+            "adv.",
+            "further (medium distance)"
+        ],
+        "na:pa": [
+            "adv.",
+            "over there"
+        ],
+        "nap": [
+            "n.",
+            "nose"
+        ],
+        "nap t\u0283huma": [
+            "vi-3 [1: nap chus- 2: nap chu-]",
+            "stink"
+        ],
+        "napt\u0283h\u0254": [
+            "n.",
+            "tip of the nose, the comb of cock"
+        ],
+        "napt\u0283\u0254": [
+            "n.",
+            "clitoris"
+        ],
+        "naplam": [
+            "n.",
+            "nostril"
+        ],
+        "Nappa": [
+            "n.",
+            "wive's elder brother"
+        ],
+        "napt\u032ahemma": [
+            "n.",
+            "kind of insect."
+        ],
+        "nari": [
+            "n.",
+            "forest leopard or panther"
+        ],
+        "Nasa": [
+            "n.",
+            "fish (as food)."
+        ],
+        "net\u0283h\u0254": [
+            "n.",
+            "1. younger sibling 2. wife's younger siblingis spouse 3."
+        ],
+        "Nei": [
+            "n.",
+            "obstacle."
+        ],
+        "NeibuN": [
+            "n.",
+            "male flower of maize"
+        ],
+        "Nema": [
+            "vi-3 [1: Nes- 2: Ne-]",
+            "seem"
+        ],
+        "nemma": [
+            "vt-4 [1: nep- 2: nepp- 3: nem-]",
+            "cover (e.g. with sand)"
+        ],
+        "ne:ma": [
+            "vi-3 [1: nen- 2: ne:-]",
+            "talk"
+        ],
+        "Ne:ma": [
+            "vt-2 [1: Nek- 2: Ne:-]",
+            "eat by nibbling or gnawing."
+        ],
+        "ne:t\u032a\u0254pt\u032a\u0254": [
+            "adv.",
+            "up there"
+        ],
+        "nerp\u0254\u028ba": [
+            "n.",
+            "the fig-tree Ficus nemoralis"
+        ],
+        "N\u01dd": [
+            "n.",
+            "mouth"
+        ],
+        "N\u01ddt\u0283\u01ddsu\u028ba": [
+            "n.",
+            "lip"
+        ],
+        "N\u01ddim l\u01ddma": [
+            "vi-7 [1: l\u0254i- 2: l\u0254- 3: l\u01ddi- 4: l\u01dd-]",
+            "be ashamed"
+        ],
+        "n\u01ddima": [
+            "vt-5 [1: n\u01ddt- 2: n\u01ddtt- 3: n\u01ddi- 4: n\u01ddn- 5: n\u01dd:-]",
+            "like"
+        ],
+        "N\u01ddima": [
+            "n.",
+            "shame"
+        ],
+        "N\u01ddlma": [
+            "vt-4 [1: N\u01ddl- 2: N\u01ddll- 3: N\u01ddl-]",
+            "mix"
+        ],
+        "n\u01ddma": [
+            "vi-7 [1: n\u0254i- 2: n\u0254- 3: n\u01ddi- 4: n\u01dd-]",
+            "be good, get better"
+        ],
+        "N\u01ddma": [
+            "vt-2 [1: N\u01dds- 2: N\u01dd-]",
+            "fry"
+        ],
+        "n\u01ddml\u0254": [
+            "adv.",
+            "well"
+        ],
+        "N\u01ddmui": [
+            "n.",
+            "moustache"
+        ],
+        "n\u01ddpa": [
+            "adj.",
+            "good"
+        ],
+        "ni": [
+            "n.",
+            "paternal aunt, older or younger than father"
+        ],
+        "nit\u0283isi": [
+            "n.",
+            "fruit of the tree Machilus Gamblei"
+        ],
+        "nit\u0283isip\u0254\u028ba": [
+            "n.",
+            "the fruit-bearing tree Machilus Gamblei"
+        ],
+        "Nikpa": [
+            "n.",
+            "cook"
+        ],
+        "Nima": [
+            "vt-4 [1: Ni:- 2: Ni:y- 3: Ni-]",
+            "cook (potatoes, maize, etc.), boil"
+        ],
+        "nime": [
+            "n.",
+            "sister-in-law (female ego); i.e. husband's younger sister"
+        ],
+        "niN": [
+            "n.",
+            "name"
+        ],
+        "ninamma": [
+            "n.",
+            "sun god."
+        ],
+        "niNniNj\u0254": [
+            "adv.",
+            "soon."
+        ],
+        "Nirma": [
+            "vt-1 [1: Nir- ]",
+            "count"
+        ],
+        "niskhal": [
+            "num.",
+            "forty"
+        ],
+        "nit\u032at\u0283i": [
+            "num.",
+            "two"
+        ],
+        "ni\u028ba": [
+            "n.",
+            "mind"
+        ],
+        "Nk\u01dd": [
+            "dem.",
+            "he, this one"
+        ],
+        "Nk\u01ddla": [
+            "adv.",
+            "this way"
+        ],
+        "n\u0254b\u0254": [
+            "n.",
+            "ear"
+        ],
+        "N\u0254b\u0254": [
+            "n.",
+            "face"
+        ],
+        "n\u0254kt\u0283h\u0254": [
+            "n.",
+            "priest."
+        ],
+        "N\u0254kpa": [
+            "n.",
+            "beggar"
+        ],
+        "n\u0254kt\u032ahu": [
+            "n.",
+            "porridge."
+        ],
+        "n\u0254kt\u032ahum": [
+            "adv.",
+            "in six days."
+        ],
+        "n\u0254mt\u0283ima": [
+            "vr [1: n\u0254- 2: n\u0254t-]",
+            "rest"
+        ],
+        "n\u0254N": [
+            "n.",
+            "the fish Psilorhynchus pseudecheneis (Menon and Datta)"
+        ],
+        "n\u0254:ma": [
+            "vt-4 [1: n\u0254N- 2: n\u0254NN- 3: n\u0254-]",
+            "store up (grain, etc.)"
+        ],
+        "N\u0254:ma": [
+            "vt-3 [1: N\u0254k- 2: N\u0254:- 3: N\u0254k-]",
+            "ask for, request (reconstructed with the locative)"
+        ],
+        "n\u0254:N": [
+            "n.",
+            "snow, ice"
+        ],
+        "nukt\u0283ha": [
+            "n.",
+            "baby"
+        ],
+        "nukka": [
+            "adv.",
+            "lower"
+        ],
+        "numa": [
+            "n.",
+            "first-born daughter"
+        ],
+        "nu:": [
+            "adv.",
+            "down"
+        ],
+        "nu:ka": [
+            "adv.",
+            "from down."
+        ],
+        "nu:k\u01dd": [
+            "pron.",
+            "dem. he (at lower level)."
+        ],
+        "nu:k\u01ddpu": [
+            "adv.",
+            "there (at lower level)"
+        ],
+        "nu:pu": [
+            "adv.",
+            "there (at lower level)"
+        ],
+        "nupa": [
+            "n.",
+            "first-born son"
+        ],
+        "nurma": [
+            "n.",
+            "filtered millet beer."
+        ],
+        "Nurma": [
+            "vi-1 [1: Nur-]",
+            "grunt (of a pig)"
+        ],
+        "nus": [
+            "adv.",
+            "soon, early."
+        ],
+        "\u0254d\u032a\u0254l\u0254": [
+            "adv.",
+            "now, at this time"
+        ],
+        "\u0254l\u0254nu": [
+            "interj.",
+            "blessing"
+        ],
+        "\u0254l\u0254nu\u028b\u01dd": [
+            "interj.",
+            "thank you"
+        ],
+        "\u0254ml\u0254:pa": [
+            "adj.",
+            "white"
+        ],
+        "\u0254nt\u0283\u0254ma": [
+            "n.",
+            "slander"
+        ],
+        "\u0254nt\u032a\u0254": [
+            "adv.",
+            "so"
+        ],
+        "\u0254nt\u032a\u0254d\u032ai": [
+            "adv.",
+            "this much"
+        ],
+        "\u0254nt\u032a\u0254l\u0254": [
+            "adv.",
+            "now"
+        ],
+        "\u0254nt\u032a\u0254Nk\u01dd": [
+            "adv.",
+            "like, similar"
+        ],
+        "\u0254nt\u032a\u0254t\u032a\u0254": [
+            "adv.",
+            "this much"
+        ],
+        "\u0254N\u028bap\u0254\u028ba": [
+            "n.",
+            "pine tree (or conifer)"
+        ],
+        "\u0254:ma": [
+            "vt-2 [1: \u0254ks- 2: \u0254:-]",
+            "push through"
+        ],
+        "\u0254r\u0254:": [
+            "tat\u0254",
+            "adv. long time ago"
+        ],
+        "\u0254r\u0254:ka": [
+            "adv.",
+            "on this side, via here"
+        ],
+        "\u0254r\u0254:na": [
+            "adv.",
+            "in this manner."
+        ],
+        "\u0254r\u0254:t\u032a\u0254": [
+            "adv.",
+            "very much, very many"
+        ],
+        "\u0254u": [
+            "interj.",
+            "yes, okay (in response to an imperative)"
+        ],
+        "pa": [
+            "n.",
+            "father"
+        ],
+        "paima": [
+            "vi-4 [1: pat- 2: pai- 3: pan-]",
+            "leak, drip"
+        ],
+        "pakha": [
+            "adv.",
+            "outside, out"
+        ],
+        "pakh\u0254luN": [
+            "n.",
+            "apex hearthstone."
+        ],
+        "pakp\u0254\u028ba": [
+            "n.",
+            "kind of bamboo species, Nep. si\u014bga\u0304ne."
+        ],
+        "pal": [
+            "n.",
+            "small bird, that lives in mountains and runs along the ground"
+        ],
+        "palk\u0254kt\u032ai": [
+            "n.",
+            "(archaic) sweet potato"
+        ],
+        "palma": [
+            "vt-4 [1: pal- 2: pall- 3: pal-]",
+            "bend (e.g. piece of wood), fold arms"
+        ],
+        "pama": [
+            "vi-3 [1: pas- 2: pa-]",
+            "vomit"
+        ],
+        "pamma": [
+            "vt-4 [1: pam- 2: pamm- 3: pam-]",
+            "scratch with the nails"
+        ],
+        "paN": [
+            "n.",
+            "left hand"
+        ],
+        "paN\u028ba": [
+            "n.",
+            "bamboo water-vessel."
+        ],
+        "pa:ma": [
+            "vt-2 [1: paks- 2: pa:-]",
+            "break into pieces"
+        ],
+        "papa": [
+            "n.",
+            "forefather, ancestor"
+        ],
+        "papi\u028ba": [
+            "n.",
+            "bat"
+        ],
+        "pa\u028ba": [
+            "n.",
+            "slug"
+        ],
+        "pel": [
+            "n.",
+            "spleen"
+        ],
+        "pemma": [
+            "vt-4 [1: pep- 2: pepp- 3: pem-]",
+            "fill"
+        ],
+        "pe:ma": [
+            "vt-2 [1: pek- 2: pe:-]",
+            "twist, braid"
+        ],
+        "perma": [
+            "vi-1 [1: per-]",
+            "fly"
+        ],
+        "p\u01ddima": [
+            "vt-5 [1: p\u01ddt- 2: p\u01ddtt- 3: p\u01ddi- 4: p\u01ddn- 5: p\u01dd:-]",
+            "touch"
+        ],
+        "p\u01ddis": [
+            "n.",
+            "waterfall"
+        ],
+        "p\u01ddm": [
+            "n.",
+            "chest"
+        ],
+        "p\u01ddma": [
+            "vi-7 [1: p\u0254i- 2: p\u0254- 3: p\u01ddi- 4: p\u01dd-]",
+            "increase, grow"
+        ],
+        "pha": [
+            "n.",
+            "blade of a knife"
+        ],
+        "phaima": [
+            "vt-5 [1: phat- 2: phatt- 3: phai- 4: phan- 5: pha:-]",
+            "reverse, (ex)change"
+        ],
+        "pham": [
+            "n.",
+            "wooden jug, measuring two ma\u0304na\u0304"
+        ],
+        "phamma": [
+            "vt-4 [1: phap- 2: phapp- 3: pham-]",
+            "bend over, fold (clothes)"
+        ],
+        "phamphampa": [
+            "adj.",
+            "messy, untidy."
+        ],
+        "phaN": [
+            "n.",
+            "beehive"
+        ],
+        "pha:ma": [
+            "vt-4 [1: phaN- 2: phaNN- 3: pha:-]",
+            "fold (clothes)"
+        ],
+        "pheima": [
+            "vt-5 [1: phet- 2: phett- 3: phei- 4: phen- 5: phe:-]",
+            "pull back (foreskin)"
+        ],
+        "phemphempa": [
+            "adj.",
+            "smooth, flat, even"
+        ],
+        "pheNa": [
+            "n.",
+            "sack-cloth"
+        ],
+        "pheri": [
+            "adv.",
+            "again"
+        ],
+        "phet\u032aeNphet\u032aeN": [
+            "adj.",
+            "talkative."
+        ],
+        "ph\u01ddlma": [
+            "vt-4 [1: ph\u01ddl- 2: ph\u01ddll- 3: ph\u01ddl-]",
+            "stir"
+        ],
+        "ph\u01ddpa": [
+            "n.",
+            "grandfather (either paternal or maternal; male or female speaking)"
+        ],
+        "phila": [
+            "n.",
+            "thigh"
+        ],
+        "phima": [
+            "vt-4 [1: phi:- 2: phi:y- 3: phi-]",
+            "deal out (a meal), serve, laddle (rice)"
+        ],
+        "phimma": [
+            "vt-4 [1: phip- 2: phipp- 3: phim-]",
+            "suck, draw (through a straw), kiss"
+        ],
+        "ph\u0254mt\u0283ima": [
+            "vr [1: ph\u0254- 2: ph\u0254k-]",
+            "part (company), break up."
+        ],
+        "ph\u0254usi": [
+            "n.",
+            "cheek"
+        ],
+        "phuiki": [
+            "n.",
+            "mist"
+        ],
+        "phuima": [
+            "vt-5 [1: phui- 2: phuiy- 3: phui- 4: phun- 5: phu:-]",
+            "sow"
+        ],
+        "phuksi": [
+            "n.",
+            "thatch, fodder (for cows etc.)"
+        ],
+        "phul": [
+            "n.",
+            "flour, dust"
+        ],
+        "phum": [
+            "n.",
+            "memory, recollection, remembrance"
+        ],
+        "phum ju:ma": [
+            "vt-2 [1: yuks- 2: yu:-]",
+            "remember"
+        ],
+        "phumma": [
+            "vt-4 [1: phup- 2: phupp- 3: phum-]",
+            "spray, sprinkle."
+        ],
+        "phumphumpa": [
+            "adj.",
+            "fat"
+        ],
+        "phu:ma": [
+            "vt-2 [1: phuks- 2: phu:-]",
+            "throw out water, plash"
+        ],
+        "phut\u032auker": [
+            "adj.",
+            "naked"
+        ],
+        "phut\u032aukerd\u0292a": [
+            "adv.",
+            "naked"
+        ],
+        "pi": [
+            "n.",
+            "cow"
+        ],
+        "pima": [
+            "vt-4 [1: pi:- 2: pi:y- 3: pi-]",
+            "give"
+        ],
+        "pimas": [
+            "n.",
+            "Emblica myrobalan, Phyllanthus emblica L."
+        ],
+        "pint\u032aukulu": [
+            "n.",
+            "bulbul"
+        ],
+        "pi:ma": [
+            "vi-5 [1: pik- 2: pi:- 3: pik-]",
+            "say (takes ergative case, while the verb endings are intransitive!)"
+        ],
+        "pipih\u0254\u028ba": [
+            "n.",
+            "foliage of the tree Casearia spec."
+        ],
+        "pirma": [
+            "vt-1 [1: pir-]",
+            "press, squeeze"
+        ],
+        "pit\u032at\u032a\u0254": [
+            "n.",
+            "horn"
+        ],
+        "p\u0254i": [
+            "n.",
+            "neck"
+        ],
+        "p\u0254kpa": [
+            "adj.",
+            "awake, arisen"
+        ],
+        "p\u0254kp\u0254\u028ba": [
+            "n.",
+            "upper arm."
+        ],
+        "p\u0254mlalu:bum": [
+            "n.",
+            "Kulung heaven (litt. cave of the spirits)."
+        ],
+        "p\u0254N": [
+            "num.",
+            "ten (preceded by the numeral 'one' )"
+        ],
+        "p\u0254Nma": [
+            "n.",
+            "popcorn."
+        ],
+        "p\u0254:ma": [
+            "vt-2 [1: p\u0254ks- 2: p\u0254:-]",
+            "send, send away, pop (of maize), explode"
+        ],
+        "p\u0254:t\u032ael": [
+            "n.",
+            "courtyard, farmyard"
+        ],
+        "p\u0254\u028ba": [
+            "n.",
+            "plant, bush, trunk of a tree"
+        ],
+        "pu": [
+            "n.",
+            "snake"
+        ],
+        "put\u0283h\u0254": [
+            "n.",
+            "worm"
+        ],
+        "pui": [
+            "n.",
+            "source"
+        ],
+        "puima": [
+            "vt-5 [1: pui- 2: puiy- 3: pui- 4: pun- 5: pu:-]",
+            "boil (water), reach the boiling-point)"
+        ],
+        "pukma": [
+            "n.",
+            "foam"
+        ],
+        "pumlu": [
+            "n.",
+            "bottom, buttocks"
+        ],
+        "pumma": [
+            "vt-2 [1: pups- 2: pum-]",
+            "make a fist"
+        ],
+        "puN": [
+            "n.",
+            "horn of a water buffalo, used as an instrument, esp. during the"
+        ],
+        "punt\u0283hiri": [
+            "n.",
+            "spider"
+        ],
+        "puNgur": [
+            "n.",
+            "kind of bird."
+        ],
+        "pup\u0254": [
+            "n.",
+            "rhesus monkey, Macaca mulata"
+        ],
+        "pupulpa": [
+            "n.",
+            "any round, spherical object"
+        ],
+        "puri": [
+            "n.",
+            "cucumber"
+        ],
+        "purma": [
+            "vt-2 [1: purs- 2: pur-]",
+            "to spin a thread into a cord."
+        ],
+        "pus\u01ddi": [
+            "n.",
+            "husband of paternal aunt"
+        ],
+        "pusi": [
+            "n.",
+            "beauty of shape"
+        ],
+        "pusi\u028ba": [
+            "n.",
+            "see pusi"
+        ],
+        "pu\u028b\u0254": [
+            "n.",
+            "roasted millet."
+        ],
+        "ra": [
+            "n.",
+            "paddy, rice in the field, Oryza sativa L."
+        ],
+        "ramma": [
+            "vt-4 [1: rap- 2: rapp- 3: ram-]",
+            "refrain from, give up, stop"
+        ],
+        "ra:ma": [
+            "vt-4 [1: raN- 2: raNN- 3: ra:-]",
+            "scold, swear at, rebuke, reprimand"
+        ],
+        "rajikha": [
+            "n.",
+            "rice paddy"
+        ],
+        "reima": [
+            "vi-6 [1: ret- 2: rei- 3: rett- 4: ren- 5: re:-]",
+            "get scared"
+        ],
+        "remma": [
+            "vt-4 [1: rep- 2: repp- 3: rem-]",
+            "obey"
+        ],
+        "repa": [
+            "adj.",
+            "tall, high"
+        ],
+        "ret\u032at\u0283i": [
+            "num.",
+            "eight."
+        ],
+        "r\u01dd": [
+            "n.",
+            "large beam"
+        ],
+        "r\u01ddima": [
+            "vt-5 [1: r\u01ddt- 2: r\u01ddtt- 3: r\u01ddi- 4: r\u01ddn- 5: r\u01dd:-]",
+            "pierce, make a hole in"
+        ],
+        "r\u01ddmma": [
+            "vt-4 [1: r\u01ddp- 2: r\u01ddpp- 3: r\u01ddm-]",
+            "twist, entwine, plait"
+        ],
+        "rib\u0254": [
+            "n.",
+            "rope, cord."
+        ],
+        "rid\u032a\u0254": [
+            "adj.",
+            "last-born"
+        ],
+        "rid\u032aum": [
+            "n.",
+            "rite"
+        ],
+        "rima": [
+            "vt-2 [1: ris- 2: ri-]",
+            "turn, reel, spin, revolve, cause to go around"
+        ],
+        "rimma": [
+            "vt-4 [1: rip- 2: ripp- 3: rim-]",
+            "twist, plait string to make a rope, wring out"
+        ],
+        "riN": [
+            "n.",
+            "language, word"
+        ],
+        "riNt\u0283ham": [
+            "n.",
+            "conversation, chat, talk"
+        ],
+        "ri:ma": [
+            "vi-3 [1: riks- 2: ri:-]",
+            "shine, sparkle, glitter"
+        ],
+        "r\u0254": [
+            "n.",
+            "slave."
+        ],
+        "r\u0254kt\u032a\u0254kh\u0254:m": [
+            "n.",
+            "rainbow"
+        ],
+        "r\u0254N": [
+            "n.",
+            "rupiya (archaic)"
+        ],
+        "r\u0254Nkap\u0254\u028ba": [
+            "n.",
+            "the tree Albizia lebbeck"
+        ],
+        "r\u0254:d\u032au": [
+            "adj.",
+            "Ra\u0304i\u0304."
+        ],
+        "r\u0254:d\u032auriN": [
+            "n.",
+            "Ra\u0304i\u0304 language."
+        ],
+        "r\u0254:ma": [
+            "vt-2 [1: r\u0254ks- 2: r\u0254:-]",
+            "drive out (disease, evil spirit)"
+        ],
+        "rum": [
+            "n.",
+            "salt"
+        ],
+        "rumma": [
+            "vt-4 [1: rup- 2: rupp- 3: rum-]",
+            "cut wood, chop off (e.g. limb)"
+        ],
+        "ru:ma": [
+            "vt-2 [1: ruks- 2: ru:-]",
+            "shake, shake out"
+        ],
+        "rusm\u0254N": [
+            "n.",
+            "fever"
+        ],
+        "rus\u0254:N": [
+            "n.",
+            "name of a weed"
+        ],
+        "ru\u028b\u0254": [
+            "n.",
+            "pleiad"
+        ],
+        "sa": [
+            "n.",
+            "meat, flesh"
+        ],
+        "sag\u0254": [
+            "n.",
+            "mind."
+        ],
+        "sahu": [
+            "n.",
+            "blacksmith"
+        ],
+        "saka": [
+            "adj.",
+            "hungry"
+        ],
+        "sakhi": [
+            "n.",
+            "thread"
+        ],
+        "sakumbu": [
+            "n.",
+            "Kulung ritual language."
+        ],
+        "sala": [
+            "n.",
+            "brother-in-law"
+        ],
+        "sali": [
+            "n.",
+            "sister-in-law"
+        ],
+        "salis\u0254:N": [
+            "n.",
+            "kind of weed that looks like a rice-plant."
+        ],
+        "salma": [
+            "n.",
+            "voice"
+        ],
+        "sam": [
+            "n.",
+            "root"
+        ],
+        "samai": [
+            "n.",
+            "time"
+        ],
+        "sambeluN": [
+            "n.",
+            "hearthstone towards front of the house."
+        ],
+        "samei": [
+            "n.",
+            "eardrum."
+        ],
+        "sameimid\u032a\u0254:ri": [
+            "n.",
+            "temple of the head."
+        ],
+        "samkhai": [
+            "n.",
+            "name of a vegetable"
+        ],
+        "samkhe": [
+            "n.",
+            "potato"
+        ],
+        "saml\u0254me": [
+            "n.",
+            "woman married outside the clan."
+        ],
+        "samma": [
+            "vi-3 [1: sap- 2: sam-]",
+            "have enough (esp. of food)"
+        ],
+        "samme": [
+            "n.",
+            "Sherpa woman."
+        ],
+        "sampa": [
+            "n.",
+            "Sherpa man."
+        ],
+        "samriN": [
+            "n.",
+            "Sherpa language."
+        ],
+        "sani\u028ba": [
+            "n.",
+            "intelligence"
+        ],
+        "saNsaNpa": [
+            "adj.",
+            "clean, dirtless"
+        ],
+        "sa:ma": [
+            "vt-2 [1: saks- 2: sa:-]",
+            "winnow (sitting with a winnowing basket), to purify (e.g. to"
+        ],
+        "sapl\u0254b\u0254:": [
+            "n.",
+            "wild pig"
+        ],
+        "sara": [
+            "adv.",
+            "very"
+        ],
+        "saj\u0254": [
+            "n.",
+            "musk-deer"
+        ],
+        "se": [
+            "n.",
+            "fruit"
+        ],
+        "seima": [
+            "vt-5 [1: set- 2: sett- 3: sei- 4: sen- 5: se:-]",
+            "kill, extinguish (fire), put off"
+        ],
+        "sel": [
+            "n.",
+            "iron"
+        ],
+        "selma": [
+            "vt-4 [1: sel- 2: sell- 3: sel-]",
+            "scrape."
+        ],
+        "sema": [
+            "vi-3 [1: sei- 2: se-]",
+            "bear fruit"
+        ],
+        "sen": [
+            "n.",
+            "fingernail (of the fingers and toes)"
+        ],
+        "se:m\u0254:": [
+            "n.",
+            "dream"
+        ],
+        "se:pa": [
+            "n.",
+            "night"
+        ],
+        "se:ri": [
+            "n.",
+            "uncooked rice, ground maize"
+        ],
+        "sepa": [
+            "n.",
+            "big eyed bamboo basket"
+        ],
+        "serb\u0254": [
+            "n.",
+            "grass, where a broom is made of."
+        ],
+        "ser\u0254m": [
+            "n.",
+            "sand"
+        ],
+        "seser": [
+            "adj.",
+            "all right, in good health"
+        ],
+        "se\u028ba": [
+            "n.",
+            "hommage"
+        ],
+        "s\u01ddbei": [
+            "n.",
+            "flat pancake, ommelette"
+        ],
+        "s\u01ddima": [
+            "vi-4 [1: s\u01ddt- 2: s\u01ddi- 3: s\u01ddn-]",
+            "decrease, become less."
+        ],
+        "s\u01ddk\u01ddppa": [
+            "n.",
+            "grasshopper"
+        ],
+        "s\u01ddkl\u01dd": [
+            "adv.",
+            "only"
+        ],
+        "s\u01ddkma": [
+            "adj. fem.",
+            "lame"
+        ],
+        "s\u01ddkpa": [
+            "adj. masc.",
+            "lame"
+        ],
+        "s\u01ddl\u01ddm\u0254ksi": [
+            "adv.",
+            "in a line"
+        ],
+        "s\u01ddm": [
+            "n.",
+            "1. lung; 2. compassion"
+        ],
+        "s\u01ddma": [
+            "vi-3 [1: s\u01dds- 2: s\u01dd-]",
+            "itch, be hot (spicy)"
+        ],
+        "s\u01ddmt\u0283ima": [
+            "vr [1: s\u01ddm- 2: s\u01ddp-]",
+            "bath, wash oneself"
+        ],
+        "s\u01ddmkhe": [
+            "n.",
+            "love, affection"
+        ],
+        "s\u01ddmma": [
+            "vt-4 [1: s\u01ddp- 2: s\u01ddpp- 3: s\u01ddm-]",
+            "climb"
+        ],
+        "si": [
+            "n.",
+            "louse"
+        ],
+        "sid\u032ai": [
+            "n.",
+            "louse-egg."
+        ],
+        "sil": [
+            "n.",
+            "June/July"
+        ],
+        "sil bama": [
+            "vi-7 [1: sil b\u0254i- 2: sil b\u0254- 3: sil bai- 4: sil ba-]",
+            "dance"
+        ],
+        "sili": [
+            "n.",
+            "dance."
+        ],
+        "silut\u0283h\u0254": [
+            "n.",
+            "name of a peak."
+        ],
+        "silum": [
+            "n.",
+            "final funerary rite."
+        ],
+        "sima": [
+            "vi-3 [1: si:- 2: si-]",
+            "feel"
+        ],
+        "simma": [
+            "vt-4 [1: sip- 2: sipp- 3: sim-]",
+            "evaporate (water)"
+        ],
+        "siN": [
+            "n.",
+            "firewood"
+        ],
+        "siNkhim": [
+            "n.",
+            "store house for firewood."
+        ],
+        "siNkippa": [
+            "n.",
+            "brown insect that lives in the bark of trees."
+        ],
+        "siNri": [
+            "n.",
+            "leaves of the mustard plant"
+        ],
+        "si:b\u0254": [
+            "n.",
+            "leaf"
+        ],
+        "si:t\u0283h\u0254": [
+            "n.",
+            "tree"
+        ],
+        "si:d\u032a\u0254kpa": [
+            "n.",
+            "woodpecker"
+        ],
+        "si:ma": [
+            "vt-2 [1: sik- 2: si:-]",
+            "trample on, tread on"
+        ],
+        "si:s\u0254\u028ba": [
+            "n.",
+            "famine"
+        ],
+        "sip": [
+            "n.",
+            "chaff, husk (outer part of corn), bark of a tree, peelings (of"
+        ],
+        "sip\u0254": [
+            "n.",
+            "corpse"
+        ],
+        "sisi": [
+            "n.",
+            "testicles, seeds"
+        ],
+        "sisir": [
+            "adv.",
+            "queer, unusual"
+        ],
+        "s\u0254": [
+            "adv.",
+            "also"
+        ],
+        "s\u0254k\u0254\u028bar": [
+            "n.",
+            "skin"
+        ],
+        "s\u0254ma": [
+            "vt-8 [1: s\u0254i- 2: s\u0254- 3: s\u01ddi- 4: s\u01dd- 5: sui- 6: su- 7: sa- 8: s\u0254k-]",
+            "remove weeds, weed"
+        ],
+        "s\u0254mbeluN": [
+            "n.",
+            "hearth-stone towards front end of the house."
+        ],
+        "s\u0254m\u0254ri": [
+            "n.",
+            "disease"
+        ],
+        "s\u0254Nger": [
+            "n.",
+            "star"
+        ],
+        "s\u0254Nger\u028ba": [
+            "n.",
+            "dew."
+        ],
+        "s\u0254Nli": [
+            "n.",
+            "bamboo drinking vessel."
+        ],
+        "s\u0254:": [
+            "n.",
+            "wild animal (tiger, jackal, bear, etc.)."
+        ],
+        "s\u0254:b\u01ddm": [
+            "n.",
+            "vessel for holding water or milk"
+        ],
+        "s\u0254:g\u0254": [
+            "n.",
+            "forest"
+        ],
+        "s\u0254:l\u0254": [
+            "n.",
+            "young man"
+        ],
+        "s\u0254:l\u0254me": [
+            "n.",
+            "young woman"
+        ],
+        "s\u0254:m": [
+            "n.",
+            "breath, steam, eternal soul"
+        ],
+        "s\u0254:ma": [
+            "adv.",
+            "very"
+        ],
+        "s\u0254:mt\u0283ha": [
+            "n.",
+            "human being"
+        ],
+        "s\u0254:mlam": [
+            "n.",
+            "spot on the middle of the forehead."
+        ],
+        "s\u0254:N": [
+            "n.",
+            "weeds, tufts of grass"
+        ],
+        "s\u0254s\u0254ma": [
+            "n.",
+            "courage, braveness"
+        ],
+        "s\u0254s\u0254mame": [
+            "adj.",
+            "fem. courageous, brave"
+        ],
+        "s\u0254s\u0254map\u0254": [
+            "adj.",
+            "masc. courageous, brave"
+        ],
+        "s\u0254t\u032at\u032a\u0254": [
+            "n.",
+            "indigenous Kulung name for the village Sota\u0304\u014b."
+        ],
+        "s\u0254uri": [
+            "n.",
+            "vein"
+        ],
+        "s\u0254\u028ba": [
+            "n.",
+            "vital force that resides in the vein"
+        ],
+        "s\u0254\u028bal": [
+            "n.",
+            "November/December"
+        ],
+        "suima": [
+            "vt-5 [1: sut- 2: sutt- 3: sui- 4: sun- 5: su:-]",
+            "make smooth, polish"
+        ],
+        "sukt\u032aum": [
+            "n.",
+            "back of the neck"
+        ],
+        "sulma": [
+            "vt-4 [1: sul- 2: sull- 3: sul-]",
+            "hide, conceal"
+        ],
+        "sumburma": [
+            "n.",
+            "kind of insect."
+        ],
+        "sumriN": [
+            "n.",
+            "ancient language."
+        ],
+        "sunt\u032a\u0254l\u0254\u028ba": [
+            "n.",
+            "cockroach"
+        ],
+        "su:pel": [
+            "n.",
+            "small black fly"
+        ],
+        "supt\u0283i": [
+            "num.",
+            "three.."
+        ],
+        "supe": [
+            "adj.",
+            "old, worn out"
+        ],
+        "supi": [
+            "n.",
+            "whispering"
+        ],
+        "supi supi ne:ma": [
+            "vi-3 [1: nen- 2: ne:-]",
+            "whisper; ka\u0304nekhus!i\u0304 garnu."
+        ],
+        "supl\u0254": [
+            "n.",
+            "the shrub Curcuma angustifolia Roxb., used by shamans in"
+        ],
+        "suri": [
+            "n.",
+            "wedding"
+        ],
+        "susu": [
+            "n.",
+            "earwax"
+        ],
+        "su\u028ba": [
+            "n.",
+            "a particular kind of creeper, the roots of which are eaten"
+        ],
+        "su\u028ber": [
+            "n.",
+            "bee"
+        ],
+        "t\u032aaima": [
+            "vi-6 [1: tat- 2: tai- 3: tatt- 4: tan- 5: ta:-]",
+            "be at highest point"
+        ],
+        "t\u032aama": [
+            "vt-2 [1: tas- 2: ta-]",
+            "hold out, to be given"
+        ],
+        "t\u032aamma": [
+            "vi-1 [1: tam-]",
+            "drip"
+        ],
+        "t\u032aa:ma": [
+            "vt-4 [1: taN- 2: taNN- 3: ta:-]",
+            "thrust into, force into"
+        ],
+        "t\u032aaphu\u028ba": [
+            "n.",
+            "name of a stinking weed used for the treatment of boils and as"
+        ],
+        "t\u032aat\u032a\u0254": [
+            "n.",
+            "time."
+        ],
+        "t\u032aei": [
+            "n.",
+            "cloth"
+        ],
+        "t\u032aekri": [
+            "n.",
+            "October/November"
+        ],
+        "t\u032ael": [
+            "n.",
+            "village"
+        ],
+        "t\u032aelkhe": [
+            "n.",
+            "yam"
+        ],
+        "t\u032aelma": [
+            "n.",
+            "plain"
+        ],
+        "t\u032aelme": [
+            "n.",
+            "1. younger brother's wife 2. elder brother's wife's younger sister."
+        ],
+        "t\u032aelp\u0254": [
+            "n.",
+            "villager"
+        ],
+        "t\u032aema": [
+            "vt-2 [1: tes- 2: te-]",
+            "pour in, (obs.) fuck"
+        ],
+        "t\u032aemet\u0283ha": [
+            "n.",
+            "female relatives (sisters etc.)"
+        ],
+        "t\u032aemma": [
+            "vt-2 [1: teps- 2: tem-]",
+            "suffer, endure, undergo"
+        ],
+        "t\u032aemniNka": [
+            "adv.",
+            "last year"
+        ],
+        "t\u032ae:ma": [
+            "vi-2 [1: tek- 2: te:-]",
+            "arrive"
+        ],
+        "t\u032aerma": [
+            "vt-2 [1: ters- 2: ter-]",
+            "turn"
+        ],
+        "t\u032a\u01ddima": [
+            "vt-5 [1: t\u01ddt- 2: t\u01ddtt- 3: t\u01ddi- 4: t\u01ddn- 5: t\u01dd:-]",
+            "ask, inquire"
+        ],
+        "t\u032a\u01ddlma": [
+            "vt-4 [1: t\u01ddl- 2: t\u01ddll- 3: t\u01ddl-]",
+            "push, shove"
+        ],
+        "t\u032a\u01ddnt\u032a\u01ddipa": [
+            "adj.",
+            "straight"
+        ],
+        "t\u032aha": [
+            "n.",
+            "bamboo foot bridge"
+        ],
+        "t\u032ahaima": [
+            "vi-1 [1: thai-]",
+            "be torn, broken, or cut into two parts"
+        ],
+        "t\u032ahambukh\u0254": [
+            "n.",
+            "flat winnowing basket"
+        ],
+        "t\u032ahamma": [
+            "vt-4 [1: thap- 2: thapp- 3: tham-]",
+            "winnow"
+        ],
+        "t\u032ahampu": [
+            "n.",
+            "land, field"
+        ],
+        "t\u032ahaNt\u032ahaNpa": [
+            "adj.",
+            "shining, bright"
+        ],
+        "t\u032aha:ma": [
+            "vi-3 [1: thaN- 2: tha:-]",
+            "get better in health, recover (from disease)"
+        ],
+        "t\u032ahapri": [
+            "n.",
+            "waist-band"
+        ],
+        "t\u032aharama": [
+            "adj.",
+            "steep, precipitous"
+        ],
+        "t\u032ahari\u028ba": [
+            "adj.",
+            "weak, without strength"
+        ],
+        "t\u032ahed\u032a\u0254": [
+            "n.",
+            "vagina."
+        ],
+        "t\u032aheima": [
+            "vt-5 [1: thet- 2: thett- 3: thei- 4: then- 5: the:-]",
+            "lift, remove"
+        ],
+        "t\u032ahelma": [
+            "vi-1 [1: thel-]",
+            "go quickly."
+        ],
+        "t\u032ahemma": [
+            "vi-1 [1: them-]",
+            "grow bushy and spread (of plants, shrubs, etc.)"
+        ],
+        "t\u032ah\u01ddba": [
+            "n.",
+            "forehead, glans (of penis)"
+        ],
+        "t\u032ah\u01ddima": [
+            "vi-6 [1: th\u01ddt- 2: th\u01ddtt- 3: th\u01ddi- 4: th\u01ddn- 5: th\u01dd:-]",
+            "bring up."
+        ],
+        "t\u032ah\u01ddlma": [
+            "vt-4 [1: th\u01ddl- 2: th\u01ddll- 3: th\u01ddl-]",
+            "stir food, that is being boiled, with a ladle"
+        ],
+        "t\u032ah\u01ddmma": [
+            "vt-2 [1: th\u01ddps- 2: th\u01ddm-]",
+            "cause the shaman to dance."
+        ],
+        "t\u032ah\u01ddrma": [
+            "vt-2 [1: th\u01ddrs- 2: th\u01ddr-]",
+            "break open (e.g. floor of a house)"
+        ],
+        "t\u032ah\u01ddt\u032at\u032ai": [
+            "n.",
+            "thumb"
+        ],
+        "t\u032ahilma": [
+            "vi-1 [1: thil-]",
+            "be partially burnt or roasted"
+        ],
+        "t\u032ahi:ma": [
+            "vi-4 [1: thit- 2: thi:- 3: thin-]",
+            "wake up (from sleep)"
+        ],
+        "t\u032ahiri\u028ba": [
+            "n.",
+            "kind of bird."
+        ],
+        "t\u032ah\u0254 remma": [
+            "vi-3 [1: th\u0254 rep- 2: th\u0254 rem-]",
+            "stand"
+        ],
+        "t\u032ah\u0254ma": [
+            "vt-8 [1: th\u0254i- 2: th\u0254- 3: th\u01ddi- 4: th\u01dd- 5: thui- 6: thu- 7:",
+            "bring up, build (a wall from stone), weigh"
+        ],
+        "t\u032ah\u0254:k\u0254": [
+            "n.",
+            "notched log or bamboo trunk used as ladder"
+        ],
+        "t\u032ah\u0254:ma": [
+            "vt-2 [1: th\u0254ks- 2: th\u0254:-]",
+            "arrange, prepare."
+        ],
+        "t\u032ah\u0254:mla": [
+            "adv.",
+            "uphill"
+        ],
+        "t\u032ah\u0254:nam": [
+            "n.",
+            "damp season (from September to November)."
+        ],
+        "t\u032ahud\u032ai": [
+            "n.",
+            "first beer from a batch"
+        ],
+        "t\u032ahuima": [
+            "vt-5 [1: thut- 2: thutt- 3: thui- 4: thun- 5: thu:-]",
+            "pull, braid, spin (on a wasnam 'handspindle')"
+        ],
+        "t\u032ahum": [
+            "n.",
+            "triangular straw-basket in which fermented maize is put and to"
+        ],
+        "t\u032ahumma": [
+            "vt-4 [1: thup- 2: thupp- 3: thum-]",
+            "hem"
+        ],
+        "t\u032ahunam": [
+            "n.",
+            "field"
+        ],
+        "t\u032ahu:ma": [
+            "vt-4 [1: thuN- 2: thuNN- 3: thu:-]",
+            "pierce, prick, stab"
+        ],
+        "t\u032ahu\u028ba": [
+            "n.",
+            "spittle, sputum, saliva"
+        ],
+        "t\u032aimma": [
+            "vt-4 [1: tim- 2: timm- 3: tim-]",
+            "push, press on"
+        ],
+        "t\u032ai:ma": [
+            "vi-5 [1: tik- 2: ti:- 3: tik-]",
+            "thread, string (e.g meat on a bamboo twig)."
+        ],
+        "t\u032ait\u032ai": [
+            "n.",
+            "thorn, scale (of fishes, etc.)"
+        ],
+        "t\u032a\u0254bu\u028ba": [
+            "n.",
+            "life, life span"
+        ],
+        "t\u032a\u0254d\u032ai": [
+            "adv.",
+            "as much as"
+        ],
+        "t\u032a\u0254kt\u0283i": [
+            "n.",
+            "brain"
+        ],
+        "t\u032a\u0254l": [
+            "n.",
+            "ward"
+        ],
+        "t\u032a\u0254ma": [
+            "vt-8 [1: t\u0254i- 2: t\u0254- 3: t\u01ddi- 4: t\u01dd- 5: tui- 6: tu- 7: ta- 8: t\u0254k-]",
+            "receive, get"
+        ],
+        "t\u032a\u0254m\u0254": [
+            "adj.",
+            "third-born"
+        ],
+        "t\u032a\u0254N": [
+            "adv.",
+            "like"
+        ],
+        "t\u032a\u0254Nba": [
+            "n.",
+            "kind of beer."
+        ],
+        "t\u032a\u0254Nk\u01dd": [
+            "adv.",
+            "like"
+        ],
+        "t\u032a\u0254Nkhim": [
+            "n.",
+            "comb"
+        ],
+        "t\u032a\u0254Nk\u0254": [
+            "n.",
+            "pillow"
+        ],
+        "t\u032a\u0254Nrim": [
+            "n.",
+            "head scarf."
+        ],
+        "t\u032a\u0254:t\u0283a\u028ba": [
+            "n.",
+            "dandruff"
+        ],
+        "t\u032a\u0254:ka": [
+            "adv.",
+            "from up."
+        ],
+        "t\u032a\u0254:k\u01dd": [
+            "pron.",
+            "dem. he (at higher level)."
+        ],
+        "t\u032a\u0254:k\u01ddpt\u032a\u0254": [
+            "adv.",
+            "above."
+        ],
+        "t\u032a\u0254:ma": [
+            "vi-3 [1: t\u01ddN- 2: t\u0254:-]",
+            "be satisfied"
+        ],
+        "t\u032a\u0254:pt\u032a\u0254": [
+            "adv.",
+            "above, up"
+        ],
+        "t\u032a\u0254:s\u01ddm": [
+            "n.",
+            "hair of the head"
+        ],
+        "t\u032a\u0254:t\u032a\u0254": [
+            "adv.",
+            "all"
+        ],
+        "t\u032a\u0254s": [
+            "n.",
+            "rite for good crops."
+        ],
+        "t\u032a\u0254sbuN": [
+            "n.",
+            "cornsilk"
+        ],
+        "t\u032a\u0254\u028ba": [
+            "n.",
+            "monal pheasant, Lophophorus impejanus"
+        ],
+        "t\u032aukt\u0283i": [
+            "num.",
+            "six."
+        ],
+        "t\u032aukkha": [
+            "n.",
+            "illness"
+        ],
+        "t\u032aukt\u032a\u0254m": [
+            "n.",
+            "the big toe."
+        ],
+        "t\u032aukt\u032aukulma": [
+            "n.",
+            "turtle dove Streptopelia ssp."
+        ],
+        "t\u032aumbulsuma": [
+            "n.",
+            "cap made of nettle (khi)."
+        ],
+        "t\u032aumt\u0283hi": [
+            "n.",
+            "knee"
+        ],
+        "t\u032aumma": [
+            "vt-2 [1: tups- 2: tum-]",
+            "hurt (of spirit or god)"
+        ],
+        "t\u032auni\u028ba": [
+            "n.",
+            "sorrow"
+        ],
+        "t\u032au:ma": [
+            "vt-2 [1: tuk- 2: tu:-]",
+            "wipe off"
+        ],
+        "t\u032aupa": [
+            "n.",
+            "stick, walking stick"
+        ],
+        "t\u032aupp\u0254": [
+            "n.",
+            "husband"
+        ],
+        "t\u032aupri": [
+            "n.",
+            "bone"
+        ],
+        "t\u032ausbui": [
+            "adj.",
+            "older"
+        ],
+        "t\u032ausk\u0254": [
+            "n.",
+            "chair, place to sit."
+        ],
+        "t\u032aut\u032ael": [
+            "adj.",
+            "deaf"
+        ],
+        "t\u032au\u028ba": [
+            "n.",
+            "pheasant"
+        ],
+        "uima": [
+            "vi-6 [1: ut- 2: ui- 3: utt- 4: un- 5: u:-]",
+            "lie down, fall, topple"
+        ],
+        "uksu": [
+            "adv.",
+            "downward (towards speaker)"
+        ],
+        "ulma": [
+            "vt-4 [1: ul- 2: ull- 3: ul-]",
+            "pull out"
+        ],
+        "uma": [
+            "vi-3 [1: us- 2: u-]",
+            "revive, come to live"
+        ],
+        "umi": [
+            "pron.",
+            "what kind of?"
+        ],
+        "umma": [
+            "vt-2 [1: ups- 2: um-]",
+            "eat by throwing a mouthful at a time into the mouth, catch with"
+        ],
+        "um\u0254m": [
+            "pron.",
+            "for what reason\u01dd"
+        ],
+        "u:ma": [
+            "vt-2 [1: uk- 2: u:-]",
+            "fill with water"
+        ],
+        "upi": [
+            "pron.",
+            "why?"
+        ],
+        "urma": [
+            "vi-1 [1: ur-]",
+            "go round"
+        ],
+        "ur\u0254i": [
+            "pron.",
+            "why?, for what reason?"
+        ],
+        "usai": [
+            "pron.",
+            "with what?, what? (erg)"
+        ],
+        "ut\u032a\u0254Nk\u01ddi": [
+            "pron.",
+            "how?, what kind of?"
+        ],
+        "ut\u032a\u0254Nnai": [
+            "pron.",
+            "how?, in what manner?"
+        ],
+        "\u028ba": [
+            "n.",
+            "rain"
+        ],
+        "\u028bab\u01ddm": [
+            "n.",
+            "clay gourd used for libation during rituals"
+        ],
+        "\u028bat\u0283hu": [
+            "n.",
+            "future"
+        ],
+        "\u028bahalbu": [
+            "n.",
+            "red morning sky."
+        ],
+        "\u028bai": [
+            "n.",
+            "phalanx (of finger)."
+        ],
+        "\u028baima": [
+            "vi-4 [1: wan- 2: wai- 3: wan-]",
+            "fit into a space"
+        ],
+        "\u028balamma": [
+            "n.",
+            "feather"
+        ],
+        "\u028balili": [
+            "n.",
+            "lie"
+        ],
+        "\u028bamma": [
+            "vi-1 [1: wam-]",
+            "go crazy"
+        ],
+        "\u028ba:": [
+            "n.",
+            "chicken"
+        ],
+        "\u028ba:t\u0283ha": [
+            "n.",
+            "chick"
+        ],
+        "\u028ba:d\u032ai": [
+            "n.",
+            "egg (of a chicken)"
+        ],
+        "\u028ba:khil": [
+            "n.",
+            "chicken shit."
+        ],
+        "\u028ba:l": [
+            "n.",
+            "rectum."
+        ],
+        "\u028ba:lput\u0283h\u0254": [
+            "n.",
+            "tapeworm"
+        ],
+        "\u028ba:ma": [
+            "n.",
+            "hen"
+        ],
+        "\u028ba:pa": [
+            "n.",
+            "rooster, male chicken"
+        ],
+        "\u028ba:j\u0254N": [
+            "n.",
+            "henhouse."
+        ],
+        "\u028bart\u032a\u0254p\u0254\u028ba": [
+            "n.",
+            "the alder tree Alnus nepalensis"
+        ],
+        "\u028basem": [
+            "n.",
+            "the fern Gleichenia linearis (Burm.) Clarke"
+        ],
+        "\u028basnam": [
+            "n.",
+            "handspindle"
+        ],
+        "\u028basp\u0254\u028ba": [
+            "n.",
+            "the fig tree Ficus roxburghii"
+        ],
+        "\u028basurem": [
+            "n.",
+            "wax"
+        ],
+        "\u028bat\u032aam": [
+            "adj.",
+            "slow"
+        ],
+        "\u028bat\u032at\u0283ha": [
+            "n.",
+            "male"
+        ],
+        "\u028bat\u032at\u032ahum": [
+            "adv.",
+            "in five days."
+        ],
+        "\u028ba\u028bak\u01dd": [
+            "n.",
+            "watery"
+        ],
+        "\u028bema": [
+            "vt-2 [1: wes- 2: we-]",
+            "strap on, gird on, put on"
+        ],
+        "\u028be:p\u0254\u028ba": [
+            "n.",
+            "the chestnut tree Castanopsis hystrix"
+        ],
+        "\u028b\u01ddima": [
+            "vt-4 [1: w\u01ddi- 2: w\u01ddiy- 3: w\u01ddi-]",
+            "untie (of a rope), loosen"
+        ],
+        "\u028bikim\u0254ks": [
+            "adv.",
+            "very quickly"
+        ],
+        "\u028b\u0254d\u032aerp\u0254\u028ba": [
+            "n.",
+            "the tree Sauraja nepalensis"
+        ],
+        "\u028b\u0254kp\u0254ld\u032a\u0254na": [
+            "adv.",
+            "cross-legged."
+        ],
+        "\u028b\u0254ksip\u0254\u028ba": [
+            "n.",
+            "the tree Engelhardtia spicata"
+        ],
+        "\u028b\u0254m\u0254": [
+            "n.",
+            "trap"
+        ],
+        "\u028b\u0254mr\u0254": [
+            "n.",
+            "loincloth"
+        ],
+        "\u028b\u0254:ma": [
+            "vi-3 [1: w\u0254k- 2: w\u0254:-]",
+            "cry for help"
+        ],
+        "\u028b\u0254s\u0254": [
+            "n.",
+            "headgear made of the feathers of peacock and chicken and worn"
+        ],
+        "\u028b\u0254\u028b\u0254": [
+            "adj.",
+            "all right, in good health"
+        ],
+        "ja": [
+            "n.",
+            "edge of a blade of a knife"
+        ],
+        "jaber": [
+            "n.",
+            "wild dog, Cyon rutilans"
+        ],
+        "jat\u0283habim": [
+            "n.",
+            "broom"
+        ],
+        "jaima": [
+            "vt-5 [1: yat- 2: yatt- 3: yai- 4: yan- 5: ya:-]",
+            "finish (+ infinitive)"
+        ],
+        "jakp\u0254\u028ba": [
+            "n.",
+            "name of a tree."
+        ],
+        "jama": [
+            "vt-2 [1: yas- 2: ya-]",
+            "tickle"
+        ],
+        "jamma": [
+            "vt-4 [1: yap- 2: yapp- 3: yam-]",
+            "pick (with one's finger)."
+        ],
+        "jasi": [
+            "n.",
+            "Indian elk"
+        ],
+        "jemma": [
+            "vt-4 [1: yep- 2: yepp- 3: yem-]",
+            "eat greedily"
+        ],
+        "jenam": [
+            "n.",
+            "rainy season, monsoon (from July to September)."
+        ],
+        "je:ma": [
+            "vt-2 [1: yen- 2: ye:-]",
+            "hear"
+        ],
+        "j\u01ddma": [
+            "vi-3 [1: y\u01dds- 2: y\u01dd-]",
+            "be damaged"
+        ],
+        "j\u01ddmma": [
+            "vt-4 [1: y\u01ddp- 2: y\u01ddpp- 3: y\u01ddm-]",
+            "crush, bruise"
+        ],
+        "j\u01ddsi": [
+            "n.",
+            "elder sister's or younger sibling's child"
+        ],
+        "ji": [
+            "n.",
+            "dry field"
+        ],
+        "jika": [
+            " ",
+            "since"
+        ],
+        "ji:ma": [
+            "vt-2 [1: yik- 2: yi:-]",
+            "1. grind, turn around 2. live"
+        ],
+        "j\u0254": [
+            "n.",
+            "footprint"
+        ],
+        "j\u0254ksi": [
+            "n.",
+            "arum, Calladium arumaciae"
+        ],
+        "j\u0254ma": [
+            "vt-8 [1: y\u0254i- 2: y\u0254- 3: y\u01ddi- 4: y\u01dd- 5: yui- 6: yu- 7: ya- 8: y\u0254k-]",
+            "feed"
+        ],
+        "j\u0254Nt\u0283ha": [
+            "n.",
+            "offspring of elder brother"
+        ],
+        "j\u0254:ma": [
+            "vt-4 [1: y\u0254N- 2: y\u0254NN- 3: y\u0254:-]",
+            "sift, pass through a sieve"
+        ],
+        "j\u0254:N": [
+            "n.",
+            "nest, spider web"
+        ],
+        "j\u0254psi": [
+            "n.",
+            "spindle used in weaving at a loom"
+        ],
+        "j\u0254sip\u0254\u028ba": [
+            "n.",
+            "the tree Schima wallichii"
+        ],
+        "j\u0254umuld\u032au": [
+            "n.",
+            "fine river sand"
+        ],
+        "j\u0254\u028ba": [
+            "n.",
+            "river"
+        ],
+        "ju": [
+            "n.",
+            "wife"
+        ],
+        "jud\u032a\u0254\u028ba": [
+            "n.",
+            "kind of bird."
+        ],
+        "juima": [
+            "vt-5 [1: yut- 2: yutt- 3: yui- 4: yun- 5: yu:-]",
+            "bring down"
+        ],
+        "jul": [
+            "n.",
+            "haze"
+        ],
+        "juma": [
+            "vi-3 [1: yu:- 2: yu-]",
+            "come down"
+        ],
+        "ju:ma": [
+            "vt-2 [1: yuks- 2: yu:-]",
+            "put"
+        ],
+        "ju:pa": [
+            "n.",
+            "evening"
+        ],
+        "ju\u028ba": [
+            "n.",
+            "boiled millet paste"
+        ]
+    }
+}

@@ -1,0 +1,371 @@
+ACKNOWLEDGEMENTS
+First of all I would like to thank Ratna Rām Rãî and his family for
+the hospitality I enjoyed during my stays in Cheskām. Without
+their help, the task of writing a grammar of Kulung would have
+been a difficult one. Living with the Kulung in the beautiful hills
+of Nepal was a moving and unforgettable experience. Furthermore,
+I should like to thank Prof. Dr. George van Driem, who inspired.
+me to go to Nepal and gave me a lot of support during each stage
+of
+my
+research. Thanks go to Prof. Dr. Frederik Kortlandt and to
+Prof. Dr. Robert Beekes, who also kindly read the manuscript and
+gave me valuable suggestions. Research for this grammar was con-
+ducted as part of the Himalayan Languages Project of Leiden Uni-
+versity, a research programme supported by the Netherlands Orga-
+nisation for Scientific Research (NWO) and other sponsors. Finally,
+I would like to thank Brill Academic Publishers for accepting this
+revised version of my dissertation in the series Languages of the
+Greater Himalayan Region.
+123
+2
+3
+A
+adj.
+ABL
+ABS
+adv.
+AFF
+AP
+ASS
+BNF
+conj.
+CLF
+CM
+CND
+CNT
+COM
+CTR
+d
+dem.
+DIM
+DMT
+DWN
+DUR
+e
+EMO
+EMP
+ERG
+GEN
+HOR
+i
+IMA
+IMP
+INC
+INF
+INT
+interj.
+IRR
+LOC
+MED
+ABBREVIATIONS AND SYMBOLS
+first person
+second person
+third person
+agent
+adjective
+ablative case
+absolutive case
+adverb
+affirmative particle
+active participle
+assertive particle
+benefactive auxiliary
+conjunction
+classifier
+compound verb marker
+conditional subordinator
+continuous auxiliary
+comitative
+contrastive particle
+dual
+demonstrative
+diminutive particle
+dimittive auxiliary
+downward auxiliary
+durative auxiliary
+exclusive
+emotion particle
+emphatic particle
+ergative case
+genitive case
+horizontal auxiliary
+inclusive
+intermediate action auxiliary
+imperative
+inceptive auxiliary
+infinitive
+intensive
+interjection
+irrealis
+locative case
+mediative case
+xiv
+MOM
+11.
+NEG
+nis
+ns
+num.
+NPT
+OPT
+obs.
+P
+P
+PER
+pf.
+PFG
+PP
+PRB
+PRG
+pron.
+PT
+Q
+REP
+S
+sf.
+SUB
+SUP
+Σ
+TEL
+TOP
+UP
+VOC
+35302.◊1
+[]
+//
+(3-3)ns
+ABBREVIATIONS AND SYMBOLS
+momentaneous auxiliary
+noun
+negation
+non-first person singular
+non-singular
+numeral
+non-preterite
+optative
+obscene
+plural
+patient of a transitive verb
+perseverative auxiliary
+prefixal slot
+perfect gerund
+passive participle
+probability participle
+present gerund
+pronoun
+preterite
+question particle
+reported speech particle
+singular
+suffixal slot
+subordinating suffix
+supine
+verb stem
+telic auxiliary
+topic
+upward auxiliary
+vocative case
+intransitive verb
+reflexive verb
+transitive verb
+phonetic transcription
+phonemic transcription
+morpheme boundary
+morpheme/allomorph
+indicates the direction of a transitive relationship
+alternates with
+indicates a transitive relationship between a third person
+agent and a third person patient, in which at least one ac-
+tant is non-singular
+EDITORIAL FOREWORD
+Gerard Tolsma is to be congratulated for this fundamental contri-
+bution to linguistics and to the Kulung people. The Kulung communi-
+ty in Nepal has long awaited the appearance of this grammar. Schol-
+ars of the Kulung community even actively assisted in its completion.
+In February 1998, Bhupa Dhoj Thomros and Yam Bahadur Kulung
+sent to the author and the Himalayan Languages Project in Leiden a
+meticulous thirty-page handwritten list of corrigenda, suggestions and
+alternative analyses, based on an earlier draft of the present grammar.
+Most emendations proposed by these Kulung scholars were incorpor-
+ated by the author into the 1999 draft of the grammar. The contribu-
+tion of the two Kulung scholars has been archived in Leiden for future
+reference by Kiranti scholars together with a description of Kulung
+rituals by Tolsma that is more detailed than the account provided in
+this grammar.
+Jean Robert Opgenort, author of the Wambule and Jero grammars
+and the phonological reconstruction of Proto-Kiranti previously pub-
+lished in this series, deserves much thanks for converting the entire
+manuscript of this grammar into a properly formatted electronic docu-
+ment with usable fonts after the work had been allowed to languish
+after the author's Leiden doctoral defence in June 1999. A helpful list
+of comments and corrigenda generously provided by Prof. Dr. Robert
+Beekes in July 1999 also proved useful in preparing the present Brill
+edition. The map and kinship diagrams were redrawn on the basis of a
+copy of the dissertation used at the defence.
+George van Driem
+Amsterdam, 1 March 2006
+CHAPTER ONE
+INTRODUCTION
+1.1 The language
+1.1.1 The Kulung language
+Kulung is a Rãï language spoken by an estimated 15,000 people in
+some ten villages along the upper reaches of the Hungu or Hongu
+river (a tributary of the Dūdhkosī), in Solu Khumbu District of Sagar-
+māthā Zone in eastern Nepal. Although the indigenous name for the
+language is kuluriŋ, the term ‘Kulung' will be used throughout this
+monograph since it is the name that is found in the literature. The
+main Kulung-speaking villages are Chemsin and Cheskäm. The par-
+ticular dialect of the language spoken in these two villages is con-
+sidered by the Kulung to be the most original form of their language.
+Downstream, on both sides of the Hungu river, in villages that are
+now called Lucām, Gudel, Cacalun, Nãmlun, Pelmän, Bun, Chekmā,
+and Sātdi, a less significant dialect of Kulung is spoken. Ethnic Ku-
+lung living in the village of Sotan call their language sotto rin 'Sotān
+language', but consider themselves to be Kulung and easily under-
+stand the dialect of Kulung spoken in Chemsin and Cheskäm. In the
+Gudel dialect, for example, the verb c'əmma ‘to dance' is used instead
+of the regular verb sil bama, which is used in the Kulung dialect of
+Cheskām and Chemsin. Another example is the word sela 'tomor-
+row', which is used in all varieties of Kulung except in the dialect
+spoken in Chemsin and Cheskäm, where the word desa is used. The
+Kulung long vowel /u:/, which is realised as [yu] before the vowel /e/,
+was further fronted in such environments in the Sotan dialect to merge
+with the phoneme /i/, e.g. Kulung tu:-e [tyy-e] 'it is' is realised as
+/ti:-e/ in the Sotān dialect. Likewise Kulung rum 'salt' has become
+rim in the Sotãn dialect. Another feature of the Sotan dialect is secon-
+2
+dary vowel length as a result of consonant cluster reduction (Tolsma:
+1999).
+A few correspondences between Kulung and the Sotän dialect are
+listed below.
+KULUNG
+p'әpa
+mama
+ŋalilop
+pak-ni-wa
+tu:-e
+man-tu
+rum
+irbum
+tupri
+daulu
+tumchi
+tuma
+chubui
+moks
+hoks-wa
+muks
+haide:
+da:loi
+kaŋ
+kau
+SOTĀŃ DIALECT
+p"opa
+moma
+ŋalilop
+pok-ni-wa
+ti:-e
+man-ti
+rim
+i:bim
+tipri
+dauli
+timchi
+tima
+chibui
+CHAPTER ONE
+mois
+hors-wa
+muis
+haile:
+harloi
+kɛŋ
+kou
+ENGLISH
+'grandfather'
+'grandmother'
+'beautiful'
+'Wake up!'
+'it is'
+'it is not'
+'salt'
+'one'
+'bone'
+'chin'
+'knee'
+'to be'
+'ash'
+'son-in-law'
+'throw!'
+'eye'
+'when'
+'whither'
+'tooth'
+'water'
+[ca ?is-a]
+[caisa]
+'It tasted bad.'
+Table 1: Correspondences between Kulung and the Sotan dialect
+27°30' N
+Dūdhkosi
+N
+The Kulung Homeland
+86°45' E
+nuluI
+Sotān
+Hungu
+Sătdi >
+Pelmān
+Bun >
+Chekmā
+Cheskām
+Gudel
+Chemsin
+◇ Nāmlun
+◇ Lucām
+◇ Cacalun
+1 km
+INTRODUCTION
+3
+4
+CHAPTER ONE
+Further downstream in the village Hulu, people refer to themselves
+as nac'iriŋ, but their language may also be considered as a dialect of
+Kulung. The oral tradition telling of the migration of the Kulung peo-
+ple is supported by linguistic evidence. Migrations to other parts of
+Nepal have taken place in recent years. In the village of Bālā in
+Sankhuvā Sabha District, for example, there is a small population of
+Kulung, who have retained their language despite the majority of the
+population of that village being Mevähän. The Kulung have two Rãi
+groups as neighbours, the Khaling and the Thulung, whom they call
+k'al and t'ulu respectively. Representatives of other Nepalese ethnic
+groups living in Cheskām are the two families of Kāmī, blacksmiths,
+and the two families of Damãīm tailors. Whilst members of these
+families speak Nepali as their native language, they are also essential-
+ly fluent in Kulung. The two Kāmī families have been living in Ches-
+kām for seven generations and still blame their forefathers for having
+moved from the Kathmandu valley to this remote place. A few Sherpa
+families, living in the neighbouring village of Māmerku, are fluent in
+both Sherpa and Nepali as well as having a good command of Ku-
+lung.
+In the nineteenth century, a short vocabulary of Kulung, tran-
+scribed as Kulúng 'ya, was written by Hodgson (1880: 176-193). The
+Kulung words in this vocabulary are given in a form of transliteration
+that is difficult to understand, although the language is certainly the
+same as the language that is dealt with in this monograph. The Kulung
+language is very briefly treated both in the third volume of the Lin-
+guistic Survey of India (Grierson 1909) and in Wolfenden (1935). The
+latter publication includes a short text in Kulung followed by some
+grammatical remarks, thus providing a little more information on the
+Kulung language.
+In recent years, a Kulung vocabulary has been written by Kṛṣṇa
+Prasād Rāī et al. (1975), containing Kulung words in Devanāgarī
+script. This vocabulary contains many loan words from Nepali, and
+much of the indigenous Kulung lexicon is absent. The same applies to
+the dictionary recently written by Kṛṣṇabahādur Gānkhu Rãi (2049
+VS), a native speaker of Kulung. The latter dictionary is full of neolo-
+gisms which have been created by the author and are not part of the
+indigenous Kulung lexicon. Another disadvantage of the dictionary is
+that verbs are given in their infinitive without indicating the possible
+verb stems and that vowel length is not consistently marked. Further

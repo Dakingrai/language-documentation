@@ -1,0 +1,499 @@
+170
+171
+172
+VERB STEM MORPHOLOGY
+tothon-te
+come.up.here-IMP
+'Come up here!'
+A small group of verbs of motion, consisting of a sequence of two
+otherwise independent verb stems, form compound constructions
+which differ from the above-mentioned compound verbs.
+eksa
+ban-tek-ni-te
+hither come-arrive-2p-IMP
+'Comel here!'
+yu:a-tek-wa
+45
+come.down-arrive-IMP
+'Comes down here!'
+4.1 Conjugations
+The different conjugations in Kulung are based on paradigmatically
+conditioned stem alternations. The affixes of the intransitive, transi-
+tive and reflexive paradigms are the same in all conjugations. Six in-
+transitive, seven transitive and three reflexive conjugations can be
+distinguished. Some of the auxilaries show irregular conjugations,
+which are characterised by stem suppletion. The irregular transitive
+verb ho:myema 'to leave', for example, has a suppletive stem <yem->
+in the negated preterite forms. Stem alternations involve Ablaut or
+stem-final consonant deletion or both. Full paradigms are given in
+Appendix II. Verb stems (Σ) are numbered from 21 to 28.
+4.2 Intransitive conjugations
+4.2.1 The first conjugation (vi-1)
+The first conjugation of the intransitive paradigm (vi-1) is character-
+ised by one stem for all verb forms of the simplex paradigm. Verbs
+46
+with a 1 ending in one of the liquids (-r,-1, -m) belong to this conju-
+gation.
+173
+174
+175
+perma
+[1: per-]
+per-ya-ka-no
+mam-per-na
+176
+namma
+[1: nam-]
+nam-ni
+nam-e
+CHAPTER FOUR
+imma
+[1: ims-2: im-]
+ims-o:
+man-im-ŋa
+4.2.2 The second conjugation (vi-2)
+The second conjugation (vi-2), the most numerous conjugation, has
+two different stems. The 2 is formed either by deletion of the stem-
+final consonant or consonants and lengthening of the stem vowel or
+by mutation of the stem-final consonant or consonants. This Σ2 oc-
+curs only in the negative preterite forms and the infinitive and the
+non-finite constructions which are derived from the infinitival stem.
+The following synchronic rules show how the 2 can be derived from
+the 1. A stem Σ1 ending in the fricative /-s/, preceded by either a
+vowel or a liquid, i.e. stems ending in /-s/, /-ms/, /-ls/ or /-rs/, forms its
+Σ2 by deletion of the stem-final fricative /-s/.
+'to sleep'
+'I sleep.'
+'I didn't sleep.'
+bulma
+[1: buls-2: bul-]
+buls-te
+mam-bul-s-ka
+'to fly'
+'Wepe shan't fly.'
+'I didn't fly.'
+'to smell'
+'YouP smell."
+'She smells.'
+'to run'
+'Run!'
+'Wede didn't run.'
+177
+178
+179
+180
+181
+VERB STEM MORPHOLOGY
+gema
+[1: ges-2: ge-]
+182
+ges-ya-no
+man-ge-yi-ka
+tharma
+[1: t'ərs- 2: t'ər-]
+thars-e
+man-thar
+A stem E1 ending in a long vowel /-u:/ or /-i:/ forms its 2 by short-
+ening of the vowel.
+yuma
+[1: yu:-2: yu-]
+yur-a
+man-yu-s-ka
+khima
+[1: ki:-2: k'i-]
+khi-a
+maŋ-k'i
+tho:ma
+[1: thoŋ-2: tho:-]
+t"oŋ-wa
+man-tho:-na
+'to laugh'
+'Wepi don't laugh.'
+'Wepe didn't laugh.'
+neima
+[1: nen- 2: ne:-]
+nen-i
+man-ne-na
+'to be broken open'
+'It is broken open.'
+'It wasn't broken open.'
+'to come down'
+A stem 1 ending in one of the nasals /-ŋ/ or /-en/ forms its 2 by
+deleting the stem-final nasal with compensatory vowel lengthening.
+'to come up'
+'Yous came down.'
+'Wede didn't come down.'
+'to burn'
+'It burnt.'
+'It didn't burn.'
+'Come up!'
+'I didn't come up.'
+47
+'to talk'
+'Wepi talked.'
+'Yous didn't talk.'
+A stem 1 ending in a dorso-velar stop followed by /-s/ forms its [2
+by deletion of the two stem-final consonants with compensatory
+vowel lengthening.
+48
+183
+184
+185
+A stem E1 ending in /-ps/ shows deletion of the stem-final consonant
+and mutation of the final stop in the formation of its [2.
+'to wrap up'
+'You don't wrap it up.'
+'I didn't wrap it up.'
+humma
+'to fall from a height'
+[1: hups-2: hum-]
+'It fell from a height.'
+hups-a
+maŋ-hum
+'It didn't fall from a height.'
+Finally, A stem Σl ending in final /-p/ changes its final to /-m/,
+'to be quick'
+'You' were quick.'
+'You' weren't quick.'
+186
+churma
+[1: c'uks- 2: c'u:-]
+chuks-na-wa
+man-chur
+187
+bəmma
+[1: bəps- 2: bəm-]
+baps-ni-no
+mam-bəm-ŋa
+namma
+[1: nap-2: nam-]
+nap-a
+man-nam-na
+CHAPTER FOUR
+'to cough'
+'Dod not cough!'
+'He didn't cough.'
+4.2.3 The third conjugation (vi-3)
+The third conjugation (vi-3) has a 2 formed by a change of the
+stem-final consonant and a 3 in the negated preterite forms with a
+second person subject.
+man-khai-na
+man-k"an-ni
+khaima
+'to go'
+[1: kħat- 2: k"ai- 3: k'an-]
+khat-ya
+'Let'spi go!'
+'I didn't go.'
+'YouP didn't go.'
+In the conjugation of baima, the Σ3 and Σl happen to be the same.
+'to come (at a horizontal level)'
+188
+189
+VERB STEM MORPHOLOGY
+190
+baima
+[1: ban- 2: bai- 3: ban-]
+ban-o:-no
+mam-bai-ci
+mam-ban-ci
+4.2.4 The fourth conjugation (vi-4)
+The fourth conjugation (vi-4) has a stem [2 formed by loss of the
+stem-final dorso-velar stop with compensatory lenghthening. A stem
+3 occurs in negated preterite forms with a first person dual subject.
+'I don't come.'
+'Wedi didn't come.'
+'You didn't come.'
+mam-po:-nci
+mam-pok-ci
+poima
+[1: pak- 2: po:- 3: pok-]
+pək-ya-ka
+'to wake up'
+'Wepe wake up.'
+2
+'Youd didn't wake up.
+Wedi didn't wake up.'
+'to speak'
+pi:ma
+[1: pik- 2: pi:- 3: pik-]
+pik-ci-ka
+mam-pi:-yi
+mam-pik-s-ka
+49
+'Wede speak.'
+'Wepi didn't speak.'
+'Wede didn't speak.'
+4.2.5 The fifth conjugation (vi-5)
+The fifth conjugation (vi-5) has five different stems. The Σ2, formed
+by stem final consonant mutation, appears only in negative preterite
+forms. The 3 shows stem-final consonant doubling and appears in
+the second person singular and third person forms. The 24 occurs in
+negated first dual inclusive preterite and negated preterite forms with
+a second person subject. The 5 is found in the negated first dual
+exclusive preterite.
+50
+191
+192
+193
+194
+aima
+'to return'
+[1: at- 2: ai- 3: att- 4: an- 5: ar-]
+at-or
+'I returned.'
+man-ai
+att-e
+man-an-ci
+man-a:-s-ka
+CHAPTER FOUR
+man-lan-ci
+man-la:-s-ka
+laima
+'to have enough'
+[1: lai- 2: lai- 3: laiy- 4: lan- 5: lar-]
+lai-ya-ka
+man-lai
+laiy-a
+'She didn't return.'
+'You will return.'
+'Youdi didn't return.”
+'Wede didn't return.'
+4.2.6 The sixth conjugation (vi-6)
+The sixth conjugation (vi-6) is the open vowel stem conjugation.
+Three types of Ablaut are distinguished. The sixth conjugation has
+four different stems.
+'Wepe have enough.'
+lo
+lai-no
+man-lə-ŋa
+'It wasn't enough.'
+'It's enough.'
+"Youdi didn't have enough.'
+'Wede didn't have enough.'
+tama
+[1: toi- 2: to- 3: tai- 4: ta-]
+toi-o:
+'I come.'
+to
+'I came.'
+tai-e
+man-ta
+'to come'
+'He comes.'
+'He didn't come.'
+ləma
+'to play'
+[1: loi-2: lo-3: lai-4: la-]
+loi-o:-no
+'I don't play.'
+'I played.'
+'Yous don't play.'
+'I didn't play.'
+The conjugation loma ‘to tell’ differs from loma 'to play' only in its
+having a different vowel in the [4.
+195
+1s
+1di
+1de
+1pi
+1pe
+2s
+2d
+2p
+3
+loma
+'to tell'
+[1: loi- 2: lo- 3: lai- 4: lo-]
+loi-or-no
+lo
+lai-no
+man-lo-na
+VERB STEM MORPHOLOGY
+The pattern of stem alternation of the intransitive conjugations is re-
+presented in the diagram below. In each row of the diagram, the verb
+stems are given in the following order: (1) affirmative non-preterite
+stem, (2) affirmative preterite stem, (3) negative non-preterite stem,
+(4) negative preterite stem.
+vi-2
+1-1-1-2
+vi-3
+1-1-1-2
+'I don't tell.'
+'I told.'
+'You don't tell.'
+'I didn't tell.'
+1-1-1-3
+vi-4
+1-1-1-2
+1-1-1-3
+1-1-1-2
+vi-5
+1-1-1-2
+1-1-1-4
+1-1-1-5
+1-1-1-2
+3-3-1-4
+1-1-1-4
+1-1-1-2
+3-3-1-2
+Table 12: Intransitive conjugations
+vi-6
+1-2-1-4
+51
+3-4-3-4
+4.3 Transitive conjugations
+4.3.1 The first conjugation (vt-i
+The first transitive conjugation (vt-1) is characterised by a base stem
+for all forms of the simplex paradigm. Verbs with a verb stem ending
+in /-r/ belong to this type.
+52
+196
+197
+198
+kerma
+[1: ker-]
+ker-am-no
+man-ker-ni
+199
+k"urma
+[1: k'ur-]
+k"ur-u
+maŋ-k¹ur-i
+200
+hurma
+[1: hurs- 2: hur-]
+hurs-o:-no
+maŋ-hur-na
+4.3.2 The second conjugation (vt-2)
+The second conjugation (vt-2) has two stems. The Σ2 appears only in
+negated preterite forms and in 1s-2 forms. Synchronic rules for de-
+riving 2 from El are presented below. A stem Σ1 ending in a liquid
+followed by /s/ forms its 2 by elision of the /s/, e.g. /-rs/>/-r/, etc.
+CHAPTER FOUR
+che:ma
+[1: chek-2: c'e:-]
+chek-u-ci
+che:-yan
+'to hit'
+yeima
+[1: yen- 2:yei-]
+yen-a
+man-yei-ci
+'Wepi don't hit him.'
+'He didn't hit youp.'
+'to carry'
+'He carried it.'
+*WePi didn't carry it.'
+Verbs with a stem Σ1 ending in /-ek/ form a Σ2 by deletion of the
+stem-final consonant with compensatory vowel lengthening. Verbs
+with a stem El ending in /-en/ have a stem 2 in /-ei/.
+'to pinch'
+'I pinch them.'
+'I pinch you³.³
+'to wash hair'
+'I won't wash my hair.'
+'You' didn't wash your hair.'
+'to hear'
+'He hears it.'
+"They didn't hear it.'
+201
+Verbs with a stem Σ1 ending in /-ks/ have a Σ2, which is formed by
+deleting the two stem-final consonants with compensatory vowel
+lengthening.
+202
+203
+VERB STEM MORPHOLOGY
+204
+khu:ma
+[1: k'uks- 2: k'u:-]
+k"uks-um
+man-k"u:-yi-ka
+horma
+[1: hoks- 2: ho:-]
+hoks-a-num
+man-ho:-s-ka
+Verbs with a stem Σl ending in /-ps/ delete the stem-final /-s/ and
+change the bilabial stop into a bilabial nasal to form their [2.
+k'amma
+[1: k'aps- 2: k'am-]
+k"aps-num-no
+maŋ-k"am-ŋa
+cumma
+[1: cups-2: cum-]
+cups-u
+man-cum-na
+'to wear on head or shoulder'
+'Wepi wore it.'
+'Wepe didn't wear it.'
+'to throw away'
+'YouP threw it away.'
+'Wede didn't throw it away.'
+'to wear'
+'You don't wear it.'
+'I didn't wear it.'
+53
+'to load'
+'I loaded it.'
+"Yous didn't load it.'
+4.3.3 The third conjugation (vt-3)
+The third transitive conjugation (vt-3) has three stems. The stem [2,
+formed by deletion of the final dorso-velar stop with compensatory
+vowel lengthening, appears in negated preterite forms and in 1s-2
+forms. The Σ3, derived from the Σ1 by Ablaut of the stem vowel, is
+found in negated preterite forms with a first person dual agent and a
+third person patient, in forms with a first person dual patient, and in
+negated preterite (3-3)ns forms.
+54
+205
+206
+207
+CHAPTER FOUR
+208
+go:ma
+[1: gak- 2: go:- 3: gok-]
+gək-e
+gor-yan
+man-gok-ci
+'to kick'
+'He kicks you'.'
+'I kick yous.'
+'He didn't kick them.'
+poima
+[1: pak- 2: por- 3: pok-]
+pək-a
+po:-yan-ci-no
+mam-pok-ci
+'to wake up (vt.)'
+4.3.4 The fourth conjugation (vt-4)
+The fourth transitive conjugation (vt-4) has three different verb stems.
+The 2, formed by the doubling of the final consonant of the 1,
+occurs in 2s 3s non-preterite and affirmative preterite, 2s-3ns non-
+preterite, 3s 3s non-preterite and affirmative preterite, and (3→→3)ns
+non-preterite forms. The 3, occuring in all the forms of the negative
+preterite and in all forms where a 1s-2 relation is expressed, can be
+derived from the E1 by means of the following synchronic rules. First
+of all, a stem El ending in /-s/ deletes the stem-final consonant.
+huŋŋ-ə
+maŋ-hur-ci
+'He woke you up.'
+'I'll not wake youd up.'
+'Wedi didn't wake him up.'
+dima
+[1: dis- 2: diss-3: di-]
+dis-u
+diss-ə
+man-di-ŋa
+'to to cause to fall, drop'
+Verbs with a stem E1 ending in /-n/ forms its 2 by deletion of the
+stem-final nasal with compensatory vowel lengthening.
+'I dropped it.'
+'He drops it.'
+'I didn't drop it.'
+hurma
+[1: hun- 2: hunny- 3: hur-]
+huŋ-am-no
+'to wait for'
+'We 'llpi won't wait for him.'
+'He'll wait for him.'
+‘They didn't wait for usdi

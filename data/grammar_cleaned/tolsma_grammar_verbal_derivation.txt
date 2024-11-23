@@ -1,0 +1,24 @@
+VERBAL DERIVATION
+As a general rule, transitive verbs have agents in the ergative case and take transitive verbal endings. In a number of Kulung verbs, the transitive counterpart of an intransitive verb shows the same verb stems. For example the verb poma 'to wake up', which also happens to be both transitive and intransitive in English, has the same three verb stems [1: pǝk 2: po:- 3: pok-] in both the transitive and intransitive paradigm in Kulung. In forms where there is no difference between the transitive and intransitive verbal ending, ambiguity arises if no use is made of the personal pronoun.
+Examples of verbs that have the same verb stems in the intransitive
+and transitive conjugation are given below.
+ka:ma ‘to hang (vi.)'
+ka:ma ‘to hang (vt.)'
+aima 'to return (vi.)'
+aima ‘to answer (vt.)'
+mama 'to be lost (vi.)'
+mama 'to lose (vt.)'
+In some pairs of verbs, the transitive counterpart belongs to a different conjugation, e.g. the intransitive verb cima 'to be wet' belongs to the conjugation vi-2 and has two different verb stems: [1: ci:-2: ci-].
+The transitive counterpart of this verb is cima 'to make wet', which belongs to the fourth conjugation vt-4 with three different verb stems [1: ci- 2: ci:y- 3: ci-].
+Likewise, tʰǝlma vi-1 [1: tʰǝl-] 'to be stirred with a ladle (of stuff that is being boiled)' differs from its transitive counterpart tʰǝlma vt-4 [1:
+tʰǝl- 2: tʰǝll- 3: tʰǝl-] 'to stir food, that is being boiled, with a ladle' in belonging to another conjugation.
+Intransitive verbs that do not have a transitive counterpart may form the corresponding transitive verb with the aid of the productive causativiser mima 'to cause', e.g. ke:ma vi-2 [1: keŋ- 2: ke:-] 'to become cold, cool off has as transitive counterpart ke: mima 'to cool, to cause to become cold'.
+Four verbs show transitive endings with a noun in the absolutive case. Since the difference between transitivity and intransitivity in languages can only be defined in morphosyntactic terms, these verbs are classified as transitive verbs. A possible explanation is that these verbs are constructed with an unexpressed agent, a supernatural force, for example. The nouns in the absolutive are then considered as the patients of these verbs.
+Some verbs expressing uncontrolled emotions are formed with the verb lǝma 'to feel'. In this construction, the intransitive verb is constructed with two absolutives.
+saka lǝma ‘to feel hungry'
+wamma lǝma 'to feel thirsty'
+hakamma lǝma 'to yawn'
+hacʰi lǝma 'to sneeze'
+kʰǝbǝrma lǝma 'to burp'
+The productive causativiser
+The verb mima vt-4 [1: mi:- 2: mi:y- 3: mi-] ‘to cause to' serves as the productive causativiser. From the intransitive verb harma vi-1 [1: har-] 'to be dry', for example, a causative verb harmima 'to dry' is derived. Almost every verb can be found with the productive causativiser. Examples are the following: gema 'to laugh', gemima 'to make laugh', kʰurma ‘to carry', kʰurmima ‘to cause to carry', du:ma 'to drink', du:mima ‘to cause to drink'.

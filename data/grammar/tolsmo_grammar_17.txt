@@ -1,0 +1,456 @@
+621
+622
+623
+624
+625
+626
+627
+koŋ-kə di
+I-TOP millet.beer
+PARTICLES
+pi:-0:-yo
+give-1s.NPT-Q
+'Are you giving millet beer to me [and not to someone
+else]?'
+an-a-kə
+cai-ko
+yous-ERG-TOP eat-Q
+'Are you going to eat?'
+harro-i
+where-Q go-d
+khat-ci anci-kə
+The bracelet and the wooden jug in examples (624) and (625) become
+the theme of the scenario by addition of the topicalising suffix.
+'Where are you going?'
+youd-TOP
+am-chan-kə
+wai
+yours-bracelet-TOP wear
+koŋ-kə saka
+I-TOP be.hungry
+‘I am hungry.'
+an
+yous
+'Shall I put yours bracelet on?"
+mi-yan-o
+cause-1s 2.NPT-Q
+o:-p¹am-ka
+man-tu
+my-wooden.jug-TOP NEG.PT-be
+'I don't have a wooden jug.'
+kon-lo khai-m min-do-ka
+I-COM go-INF
+149
+do
+think-CND-TOP come.on
+khat-ci
+go-d
+'If you would like to go with me, let's go!'
+150
+628
+629
+630
+ha:pi
+where sickle just
+'Where is the sickle that was just here?'
+12.3 The contrastive particle <-ne>
+The contrastive particle <-ne> (CTR) has contrastive and adversative
+meaning. The contrastive particle <-ne> has a semantic scope that
+largely corresponds to the Nepalese particle ta. The contrastive parti-
+cle <-ne> is the same as the Khaling ‘emphatic' particle <ne> (cf.
+Toba 1979: 37) and the Dumi 'prosodic particle' <ne> (van Driem
+1993a: 401). The particle has an allomorph <-n> after words ending
+in a vowel. The contrastive particle <-ne> can be added after nouns,
+personal pronouns, and adverbs.
+keika-n
+ese-n
+espa-n
+khikka-n
+CHAPTER TWELVE
+belo at"uiwa
+ca
+taste
+tur-a-kə-kə
+be-PT-SUB-TOP
+The contrastive meaning can be aptly illustrated by example (630).
+This scenario takes places in a household where the occupants are
+preparing tea in the afternoon. Having boiled the water, they added
+tea leaves and drank the tea without sugar. That did not taste very
+good, but after sugar was added to the tea, the lady said the following.
+nə
+wepe-CTR
+today-CTR
+yesterday-CTR
+after-CTR
+so ma
+be.good:PT very
+'But now it tastes very good.'
+ontolo-n
+now-CTR
+In the example (631), an old Kulung man was complaining about his
+old age and said that it was time for him to die. Referring to me he
+said.
+631
+632
+633
+634
+635
+In many instances, the particle adds just a slight contrastive notion to
+the sentence.
+636
+an-ne
+yous-CTR
+637
+so:lo
+young.man
+'But you are but a young man.'
+keche
+before
+PARTICLES
+chur-a
+become-PT
+an
+bajar khat-e-yo di-n
+yous market go-nls-Q millet.beer-CTR
+khet-na-wa
+buy-NEG.NPT-IMP
+'If you go to the market, don't buy millet beer.'
+The meaning of the particle is adversative in the next examples.
+koŋ-ne mam-be-ŋa
+I-CTR NEG.NPT-fart-1 s.NEG.PT
+'I didn't fart.'
+khat-a-lo-n
+rum
+go-PT-COM-CTR salt
+ese-n
+'When he went away some time ago, there wasn't
+salt.'
+kon-ne maŋ-kai-ŋa
+I-CTR NEG.NPT-go-1s.NEG.PT
+'I, however, didn't go.'
+k'ai
+today-CTR vegetables
+koŋ-ne
+I-CTR
+k"at-a
+go-PT
+man-tu
+NEG.PT-be
+"Today there are no vegetables.'
+man-tu
+be-NEG.PT
+any
+151
+khat-o:
+go-1s.NPT
+'I'll go.' (The other people remain seated in the house.)
+152
+12.4 The emphatic particle <-na>
+The emphatic particle <-ŋa> (EMP) is the semantic equivalent of the
+particle nai in Nepali. The emphatic particle <-ŋa> has an allophone
+<-> after words ending in a vowel. Added to case endings and
+nouns, the emphatic particle <-na> expresses a meaning comparable
+to that expressed by English 'the very'. The empahtic particle can also
+modify adverbs and verb forms.
+638
+639
+640
+641
+642
+643
+644
+CHAPTER TWELVE
+espa
+hayam-na wa
+yesterday very-EMP rain
+'Yesterday it rained very hard."
+lət-no-ŋ
+am-bu
+oro:
+much
+yours-elder.brother go.out-NEG.NPT-EMP
+'Yours elder brother is not going out.'
+tato-pi-ŋ
+tup-i
+time-LOC-EMP meet-1p.PT
+'We have met again after such a long time."
+p"eri
+pi-yan-ci-n-yo
+again give-1s 2.NPT-d-EMP-Q
+'Shall I give it youd again.'
+ta
+come:PT
+lei-m-ŋa
+chur-e
+plant-INF-EMP be-nis.
+'We all have to plant.'
+khat-a
+nip-po-n
+two-CLF-EMP go-PT
+am-ho:p-a-ŋ
+yours-self-ERG-EMP drink-3P.NPT-NEG.NPT-Q
+'Won't you drink it yourself?'
+duŋŋ-ə-no-yo
+'Those very two went.'
+k'o:lo-?a-ŋ
+all-ERG-EMP
+645
+12.5 The affirmative particle <-ha>
+The affirmative particle <-ha> (AFF) expects an affirmative answer a
+'yes' to a question. The implication therefore is that thes speaker feels
+quite certain of the information conveyed by the sentence. In sentence
+(645), the speaker left home early in the morning promising to come
+back in just a few minutes to prepare my breakfast. Eventually, he
+came back late in the afternoon and asked.
+646
+647
+648
+649
+an
+yous
+saka-ha
+hungry-AFF
+'You are hungry, aren't you?'
+PARTICLES
+sin-ne
+man-tu-kə-ha-i
+firewood-CTR_NEG.PT-be-SUB-AFF-Q
+'There wasn't firewood, was there?'
+am-sin
+SO
+man-tu-ha-i
+yours-firewood also NEG.PT-be-AFF-Q
+'You don't have firewood either, do you?'
+ese
+k'im-pi
+tu:-a-ha-i
+today house-LOC
+be-PT-AFF-Q
+'Today he was at home, wasn't he?'
+12.6 The assertive particle <-ke>
+The assertive particle <-ke> (ASS) adds extra assertion to a verb.
+man-tu-ke
+NEG-be-ASS
+'There isn't.'
+153
+154
+650
+651
+652
+653
+654
+655
+656
+bo:-?a
+cai-ke
+pig-ERG eat-ASS
+CHAPTER TWELVE
+"The pig will eat it.'
+anci
+youd
+nen-ca-ci-wə
+talk-CNT-d-IMP I
+'Youd keep on talking, I am going to sleep.'
+hogorwa cai-am-ke
+later
+kanchi
+pika-wa
+k"ap-ke
+last.born cry-ASS say-IMP
+"Say: "Our last born is weeping!" "
+'We'll eat it later.'
+kon
+eat-1p 3.NPT-ASS
+ma les-o:-no-ke
+no
+an-kə
+yous-TOP
+know-1s.NPT-NEG.NPT-ASS
+'No, I don't know how to do it.'
+12.7 The probability particle <-p"o>
+The particle <-p¹o> (PRB) expresses probability of the utterance.
+ims-or-ke
+sleep-1s.NPT-ASS
+tu-cai-pho
+sit-CNT-PRB
+'You'll probably stay [at home].'
+amni-tel-pi
+okhi-riŋ
+yourP-village-LOC ourpe-language
+les-a-s-pho
+understand-3P.NPT-3ns-PRB
+'Perhaps they understand ourpe language in yourP vil-
+lage'
+657
+658
+659
+660
+661
+662
+663
+wardi
+egg
+ŋi:-am-pho
+cook-1p-3.NPT-PRB
+'Maybe we have to boil an egg."
+khalet-a-pho
+go.away-PT-PRB
+PARTICLES
+'He has probably gone away.'
+samkhe man-tu-pho
+potato NEG.PT-be-PRB
+'Maybe there weren't any potatoes.'
+am-halla k"im-pi
+tu-m
+ca
+is-a-pho-ha
+yours-alone house-LOC sit-INF taste be.bad-PT-PRB-AFF
+'It probably is not nice to stay at home, is it?'
+k"im-to
+la:-s
+house-LOC fetch-SUP
+k"at-p"o
+go-PRB
+'Maybe he is going to fetch it at home.'
+12.8 The reported speech particle <-t¹e>
+The reported speech particle <-t¹e> indicates that the information con-
+veyed by the utterance is second-hand. Unlike Nepali, which marks
+reported speech with the particle <-re>, Kulung does not use the re-
+ported speech particle <-the> when a person recounts his dreams.
+or-bu
+nus
+my-elder.brother soon
+'My elder brother won't come soon.'
+tai-no-the
+m-bu
+155
+come-NEG.NPT-REP
+tu:-the
+his-elder.brother be-REP
+'He has an elder brother, they say.'
+156
+664
+665
+666
+667
+668
+am-boŋ-a
+yours-uncle-ERG
+There is no marker for direct speech. The words of the direct speech
+are just placed before the finite verbum dicendi in the sentence.
+669
+670
+m-pa-the
+his-father-REP
+nətt-ə-the
+like-3P.NPT-REP
+"They say yours uncle likes her.'
+'[He is] his father.'
+koŋ
+I
+CHAPTER TWELVE
+SO
+also
+" "I also didn't enter," he said.'
+ban-o:
+come-1s.NPT
+nət-o:-no
+maŋ-wo-ya
+NEG.PT-enter-1s.NEG.PT
+'I said, "I'll go".
+pika-wa
+like-1s.NPT-NEG.NPT say-IMP
+'Say: "I don't like it!" "
+In Kulung, there is no marker for indirect speech.
+koŋ t'oŋ-o:
+I
+pik-o
+say-1s.PT
+"
+man-t'o:
+min-o:
+NEG.PT-come.up think-1s.NPT
+'I don't think that he came.'
+0!-ma
+come.up-1s.NPT my-mother
+'Tell my mother that I am coming!"
+pik-a
+say-PT
+ir-wa
+teach-IMP
+671
+672
+673
+674
+12.9 The emotion particle <-i>
+The particle <-i> (EMO) imbues a word or sentence with additional
+emotion. The emotions that can be found with this particle may vary
+from anger, e.g. (672), or despair, e.g. (673), (674), to surprise, e.g.
+(675), (676). When, as in example (672), the daughter has been look-
+ing for something but could not find it, the mother angrily shouts.
+675
+hups-e
+fall-nls
+676
+min-o:
+think-1s.NPT
+'I think that it will fall.'
+k¹im-pa-i
+house-LOC-EMO
+'It is in the house!'
+PARTICLES
+yi:-m
+grind-INF finish-1s-3.PT-IRR-SUB-EMO
+'Oh, I should have finished grinding!'
+yat-u-wa-kə-i
+khalet-a-i
+go.away-PT-EMO
+'Oh, he has gone away!'
+khik-a-i
+i-boŋ
+so-i
+ourP¹-uncle come.down-PT also-EMO
+'Ourpi uncle has also come!'
+yur-a
+be.bitter-PT-EMO
+'It is bitter!'
+157
+1.1 Conversation 1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+samk'e
+potato
+ma
+no
+cə-te
+e
+babu
+eat-IMP hey eldest.son
+'Come on, eat some potatoes, my son!'
+'No!'
+APPENDIX ONE
+SAMPLE TEXTS
+uro-i
+cə-te
+why-Q eat-IMP
+'Why [not], eat!'
+k'oro:-ka
+if-TOP
+ma o-ca-ma-no
+no my-eat-INF-NEG.NPT
+'No, I don't want to eat.'
+koŋ-a
+I-ERG
+khobui
+ca-te
+popped.maize eat-IMP
+'If that's so, eat popped maize."
+khobui
+SO
+popped.maize also eat-1s.NPT-NEG.NPT
+'I won't eat popped maize either.'
+coi-o-no

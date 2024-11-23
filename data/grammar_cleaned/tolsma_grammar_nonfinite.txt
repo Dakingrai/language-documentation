@@ -1,0 +1,30 @@
+NON-FINITE VERBAL CONSTRUCTIONS
+
+The perfect gerund
+The suffix -na of the perfect gerund (PFG) is used to express an event that is prior to the main clause event. The suffix can be added after finite verbs, imperatives and infinitives.
+
+The present gerund
+The suffix -to is added to a verb stem yielding a present gerund. A present gerund (PRG) indicates that the situation denoted by the verb is contemporaneous with the situation denoted by the finite verb of the main clause.
+The negated form of the present gerund is formed by simultaneously adding the suffix -mo to the verb stem and adding the the negation prefix man- before the verb stem.
+
+The active participle
+The active participle -pa (AP) is formed by attaching the morpheme to the infinitive stem. The active participle has a regular allomorph -kpa with verbs belonging to the conjugations vi-4 and vt-3, e.g. pik-pa say-AP from the verb pi:ma ‘to say’ or ŋok-pa ask-AP ‘beggar' from the verb ŋo:ma vi-4 [1: ŋok- 2: ŋo:- 3: ŋok-] 'to ask'. The allomorph -p of the active participle is found in non-final position. The active participle is negated by the negative preterite prefix man-.
+Furthermore, with the aid of the active participle adjectives can be derived from qualitative verbs, e.g. lempa 'sweet' from the verb lemma 'to be sweet', harpa 'dry' from the verb harma 'to be dry'. An active participle can be found with case endings or in the non-singular number. This use is found predominantly in embedded adnominal clauses.
+An embedded adnominal clause can be a relative clause as well.
+
+The passive participle
+The passive participle (PP) is made by adding the suffix -mpa to the infinitival stem. An allomorph -pa is found with infinitival stems already ending in -m. The passive participle is used to make passive forms from transitive and intransitive verbs. These may be used adnominally as adjectives, or behave like nouns and therefore can be found with case endings or in the non-singular number. The noun tʰompa 'wall', for example, consists of the verbal stem tʰo- from the verb tʰoma vt-8 'to bring up, build' and the passive participle suffix -mpa.
+
+The infinitive
+The infinitive is formed by adding the infinitive suffix -ma to the infinitival verb stem. The allomorphic distribution of the infinitive is as follows. An allomorph -m occurs in sentence or clause non-final position and the zero allomorph Ø is found after infinitival stems ending in the nasal -m, e.g. o:-im lǝi-e 'I am sleepy. (lit. 'My sleeping feels.').
+Negation of the infinitive is regularly made by prefixing the negative preterite prefix man- or one of its allomorphs to the verb stem, e.g. kʰo:-ma 'to look at', maŋ-kʰo:-ma 'not to look at'.
+When not governed by a finite form, the infinitive is used to express 'to want' and 'to have to'. The subject of the verb appears as a personal possessive prefix.
+In this use, negation is expressed by adding the negative non-preterite suffix -no immediately after the infinitive suffix.
+Secondly, the infinitive is found as an object of the verbs nǝima ‘to like', mi:ma 'to think about', maima 'to forget' and yaima ‘to finish'.
+Often the infinitive is used as a nomen actionis. The infinitive of ne:ma 'to speak' may have the meaning '[way of] speaking', Nepali bolī. Likewise the term for 'love' is mi:ma ‘love', the infinitive of 'to think'. The infinitive may further serve as a circumlocution for objects only recently introduced in Kulung culture for which no native word is available.
+
+The supine
+The supine -si may be added to the infinitive stem of verbs expressing motion such as kʰaima 'to go', baima 'to come', po:ma 'to wake up', giving the meaning 'in order to'. The morpheme -si drops its vowel in non-final position.
+
+The impersonal first plural inclusive
+The use of the first person inclusive forms in impersonal verbal constructions is a characteristic of probably all Kiranti languages.
